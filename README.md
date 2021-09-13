@@ -18,3 +18,5 @@ No semestre 2:
 - “Computação e Sociedade” (Ciência da Computação e Eng. de Computação)
 
 A pasta `docs` e suas subpastas contém um site estático para as mostras.
+
+O site fica disponível em <https://computacao-ufes.github.io/mostra/>

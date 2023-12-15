@@ -16,6 +16,7 @@ No semestre 2:
 
 - “Projeto Integrado de Computação I” (Eng. de Computação e Eng. Elétrica)
 - “Computação e Sociedade” (Ciência da Computação e Eng. de Computação)
+- “Projeto Integrado II” (Ciência da Computação)
 
 A pasta `docs` e suas subpastas contém um site estático para as mostras.
 

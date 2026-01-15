@@ -1,0 +1,90 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# COMPSOC 2024/2
+##############################################################
+projetos:
+  - nome: "TuxLogic"
+    autores: "Alan Teixeira da Costa, Áurea Santos de Oliveira, Miguel Gewehr de Oliveira, Miguel Vieira Machado Pim e Pedro Henrique Bravim Duarte"
+    descricao: "TuxLogic: um jogo que leva o ensino da lógica de uma maneira mais atrativa."
+    iframe: "https://www.youtube.com/embed/2phYY3OLgTE"
+    github:
+
+  - nome: "Sony Care"
+    autores: "Gabriel Zuany Duarte Vargas, Lorenzo Rizzi Fiorot, Lucas Ferreira Salatiel, Milena Curtinhas Santos e Rafael Ribeiro Carvalho"
+    descricao: "Sony Care: sistema integrado de bem-estar para idosos."
+    iframe: "https://www.youtube.com/embed/TxMwZ4_qg78"
+    github:
+
+  - nome: "LAURA"
+    autores: "Arthur Estefanato Lopes, Jheam Storch Ross e Ricardo Magalhaes Santos Filho"
+    descricao: "LAURA: um jogo Nintendo."
+    iframe: "https://www.youtube.com/embed/"
+    github:
+
+  - nome: "Google Fabric"
+    autores: "Henrique Caetano Santos, Karla Sancio e Lara Tagarro Bernardes"
+    descricao: "Google Fabric: uma plataforma para facilitar o desenvolvimento de projetos que lidem com IA, blockchain e IoT."
+    iframe: "https://www.youtube.com/embed/WJGMJxjxfxw"
+    github:
+
+  - nome: "Green Delivery Network"
+    autores: "Elder Ribeiro Storck, João Victor Morais Coimbra de Brito e José Vitor Rodrigues Zorzal"
+    descricao: "Green Delivery Network: entregas rápidas, responsáveis e sustentáveis para um futuro mais verde."
+    iframe: "https://www.youtube.com/embed/JO9VclTHVig"
+    github:
+
+  - nome: "Nintendo Family Hub"
+    autores: "Vitor Facco Calmon"
+    descricao: "Nintendo Family Hub: iniciativa para fortalecer os laços familiares através do ambiente de jogos Nintendo, com controle parental, eventos interativos para famílias e incentivos financeiros, contribuindo para uma mudança cultural no Japão."
+    iframe: "https://www.youtube.com/embed/MCRqssoLB60"
+    github:
+
+  - nome: "NuEduca"
+    autores: "Luiza Bolonha Vieira Onofre e Héber Lima Silva"
+    descricao: "NuEduca: plataforma de educação financeira que busca capacitar indivíduos a tomarem decisões mais conscientes, incentivando o uso responsável dos serviços financeiros oferecidos pelo Nubank e contribuindo para a redução de desigualdades."
+    iframe: "https://www.youtube.com/embed/oRMHAH8naNM"
+    github:
+
+  - nome: "Mockup Meta"
+    autores: "Artur Mendes de Morais e Eduardo Henrique Junior dos Santos"
+    descricao: "Projeto que propõe o uso de dispositivos da Meta, como Meta Quest 3 e Oculus, para construir ambientes de estudo em realidade virtual e aumentada, possibilitando diferentes didáticas e arranjos de aprendizagem para um ensino mais interativo."
+    iframe: "https://www.youtube.com/embed/y4i2-tw7XMM"
+    github:
+
+  - nome: "Educação Financeira para Todos"
+    autores: "Bernardo Seixas, Hiuri Liberato, Kaio Nascimento e Ricardo Modenese"
+    descricao: "Projeto voltado a melhorar a educação financeira dos usuários do PicPay por meio de um sistema de aprendizado individualizado dentro da plataforma, visando reduzir o endividamento pessoal e promover inclusão financeira, alinhado ao ODS 10 da ONU."
+    iframe: "https://drive.google.com/file/d/1BFVdp0qKhSbFECvE-zL1gaVclXM5DwSS/view"
+    github:
+
+  - nome: "Mockup Apple"
+    autores: "Arthur Maciel, Gabriel Nascimento e Misael Florenciano"
+    descricao: "Projeto que utiliza tecnologia blockchain e sensores IoT para garantir transparência na cadeia de suprimentos da Apple, rastreando materiais críticos como o cobalto, bloqueando insumos de áreas com violações de direitos humanos e promovendo ética e sustentabilidade."
+    iframe: "https://www.youtube.com/embed/8K-hZ2curoM"
+    github:
+
+  - nome: "MedScreen AI"
+    autores: "João Paulo Moura Clevelares, Kevin Carvalho de Jesus, Milena da Silva Mantovanelli e Otávio Fava Souza de Assis"
+    descricao: "MedScreen AI: programa de triagem hospitalar em que pacientes interagem com uma IA (Gemini/Google) na recepção; o resultado da triagem é enviado ao médico responsável, agilizando o atendimento e reduzindo filas de espera."
+    iframe: "https://www.youtube.com/embed/w-qoog-J6eo"
+    github:
+
+  - nome: "Microsoft Learn"
+    autores: "Gabriella Sirtoli Borges, Johann Jakob Schmitz Bastos, Matheus Ribeiro e Murilo Salvador Dalmonech"
+    descricao: "Projeto de plataforma Microsoft Learn que oferece cursos online gratuitos e oportunidades de intercâmbio para alunos em situação de vulnerabilidade social, proporcionando experiência imersiva na sede da Microsoft."
+    iframe: "https://www.youtube.com/embed/lkKxTDHg63c"
+    github:
+

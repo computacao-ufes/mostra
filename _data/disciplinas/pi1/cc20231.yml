@@ -1,0 +1,107 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# PI 1 CC 2023/1
+##############################################################
+projetos:
+  - nome: "ReadMore"
+    autores: "Gabriel Braga Ladislau e Marcus Louriçal Neves Filho"
+    descricao: "Aplicativo que incentiva a leitura por meio da organização de livros em uma estante digital, permitindo controle de progresso, marcação de páginas e gerenciamento de livros lidos, em leitura e desejados."
+    iframe: "https://www.youtube.com/embed/l8qnd-U-cuQ"
+    github: "https://github.com/gbladislau/ProjetoIntegrado-1"
+
+  - nome: "Mercado Moderno"
+    autores: "Daniel Siqueira de Oliveira e Lucas Gabriel de Oliveira Costa"
+    descricao: "Aplicação web de mercado online que permite configurar uma loja virtual, cadastrar produtos e realizar compras pela internet."
+    iframe: "https://www.youtube.com/embed/WuztbieqXOo"
+    github: "https://github.com/LucasGaabriel/Mercado-Moderno"
+
+  - nome: "Market Price Scan"
+    autores: "Eduarda Magesk e Letícia Rodrigues"
+    descricao: "Aplicativo que auxilia usuários a organizar compras e economizar dinheiro por meio de listas personalizadas, escaneamento de notas fiscais, compartilhamento e comparação de preços entre supermercados."
+    iframe: "https://www.youtube.com/embed/VCkqtfq85WM"
+    github: "https://github.com/e-magesk/Market-Price-Scan"
+
+  - nome: "Risk of Survivors"
+    autores: "Antonio Lucio Braga Secchin, Bruno Lopes Altoé e Vitor Facco Calmon"
+    descricao: "Jogo 2D do gênero platformer com elementos de roguelike, onde o jogador enfrenta hordas de inimigos, evolui com o tempo e precisa sobreviver até escapar do planeta."
+    iframe: "https://www.youtube.com/embed/hyRgCKlzKcU"
+    github: "https://github.com/Antonio-Secchin/Risk-of-Survivors"
+
+  - nome: "TypeFaster"
+    autores: "Carlos Battisti Filho e Gustavo Fim Beloti"
+    descricao: "Jogo e teste de digitação focado em programação, permitindo praticar velocidade e precisão com trechos de código gerados dinamicamente."
+    iframe: "https://www.youtube.com/embed/jkGZ2tF1HM4"
+    github: "https://github.com/gustavofim/typefaster/tree/development"
+
+  - nome: "UniVerse"
+    autores: "Rhuan Garcia de Assis Teixeira"
+    descricao: "Rede social baseada em texto inspirada em plataformas como Twitter, permitindo publicações, curtidas, comentários e notificações, desenvolvida com Java, Spring Boot, React e MongoDB."
+    iframe: "https://www.youtube.com/embed/SmSSesWtT_c"
+    github: "https://github.com/gnizamaaa/Projeto-intregrado-social-uniVerse"
+
+  - nome: "Muraliz-E"
+    autores: "Matheus Santos de Moura"
+    descricao: "Aplicativo que facilita a comunicação entre estudantes sobre disciplinas, permitindo publicar solicitações em um mural e notificar colegas cadastrados na matéria."
+    iframe: "https://www.youtube.com/embed/5au5s2gUcOI"
+    github: "https://github.com/Mathemou/Muraliz-E"
+
+  - nome: "MoneyMinder"
+    autores: "Lucas Giovani de Paula Salgado"
+    descricao: "Sistema de assistente financeiro que permite registrar pagamentos e parcelas, visualizar dados em calendário e acompanhar métricas financeiras em um dashboard."
+    iframe: "https://www.youtube.com/embed/gwwniy_zEV0"
+    github: "https://github.com/LucaSalgado/MoneyMinder"
+
+  - nome: "BoomBlitz"
+    autores: "Lucas Pereira Taborda e Renzo Henrique Guzzo Leão"
+    descricao: "Jogo de navegador inspirado na franquia Bomberman, onde o jogador deve escapar de inimigos, encontrar chaves e sobreviver em cenários cheios de monstros."
+    iframe: "https://www.youtube.com/embed/1f6aK1aWP1M"
+    github: "https://github.com/Renzo-Henrique/BoomBlitz"
+
+  - nome: "Let's Cook!"
+    autores: "Guilherme Silveira Gomes Brotto e Nilo Garcia Monteiro"
+    descricao: "Aplicativo mobile que permite buscar receitas com base em ingredientes, nutrientes e dietas específicas, auxiliando usuários a cozinhar com o que têm disponível."
+    iframe: "https://www.youtube.com/embed/cBer-8mHcTU"
+    github: "https://github.com/hulloCode/lets-cook"
+
+  - nome: "Eugor"
+    autores: "Pedro Igor Gomes de Morais e Matheus Saick de Martin"
+    descricao: "Jogo rogue-like desenvolvido em Python com geração procedural de mapas, no qual o jogador enfrenta fantasmas e deve sobreviver avançando por masmorras."
+    iframe: "https://www.youtube.com/embed/GBG4gNZQkwc"
+    github: "https://github.com/Pedro2um/Projeto-Integrado"
+
+  - nome: "NutriPlanner"
+    autores: "Marlon Moratti do Amaral e Vinicius Nunes Pereira"
+    descricao: "Sistema que auxilia no planejamento de dietas por meio de metas diárias de macronutrientes, registro de alimentos, receitas e acompanhamento alimentar."
+    iframe: "https://www.youtube.com/embed/IJl-yyr-6Xo"
+    github: "https://github.com/DravenPie/NutriPlanner"
+
+  - nome: "Fang and Friends"
+    autores: "João Ubaldo e Vinícius Risso"
+    descricao: "Jogo multiplayer inspirado no clássico Snake, onde os jogadores devem evitar paredes, o próprio corpo e o adversário."
+    iframe: "https://www.youtube.com/embed/PPwlauy4wo0"
+    github: "https://github.com/joaoreis/multiplayer-snake-game"
+
+  - nome: "Shared Todo"
+    autores: "Iago de Sousa e Talytha Lopes"
+    descricao: "Sistema de lista de tarefas compartilhadas entre usuários por meio de grupos, com aplicação mobile em React Native e backend em Node, Express e PostgreSQL."
+    iframe: "https://www.youtube.com/embed/TwawhdsrOkk"
+    github: "https://github.com/IagoSC/shared_to-do"
+
+  - nome: "Pixel Fighters"
+    autores: "Ângelo Mendonça e Lorenzo Zimerer"
+    descricao: "Jogo desenvolvido em Unity3D utilizando C#, inspirado em jogos de luta e roguelike, com estética pixel-art e foco em aprendizado de desenvolvimento de jogos."
+    iframe: "https://www.youtube.com/embed/kNAZicyobNY"
+    github: "https://github.com/Lorenzo1459/PixelFighters"

@@ -1,0 +1,90 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# PIC 2 EC 2024/1
+##############################################################
+projetos:
+  - nome: "LaserCraft"
+    autores: "Afonso Salvador De Magalhaes, Henrique Caetano Santos, Joao Paulo Moura Clevelares e Kevin Carvalho De Jesus"
+    descricao: "CNC. Laser Engraver para impressão de imagens em madeira e papel."
+    iframe: "https://www.youtube.com/embed/_3zcd5-jq9o"
+    github: "https://github.com/KPMGE/LaserCraft"
+
+  - nome: "Rastreador Solar"
+    autores: "André Altoé Santiago, Yuri Aikau De Castro Reis Sanchez, Luiz Phillyp Sabadini Bazoni e Otávio Fava Souza De Assis"
+    descricao: "Rastreador de luz solar, adaptado em painéis solares móveis. Parceria com a Fortlev Solar."
+    iframe: "https://www.youtube.com/embed/r6QX89zHtDE"
+    github: "https://github.com/faakit/CSunPosition"
+
+  - nome: "Sensor Biomecânico com Auxilio de Realidade Virtual"
+    autores: "Caio Alves Fiorotti, Matheus Meier Schreiber e Vinicius Cole De Amorim"
+    descricao: "Sensor biomecânico com apoio de realidade virtual para auxílio na reabilitação de pacientes com dificuldades motoras."
+    iframe: "https://www.youtube.com/embed/sUCQI0GIhsI"
+    github: "https://github.com/fiorotticaio/Virtual-Reality-Controlled-by-Myoelectric-Signals"
+
+  - nome: "GuiaGV - Acessibilidade nos Ônibus da Grande Vitória"
+    autores: "Lara Tagarro Bernardes, Milla Pereira Miguel De Souza, Thamya Vieira Hashimoto Donadia e Victoria Louzada Poltronieri"
+    descricao: "GuiaGV - solução para aumentar a autonomia e acessibilidade de pessoas com deficiência visual nos pontos de ônibus da Grande Vitória. Parceria com a Geocontrol."
+    iframe: "https://www.youtube.com/embed/wepXvTh-DSQ"
+    github: "https://github.com/MillaPereira/guiaGV_v2"
+
+  - nome: "Sistema de Automação Logística com Visão Computacional"
+    autores: "Bruno Santos Fernandes, Gabriel Gatti Da Silva e Thiago Felippe Neitzke Lahass"
+    descricao: "Sistema de automação logística com visão computacional."
+    iframe: "https://www.youtube.com/embed/2I4vipVc1wk"
+    github: "https://github.com/ThiagoLahass/Crane-automated-through-computer-vision"
+
+  - nome: "FlexiLights Painel Modular de Leds"
+    autores: "Carlos Daniel Albertino Vieira, Hiuri Carrico Liberato, Eduardo Henrique Junior Dos Santos e Lucca Passos Covre"
+    descricao: "Painel modular de LEDs."
+    iframe: "https://www.youtube.com/embed/PCAJwxe6IyY"
+    github: "https://github.com/paisdegales/FlexiLights"
+
+  - nome: "Laser Engraver"
+    autores: "Afonso Salvador De Magalhaes, Henrique Caetano Santos, Joao Paulo Moura Clevelares e Kevin Carvalho De Jesus"
+    descricao: "CNC. Laser Engraver para impressão de imagens em madeira e papel."
+    iframe: "https://www.youtube.com/embed/ZIUadHgfnP4"
+    github: "https://github.com/"
+
+  - nome: "Rastreador Solar"
+    autores: "André Altoé Santiago, Yuri Aikau De Castro Reis Sanchez, Luiz Phillyp Sabadini Bazoni e Otávio Fava Souza De Assis"
+    descricao: "Rastreador de luz solar, adaptado em painéis solares móveis. Parceria com a Fortlev."
+    iframe: "https://www.youtube.com/embed/C2rExa9ovnY"
+    github: "https://github.com/"
+
+  - nome: "Sensor Biomecânico com Auxilio de Realidade Virtual"
+    autores: "Caio Alves Fiorotti, Matheus Meier Schreiber e Vinicius Cole De Amorim"
+    descricao: "Sensor biomecânico com apoio de realidade virtual para auxílio na reabilitação de pacientes com dificuldades motoras."
+    iframe: "https://www.youtube.com/embed/uEduPgnbO7c"
+    github: "https://github.com/"
+
+  - nome: "GuiaGV - Acessibilidade nos Ônibus da Grande Vitória"
+    autores: "Lara Tagarro Bernardes, Milla Pereira Miguel De Souza, Thamya Vieira Hashimoto Donadia e Victoria Louzada Poltronieri"
+    descricao: "GuiaGV - solução para aumentar a autonomia e acessibilidade de pessoas com deficiência visual nos pontos de ônibus da Grande Vitória. Parceria com a Geocontrol."
+    iframe: "https://www.youtube.com/embed/QNl-yqSan2E"
+    github: "https://github.com/"
+
+  - nome: "Sistema de Automação Logística com Visão Computacional"
+    autores: "Bruno Santos Fernandes, Gabriel Gatti Da Silva e Thiago Felippe Neitzke Lahass"
+    descricao: "Sistema de automação logística com visão computacional."
+    iframe: "https://www.youtube.com/embed/iw18S4EYCus"
+    github:
+
+  - nome: "Painel Modular de Leds"
+    autores: "Carlos Daniel Albertino Vieira, Hiuri Carrico Liberato, Eduardo Henrique Junior Dos Santos e Lucca Passos Covre"
+    descricao: "Painel modular de LEDs."
+    iframe: "https://www.youtube.com/embed/3iYnTyeUVCk"
+    github:
+

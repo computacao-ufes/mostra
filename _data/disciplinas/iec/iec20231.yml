@@ -1,0 +1,112 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# IEC 2023/1
+##############################################################
+projetos:
+  - nome: "Agro Access"
+    grupo: 1
+    autores: "Arthur Prado (EngComp), Fabrício Sant'Ana (Eng. Elétrica), Fellipe Spagnol (Eng. Elétrica), Lucas Folador (Eng. Elétrica)"
+    iframe: "https://www.youtube.com/embed/j7VEJWLIBg8"
+
+  - nome: "SAM: Sistema de Auxílio ao Motorista"
+    grupo: 2
+    autores: "Gabryel Campos (Eng. Elétrica), Bruna Chaider (Eng. Elétrica), Hevelyn Milagres (EngComp), Randria Gomes (EngComp)"
+    iframe: "https://www.youtube.com/embed/4Q9BQu-ulXk?si=8VJMZBhwxGp9GhWG"  
+
+  - nome: "Safe Eye"
+    grupo: 3
+    autores: "Marina Noventa, Filipe de Barros, Felipe Bruno, Vitor Rodrigues (Eng. Elétrica)"
+    iframe: "https://www.youtube.com/embed/PH82bmkkR8o?si=M3Ny6qrJztx13Jkv"    
+
+  - nome: "EcoSolutions"
+    grupo: 4
+    autores: "Gabriel Altoé, Gabriel Massini (Eng. Elétrica), Caio Nakamura (EngComp), Karen Perdigão (Eng. Elétrica)"
+    iframe: "https://www.youtube.com/embed/Bc_ekV8i-j4?si=IrRsK0HTM_SJ5YYb"    
+
+  - nome: "Projeto ReEarth"
+    grupo: 5
+    autores: "Sérgio Luiz, Weslley Neves (Eng. Elétrica), Pedro Sérgio, Pedro Esteves (EngComp)"
+    iframe: "https://www.youtube.com/embed/aHHsHCemZFw?si=1WZowzm5HLSgWiOf"
+
+  - nome: "Planta Solar"
+    grupo: 6
+    autores: "Carlos Eduardo, Lara Manzoli (Eng. Elétrica), Pedro Muniz (EngComp)"
+    iframe: "https://www.youtube.com/embed/5wQE8QRgkMU?si=qhI7QGf3w7yJsYFR"    
+
+  - nome: "EcoMaré"
+    grupo: 7
+    autores: "Natan Monfardini (Eng. Elétrica), André Penedo (EngComp), João Figueredo, Gabriel Leone (Eng. Elétrica)"
+    iframe: "https://www.youtube.com/embed/nMhH2vs_uKY?si=zCDCHsKoWEwKOo9J"    
+
+  - nome: "DiagnostiCar"
+    grupo: 8
+    autores: "Heitor Pinheiro (EngComp), Débora Gonzaga, João Sandrini, Pedro Sandrini (Eng. Elétrica)"
+    iframe: "https://www.youtube.com/embed/xpc2InMZMpc?si=Oiod-XZXqkEjuHDv"    
+
+  - nome: "Hortinha"
+    grupo: 9
+    autores: "Ana Carolina Wlhlig (EngComp), Eduardo de Abreu, Miquelly Lucas (Eng. Elétrica), Vitor Ferreira (EngComp)"
+    iframe: "https://www.youtube.com/embed/BiH_8nbldOQ?si=ZxsSpOS4qcPj1MAO"    
+
+  - nome: "Senior Guardian"
+    grupo: 10
+    autores: "Eduardo Saleme, Luiz Carvalho, Murilo Nascimento (EngComp), Luan Marley (Eng. Elétrica)"
+    iframe: "https://www.youtube.com/embed/CGMF2N3PPJU?si=-Dxq-eDNL6jVf7a1"    
+
+  - nome: "E-Volve"
+    grupo: 11
+    autores: "Eduarda Tonini, Luiz Fellipe (EngComp), Ellis Tomasi, Larissa Almeida (Eng. Elétrica)"
+    iframe: "https://www.youtube.com/embed/fSkMp3JydjU?si=3TleONA1rEttJxlv"    
+
+  - nome: "Drownsense"
+    grupo: 12
+    autores: "Guilherme Amorim, João Paulo Salamon, João Vítor Araújo (EngComp), Gustavo Sardinha (Eng. Elétrica)"
+    iframe: "https://www.youtube.com/embed/m4yVt59Crk0?si=yWMwrZonaoRjo0Ue"    
+
+  - nome: "Green Guardian"
+    grupo: 13
+    autores: "Matheus Baessa, Vitória de Melo (EngComp), Mateus Souza (Eng. Elétrica)"
+    iframe: "https://www.youtube.com/embed/MpleNAJRJUc?si=XDWoCrd0NzUezIEK"    
+
+  - nome: "Origami Elétrico"
+    grupo: 14
+    autores: "Eduardo Constantino, Andre Simão (Eng. Elétrica), Rafaela Capovilla, Rafaela Sousa (EngComp)"
+    iframe: "https://www.youtube.com/embed/17g1pO8ire8?si=_7JTB-4pQuckUZFE"    
+
+  - nome: "FarmTech Insights"
+    grupo: 15
+    autores: "Álvaro Antunes, Guilherme Louzada (EngComp), Julio Resende, Kauã Benedito (Eng. Elétrica)"
+    iframe: "https://www.youtube.com/embed/M_pbGjKzWCs?si=SKNJEFnAopoFdTXH"    
+
+  - nome: "Pet Bowl"
+    grupo: 16
+    autores: "Diana Mello, Elisa Müller, Artur Noack (EngComp), Guilherme Willemen (Eng. Elétrica)"
+    iframe: "https://www.youtube.com/embed/rGUYRMV8UH0?si=4g8FXzxcgAK5o_RN"    
+
+  - nome: "AquaChecking"
+    grupo: 17
+    autores: "Cauã Ramos, Eduardo Oliveira, Gustavo Dettogni (EngComp), Lucas Brandão (Eng. Elétrica)"
+    iframe: "https://www.youtube.com/embed/z8teLEDxTR8?si=J4yXiOOqi36ueYt_"    
+
+  - nome: "SentyTech"
+    grupo: 18
+    autores: "Breno Silva, Hydrech Mbouaka (EngComp), Gloire Batchi, Pedro Nascimento (Eng. Elétrica)"
+    iframe: "https://www.youtube.com/embed/xfhUW2f9j_U?si=8aQL8sHNaJXHOYdR"    
+
+  - nome: "Atmowater"
+    grupo: 19
+    autores: "Rafael Altoé (EngComp), Daudson de Andrade, Pedro Henrique Zatta (Eng. Elétrica)"
+    iframe: "https://www.youtube.com/embed/uLYjhW61ABE?si=Za7s5cq3yH9QbjfI"  

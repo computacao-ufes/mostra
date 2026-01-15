@@ -1,0 +1,130 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# IEC 2024/1
+##############################################################
+projetos:
+  - nome: "Menu Urbano"
+    autores: "Clarice Curtinhas Santos, Yasmin Suzano Marcillino, João Arthur Andreatta Subtil e Glenda Ribeiro Izidoro"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/I2r8V5xpXZs"
+    github:
+
+  - nome: "Appoggio"
+    autores: "Mateus Silva Lizardo, Heron Garcia Lodi e Silva, Arthur Machado Silva e Henrique Bissoli Bisi"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/aWjex3iX9ws"
+    github:
+
+  - nome: "Blood Tech"
+    autores: "Rafael Marques Dos Santos, Artur Freire Camargo, Lucas Bastos Zambi Lima e Leonardo Vitório Rezende"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/cut0sCtJIbs"
+    github:
+
+  - nome: "Horta Troca"
+    autores: "Vitor Dimas T. C. Barbara, Fernanda B. P. Machado, Mariana Pignaton e Nghala Cufade Na Guad"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/ACiHekhhob0"
+    github:
+
+  - nome: "TrueID"
+    autores: "Leonardo Cheregati De Oliveira Roxo, Matteo Chiste Cavalho Trento, Josmar Luiz Dias Junior e Hitalo Dos Santos Ascassibas"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/3cjS1hETSIA"
+    github:
+
+  - nome: "DasXO"
+    autores: "Joao Vitor Toneto Machado, Guido Agnezi Deniz, Daniel Silva Braz e Ruan Sena Freire"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/fpX8KBzNAiU"
+    github:
+
+  - nome: "Eldertech"
+    autores: "Danillo Messa Kubit, Eduardo José Machado Da Silva, Davi Santos De Araujo Boni e Matheus Gon Zortea"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/Qa1lL-L-gSo"
+    github:
+
+  - nome: "Hydroflow"
+    autores: "Alexandre Fardin, Gabriel Gomes, Leo Santos e Flavio Coelho"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/7dxWcuNaG9E"
+    github:
+
+  - nome: "Lockcycle"
+    autores: "Daniel Guedes, Josiah Owusu, Matheus Castelo e Alvaro Nogueira"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/yXeyqloBZ5E"
+    github:
+
+  - nome: "AgroVision"
+    autores: "Bruno Trevizani Ribeiro, Lilânio Costa Vieira, Nickolas Monteiro Teixeira e Kenedy Nerboni Oliveira"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/7tAzM3xNhvQ"
+    github:
+
+  - nome: "Open Vision"
+    autores: "Enrico Massariol Caliari, Gabriel Falquetto Dalfior, Natan Barcellos Castro e Silvio Flor Dos Santos Junior"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/LN7zHjt-gPA"
+    github:
+
+  - nome: "SafeDrive AI"
+    autores: "Aline Freitas Endlich, Maria Julia Rigotti, Ana Luisa Casotti De Andrade e Letícia Storch Alves"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/Vb0n7Fngkl4"
+    github:
+
+  - nome: "Auto-ear"
+    autores: "Daniel Dayrell Cruz Soares, Miguel Martins Boechat, Lorenzo Schimith Bergher Surlo e Dante Ismael Apaza Laura"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/dcX4jjYBnAM"
+    github:
+
+  - nome: "PYGG Turismo"
+    autores: "Gabriela Guasti P. De M. E Souza, Gislaynne Fonseca Andrade, Yan Castello Simmer e Pedro Henrique Cabral Galdino"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/7gdg7XRwFnc"
+    github:
+
+  - nome: "Map"
+    autores: "Matheus Alves Furieri, Caio Da Silva Aleixo, João Vitor Coimbra Silva e Thiago Messias Martinelli"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/Eu5yJ4zzFyA"
+    github:
+
+  - nome: "Collab"
+    autores: "Nicoly Lopes De Oliveira, Mariana Corvino Battisti, Matheus Borges Ferreira e Thamirys Venancio Mateus Conceição"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/dDoegKYeQIU"
+    github:
+
+  - nome: "Psyconect"
+    autores: "Pedro Guisso Magdnier, Wadson Alcides, João Pedro Rangel Astholfi e João Pedro Da Silva Rezende"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/GFqGbriAgHE"
+    github:
+
+  - nome: "Stuudi"
+    autores: "Djalma Zottele Salvador, Arthur Gomes Siqueira, Bruno Ayres Lopes e Miguel Catelan Magalhaes"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/DpGj_BMbzsQ"
+    github:
+
+  - nome: "RECICLE.ME"
+    autores: "Davi Madeira, Daniel Virgílio, Guilherme Quintino e Henrique Sandoval"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/pYg3GYzEVEo"

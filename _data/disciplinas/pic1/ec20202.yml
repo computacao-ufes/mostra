@@ -1,0 +1,71 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# PIC 1 EC 2020/2
+##############################################################
+projetos:
+  - nome: "Teclado Didático"
+    autores: "Arthur Jacintho, Carlos Daniel Vieira e Daniel Sattler"
+    descricao: "Teclado simples com 12 teclas, 7 notas e 5 acidentes, criado para ensinar noções básicas de música e permitir a execução de melodias simples."
+    iframe: "https://www.youtube.com/embed/l5gIYVnVHKg"
+    github: "https://github.com/paisdegales/PIC-2020-2"
+
+  - nome: "Alimentador de Pet"
+    autores: "Lucas Nogueira, Lucas Valentim e Rayane Nascimento"
+    descricao: "Estrutura automatizada para armazenar e liberar ração de pets apenas nos horários definidos pelo usuário."
+    iframe: "https://www.youtube.com/embed/Qsv2C4ZKf0g"
+    github: "https://github.com/LucasAbaurreNogueira/Projeto_PIC_Alimentador_de_PET"
+
+  - nome: "Relé WiFi"
+    autores: "José Zorzal, Lara Tagarro e Milla Pereira"
+    descricao: "Módulo relé controlado via Wi-Fi com NodeMCU e aplicativo mobile, demonstrado no acionamento remoto de uma lâmpada."
+    iframe: "https://www.youtube.com/embed/H7E2zbMrfUE"
+    github: "https://github.com/Laratb1/Rele_Wifi"
+
+  - nome: "Robô que desvia"
+    autores: "Hugo Otoch, João Gabriel de Barros e Estevão Nunes"
+    descricao: "Robô autônomo que se desloca para frente e desvia automaticamente de obstáculos ao detectá-los."
+    iframe: "https://www.youtube.com/embed/ugQqfWjiTq0"
+    github:
+
+  - nome: "Robô auto-equilíbrio"
+    autores: "Eduardo Junior, Mateus Sartorio e Yuri Reis"
+    descricao: "Robô baseado em Arduino UNO com capacidade de manter e recuperar o equilíbrio de forma autônoma."
+    iframe: "https://www.youtube.com/embed/oqzTlfvSy7M"
+    github: "https://github.com/EdHenrique37/RobozinEquilibrio"
+
+  - nome: "GENIUS"
+    autores: "Arthur Purcino, Klarine Silva e Pedro Sena Lima"
+    descricao: "Implementação do jogo Genius, no qual o jogador deve memorizar e repetir corretamente sequências de LEDs."
+    iframe: "https://www.youtube.com/embed/UG1DTPfGkKA"
+    github: "https://github.com/phslima/PIC_PROJETO"
+
+  - nome: "Casa Automatizada"
+    autores: "Kevin Jesus, Alvaro Alves e Bruno Silva"
+    descricao: "Miniatura de casa automatizada com controle de iluminação, alerta de chuva, sistema de segurança e garagem automática."
+    iframe: "https://www.youtube.com/embed/4VBaKmSgmPU"
+    github: "https://github.com/KPMGE/Projeto-Casa-Automatizada"
+
+  - nome: "PICofre"
+    autores: "André Barros, David Propato e Isabella do Santos"
+    descricao: "Cofre controlado por Arduino com teclado para senha, alarme sonoro em caso de erro e notificações via celular."
+    iframe: "https://www.youtube.com/embed/8LvxwtxshwM"
+    github: "https://github.com/BellaGratts/PICofre"
+
+  - nome: "Planta Inteligente"
+    autores: "Karla Sancio e Enzo Pereira Tristão"
+    descricao: "Sistema que monitora a umidade do solo e envia notificações ao celular, evitando excesso ou falta de rega."
+    iframe: "https://www.youtube.com/embed/7CExwYxkZ3Q"
+    github: "https://github.com/KarlaSancio/Projeto-PIC"

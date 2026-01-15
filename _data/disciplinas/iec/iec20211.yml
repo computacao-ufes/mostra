@@ -1,0 +1,85 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# IEC 2022/1
+##############################################################
+projetos:
+  - nome: "Grupo 1: Little Brother"
+    autores: "Davi Sperandio Agatti, Diogo Delazare Brandão, Guilherme Raibolt e João Victor Morais Coimbra de Brito"
+    iframe: "https://drive.google.com/file/d/18bBPNTyWMtqqLWs0dJOJO3cpqWdtD-03/preview"
+
+  - nome: "Grupo 2: Sinalizando pro futuro"
+    autores: "Caio Alves Fiorotti, Gabriel Saymon da Conceição, Guilherme Rangel Furtado e Talles Cavalleiro Weiler"
+    iframe: "https://drive.google.com/file/d/1tHMwwyFMppZozS0EhPYeUUv0c6t7mJSM/preview"
+
+  - nome: "Grupo 3: Health Solutions"
+    autores: "Brenno Bono da Silva, Breno Uliana de Angelo, Felipe de Paula Silva e Luan Kairo"
+    iframe: "https://drive.google.com/file/d/1ZkVzZ42jJtUhZbCMtaDLFubBZbtab5ie/preview"
+
+  - nome: "Grupo 4: Água de Tonel"
+    autores: "Henrique Caetano Santos, José Pedro Recla Giestas, Mileny Alves dos Santos e Thiago Felippe Neitzke Lahass"
+    iframe: "https://drive.google.com/file/d/1VfajH0G7Nc5Vcx2qmU7cRgtXAeTubpyX/preview"
+
+  - nome: "Grupo 5: TAPE AI"
+    autores: "Clara Muttoni, Eduardo Marchese Perim, Thales Melo da Penha e Victor Soares Setubal Wingler Lucas"
+    iframe: "https://drive.google.com/file/d/16rd_gpZmIp-bNLum69dNKVXdxkKxO6cz/preview"
+
+  - nome: "Grupo 6: Let There Be Light"
+    autores: "Gabriel Braz, Gabriela Rodrigues Carvalho, Henrique Ferrario Traba e Pedro Henrique Peixoto da Silva"
+    iframe: "https://www.youtube.com/embed/Bsy_Agr7qOA"
+
+  - nome: "Grupo 7: Marine Life"
+    autores: "Khristyan Vilela Oliveira, Larissa Fernandes da Silva, Matheus Littig Radinz e Thyago Vieira Piske"
+    iframe: "https://www.youtube.com/embed/UMUnpknOcQQ"
+
+  - nome: "Grupo 8: NoWaste"
+    autores: "Guilherme Rocha, Klevellin Liliano e Tiago Eloir"
+    iframe: "https://drive.google.com/file/d/1dTjcki_plh4-QWNmOoOJrqC682Z8zjIG/preview"
+
+  - nome: "Grupo 9: Trash Cash"
+    autores: "Afonso Salvador de Magalhães, João Victor Alves de Almeida, Pedro Henrique Barreto Buzatto e Thamya Vieira Hashimoto Donadia"
+    iframe: "https://drive.google.com/file/d/1Ab4RcZQ4Z-bN05eNiv18dR8tWxpHM-7w/preview"
+
+  - nome: "Grupo 10: Aki do Lado"
+    autores: "Daniel Ferrari Alves, Everton Samuel, Jonathan Dias Queiros Lima e Silas Renato Falcão da Silva"
+    iframe: "https://drive.google.com/file/d/1wcgFkDwzTXW7rEsdbezHgwHG8QEjMxar/preview"
+
+  - nome: "Grupo 11: DaTerra"
+    autores: "Vinicius Duarte, Luca da Silva, Vinicius Cole e Gabriel Gomes"
+    iframe: "https://drive.google.com/file/d/1ONciAARo72I0K6nMn8T1UA_u6nqmR_t5/preview"
+
+  - nome: "Grupo 12: PetCode"
+    autores: "Daniel Antunes Cordeiro, Gustavo Oliveira Cassaro, João Pesente Dalvi e Mariana Olm Rezende"
+    iframe: "https://drive.google.com/file/d/1rzm6qqJs6O2TKIm4Rppbg4sQFGmhQ35B/preview"
+
+  - nome: "Grupo 13: Energia na palma da mão"
+    autores: "Maria Clara Coutinho, Gabriel Gatti, Pedro Antônio e Pedro Eduardo Dias"
+    iframe: "https://drive.google.com/file/d/1Vnhb03lb8iWL2YqWegte-pDlKrKosTf1/preview"
+
+  - nome: "Grupo 14: DOATEC"
+    autores: "Lucas Grobberio, Luiz Philyp Sabadini Bazoni, Matheus Schreiber e Mauricio Barbosa"
+    iframe: "https://drive.google.com/file/d/1YRJCamxWBf86ILgdF5X68hjzGawTf7Xe/preview"
+
+  - nome: "Grupo 15: iFruit"
+    autores: "Bruno Santos Fernandes, João Paulo Moura, Kezia de Jesus de Souza e Rafael Thyago Silva e Serra"
+    iframe: "https://drive.google.com/file/d/1kBNsI7czbcL3fkOV6Q2aRy7Uq_m504Ow/preview"
+
+  - nome: "Grupo 16: Adapted Wheels"
+    autores: "Celso Nantes, Gabriel Rampinelli Santos, Kauã Ribeiro e Wagner Zanebone Capelini"
+    iframe: "https://drive.google.com/file/d/1n9Ae49KyZUiWJSVj5vBpWZLo2Dj4X0pb/preview"
+
+  - nome: "Grupo 17: Third Eye"
+    autores: "Guilherme Teixeira Caldana e José Carlos Brunetti Filho"
+    iframe: "https://www.youtube.com/embed/bzorwYvAIwY"

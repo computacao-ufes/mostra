@@ -1,0 +1,71 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# COMPSOC 2022/2
+##############################################################
+projetos:
+  - nome: "Be Green"
+    autores: "Filipe Gomes, Gustavo Santolin, Juliana Repossi e Lorenzo Scaramussa"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/XdjpvFMDAVI"
+    github:
+
+  - nome: "EasyAIEthics"
+    autores: "Amanda Apolinário, Bruno Acerbi, Paula Bremenkamp e Leonardo Albergaria"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/17ke56ijKRE"
+    github:
+
+  - nome: "AcceSee"
+    autores: "Igor Dummer, Henrycky Fonceca, Julia Mendonça, Rogério Medeiro e Ryan Tavares"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/Ug6rLYifsac"
+    github:
+
+  - nome: "EcoSystem"
+    autores: "Elaine Pires, Ícaro Nascimento, Renan Gomes e Tiago Santos"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/ARhI99JAc_k"
+    github:
+
+  - nome: "Solis"
+    autores: "Ângelo Mendonça, Elciney Jr., Leonardo Fontes e Lorenzo Zimerer"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/2nSZT4s38MI"
+    github:
+
+  - nome: "H2All"
+    autores: "Alan Herculano, Lucas Almeida, Lucas Moraes e Thiago da Silva"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/b6LvkqMGdYg"
+    github:
+
+  - nome: "Moda Acolhedora"
+    autores: "Ana Carolina Vervloet, Igor Sunderhus, Lucas Salgado e Gabriel Hendrix"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/YWax0_jkhUQ"
+    github:
+
+  - nome: "AgriTech"
+    autores: "Henrick Aarestrup, Vinicius Moraes, Abraão dos Santos e Christian Litzinger"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/2oLXivnacM8"
+    github:
+
+  - nome: "Health Robotics"
+    autores: "Alex Oliveira, Eduardo Afonso, Gustavo Brunoro, Gustavo Beloti e Mateus Freitas"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/2ZvgUAxzXa0"
+    github:

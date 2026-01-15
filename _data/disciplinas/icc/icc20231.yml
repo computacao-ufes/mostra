@@ -1,0 +1,49 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# ICC 2023/1
+##############################################################
+projetos:
+  - nome: "Dr Assistente"
+    autores: "Antônio, Bárbara, Maria Eduarda, Samuel e Miguel"
+    iframe: "https://www.youtube.com/embed/Mw7fzIghxdY"
+
+  - nome: "EcoGrid"
+    autores: "Carlos Eduardo, Caio, Felipe Passarela e Renan"
+    iframe: "https://www.youtube.com/embed/5pSKzAWAqUg"
+
+  - nome: "Dr LLim"
+    autores: "Daniel Gobbi, Gleydson Lodi, Geilson Lucas, Luiz Fernando e Victor Dutra"
+    iframe: "https://www.youtube.com/embed/-K7ZMBRVf_M"
+
+  - nome: "Nutrishare"
+    autores: "Maria Luiza, Aline, Marcela, Gabriel Sena e Lívia"
+    iframe: "https://www.youtube.com/embed/_9hsGVoVm1k"
+
+  - nome: "CloudMover"
+    autores: "Arthur Candeia, Daniel Olimpio, João Pedro Rabello, Pedro Henrique Mendonça, Pedro Marchini e Tiago Machado"
+    iframe: "https://www.youtube.com/embed/STNAf8FksHg"
+
+  - nome: "Horus"
+    autores: "Arthur Tosi, Conrado, Daniel Corona, Raphael Dornelas e Raphael Suarez"
+    iframe: "https://www.youtube.com/embed/5mkS2rU2GEs"
+
+  - nome: "Guardian"
+    autores: "Gabriel de Albuquerque, João Henrique, João Loss, Pedro Malini, Ricardo Caldara e Victor Rangel"
+    iframe: "https://www.youtube.com/embed/CtoQ1Avn2go"
+
+  - nome: "Tim Timekeeper"
+    autores: "Ákila, Boris, Eduardo, Matheus Castello e Raony"
+    iframe: "https://www.youtube.com/embed/OEjY-eGnxTg"

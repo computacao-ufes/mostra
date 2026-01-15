@@ -1,0 +1,90 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# PIC 2 EC 2024/2
+##############################################################
+projetos:
+  - nome: "Painel do Clima"
+    autores: "Ana Luisa Casotti, Clarice Curtinhas Santos e Mateus Lizardo"
+    descricao: 'O projeto executado foi um painel informativo das condições climáticas locais usando fitas de LED. A ideia é criar um objeto tridimensional para transmitir dados climáticos sobre o ambiente da UFES. Projeto em parceria com o curso de Arquitetura UFES.'
+    iframe: "https://www.youtube.com/embed/eceHui0WBns"
+    github: "https://github.com/Clarice-Curtinhas/PainelDoClima/"
+
+  - nome: "Observatório das Árvores"
+    autores: "Breno Silva, Felipe Soares, Marcela Fernandes e Raissa Almeida"
+    descricao: 'O projeto consiste em construir uma caixa que visualiza informações de uma árvore, que será identificada por RFID. O projeto é responsável por fornecer dados para o projeto Painel do Clima exibir. Projeto em parceria com o curso de Arquitetura UFES.'
+    iframe: "https://www.youtube.com/embed/pxfTCeDAWIU"
+    github: "https://github.com/BrenoCSilva/Cubo-Interativo-das-Arvores"
+
+  - nome: "Mão Mímica"
+    autores: "Rafaela Capovilla, Rafaela Fernanda e Diana Rosi"
+    descricao: 'O projeto consiste em uma mão impressa em 3D que imita os movimentos da mão do usuário apresentada na webcam, fazendo uso de visão computacional para identificar os movimentos que a pessoa faz.'
+    iframe: "https://www.youtube.com/embed/ycraxiblsJk"
+    github: "https://github.com/erufes/mao-mimica"
+
+  - nome: "Arcade Machine"
+    autores: "Fábio Pascoal, Ellyas Santos e Alceu Félix"
+    descricao: 'A ideia central do projeto é construir uma máquina de fliperama simplificada, com três jogos clássicos programados a partir do Arduino Uno, de modo que seja possível alternar a qualquer momento o jogo em execução por meio do input do usuário.'
+    iframe: "https://www.youtube.com/embed/Vh4_vdK3K6M"
+    github: "https://github.com/FabioHPascoal/PIC1_Arcade_Machine"
+
+  - nome: "Blackjack"
+    autores: "Guido Agnezi Deniz, João Vitor Toneto Machado e Miguel Martins Boechat"
+    descricao: 'Usar o Arduino para simular um ambiente de jogatina de Blackjack, bem como um banco de fichas e sistema de dica para iniciantes.'
+    iframe: "https://www.youtube.com/embed/KD_sZj5_Vy8"
+    github: "https://github.com/guidoagnezi/PIC-1"
+
+  - nome: "Robô Radar"
+    autores: "Alexsander Barbosa Moura e Hydrech Urgel Mahoungou Mbouaka"
+    descricao: 'O objetivo é construir um sensor ultrassônico montado sobre um servo motor em cima de um carro, podendo cobrir qualquer direção em que o servo motor puder trabalhar.'
+    iframe: "https://www.youtube.com/embed/xgEntUYPYGU"
+    github: "https://github.com/alxsn/robo_sensor"
+
+  - nome: "Robô Autoequilíbrio"
+    autores: "Leonardo Roxo, Rafael Marques e Matteo Chiste Trento"
+    descricao: 'Consiste em um robô de duas rodas, projetado para se equilibrar automaticamente por meio de ajustes precisos realizados por um motor de passo, garantindo estabilidade e eficiência no seu funcionamento.'
+    iframe: "https://www.youtube.com/embed/e37oDNeem_o"
+    github: "https://github.com/DalTonico5234/Arduino_Auto"
+
+  - nome: "Casa Inteligente"
+    autores: "João Arthur Subtil, Leonardo Rezende e Lucas Bastos"
+    descricao: 'É um aparelho que detecta a fumaça no ar, alertando o usuário, e conta com um sensor de presença que verifica se há alguém no local. O objetivo é trazer segurança e praticidade de forma acessível.'
+    iframe: "https://www.youtube.com/embed/3e1H5Q1ze2E"
+    github: "https://github.com/joaosubtil27/Casa-Inteligente"
+
+  - nome: "Genius"
+    autores: "Enrico Massariol, Matheus Gon Zortéa e Silvio Junior"
+    descricao: 'O projeto é uma recriação do famoso jogo de memória Genius, um jogo divertido e desafiante que testa a memória do usuário.'
+    iframe: "https://www.youtube.com/embed/ykK91hWk7oI"
+    github: "https://github.com/babyteco/Genius-PIC"
+
+  - nome: "Carrinho com Camera"
+    autores: "Davi Boni, Daniel Dayrell e Yan Simmer"
+    descricao: 'Um carrinho controlado via Wi-Fi pelo celular, com uma câmera embutida e um sistema de iluminação.'
+    iframe: "https://www.youtube.com/embed/Xs9VAALW0Aw"
+    github: "https://github.com/yanzino6/PIC2024-DDY"
+
+  - nome: "Caixa Decriptadora"
+    autores: "Alexandre Fazzolo, Gabriel Santos e Lilanio Vieira"
+    descricao: 'O projeto integra um site para envio de mensagens criptografadas e uma caixa física que usa biometria e NFC para autenticação e descriptografia. As chaves públicas são geradas na caixa, enquanto as privadas ficam apenas no NFC, garantindo segurança e privacidade.'
+    iframe: "https://www.youtube.com/embed/IrBOTmfxLJI"
+    github: "https://github.com/Ryuu89/UnlocKey"
+
+  - nome: "Robô Obstáculo"
+    autores: "Pedro Henrique Peixoto da Silva, Heron Garcia Lodi e Silva e Wesley Vieira de Moraes"
+    descricao: 'O projeto consiste em um robô autônomo, controlado por Arduino, que deverá percorrer uma determinada área e retornar ao ponto de partida, sendo capaz de desviar de obstáculos por meio de um sensor ultrassônico.'
+    iframe: "https://www.youtube.com/embed/XXXXXX"
+    github: "https://github.com/TypicalJuves/Trabalho-PIC"
+

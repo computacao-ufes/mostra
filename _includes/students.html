@@ -1,0 +1,36 @@
+{%- for member in site.data.members.students -%}
+<div class="member-container member-on">
+
+    {% if member.photo %}
+        <img src="/assets/imgs/equipe/alunos/{{%member.photo%}}" class="member-img">
+    {% else %}
+        <img src="/assets/imgs/equipe/default-profile.png" class="member-img" />
+    {% endif %}
+    
+    <div class="member-info">
+      <ul>
+        <li> 
+            <a href="{{%member.site%}}" target="_blank"> {{%member.name%}} </a> 
+        </li>        
+
+        <li>
+            <b> Nível: </b> {{%member.level%}}
+        </li>
+
+        <li>
+            <b> Curso: </b> {{%member.course%}}
+        </li>
+
+        <li>
+            <b> Tópicos: </b> {{%member.topics%}}
+        </li>
+
+        <li>
+            <b> Orientador(es): </b> {{%member.supervisors%}}
+        </li>
+
+      </ul>
+    </div>
+    
+</div>
+{% endfor %}

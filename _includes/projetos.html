@@ -1,0 +1,19 @@
+<div class="proj-grid">
+  {% for proj in include.fileyml.projetos %}
+  <div class="proj-card">
+    <iframe src="{{proj.iframe}}" allowfullscreen></iframe>
+    <div class="proj-card-content">
+      <h2>{{proj.nome}}</h2>
+      <div class="proj-card-autores">{{proj.autores}}</div>
+      <div class="proj-card-desc">{{proj.descricao}}</div>
+      {% if proj.github %}
+      <div class="proj-card-link">
+        <a href="{{proj.github}}" target="_blank">
+          <i class="fab fa-fw fa-github"></i> GitHub
+        </a>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</div>

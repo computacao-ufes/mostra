@@ -1,0 +1,131 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# IEC 2022/1
+##############################################################
+projetos:
+  - nome: "Cheap Drive"
+    autores: "Daniel Cid Constantinidis, Jullie de Castro Quadros, Luca Jacentink Gonçalves e Marcela Magris Fernandes"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/h1wOMgf5sDk"
+    github:
+
+  - nome: "PowerFit"
+    autores: "Bernardo Canal Lacerda, Daruê Euzébio Fernandes, Luiz Felipe Fassarela Cardoso e Pedro Henrique de Carvalho Oliosi"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/wszbiIPSNvY"
+    github:
+
+  - nome: "Solisi"
+    autores: "Daniel Antunes França de Menezes, Jordano Furtado de Souza, Mateus Biancardi da Silva e Ayres Vinicius Girondoli Cristelo"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/USafkxTNx2A"
+    github:
+
+  - nome: "CORGE"
+    autores: "David Marques de Oliveira Leal, Ruany Rodrigues Nascimento Hott, Caio Caldas Santos e Allan Vieira Cardoso"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/8sCFb4pMqaY"
+    github:
+
+  - nome: "Mapoja"
+    autores: "Gabrielly Barcelos Cariman, João Guilherme Tose Calmon, Lucas Palauro Brioschi e Yuri Groener da Victoria"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/k5OXu2EoSlI"
+    github:
+
+  - nome: "WAN House"
+    autores: "Edgard de Souza Theotonio, Fábio Henrique Pascoal, Felipe Sala Carpes e Luiz Felipe Machado"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/eX-edH5t7_0"
+    github:
+
+  - nome: "CETEC"
+    autores: "Guilherme Dayrell Cruz Soares, Gustavo Nunes Lopes, Ryan Ferreira da Vitoria e Vitor Alejandro Torres Gajardo"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/d45XUF66zT8"
+    github:
+
+  - nome: "Super Baby Monitor"
+    autores: "Ana Tereza Ribeiro Soares Pereira, Vitor Dadalto Câmara Gomes, Pedro Henrique Pianna Cardoso e Felipe Mattos Vanetti de Albuquerque"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/7bwyfpNL3xk"
+    github:
+
+  - nome: "AgroMAC"
+    autores: "Igor Baiocco Rodrigues, João Victor Berger Aguiar e Yuri Cardozo Bossatto"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/J3yL-8dyzKc"
+    github:
+
+  - nome: "Arch"
+    autores: "Antônio Sant'Ana de Oliveira, Arthur Trarbach Sampaio, Gabriel Honorato Teixeira Bernardo e Nathan Garcia Freitas"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/af5Ye35M6oU"
+    github:
+
+  - nome: "E-Braille"
+    autores: "Arthur Christ Marcolan, Viktor Kamei Mota, João Pedro Camargo Batista e João Pedro de Oliveira Nascente"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/UXsRMmW80Rs"
+    github:
+
+  - nome: "Skoupídia"
+    autores: "Bruno de Oliveira Rodrigues, Guilherme Ratti Moraes, Matheus Luciano Sesana Goldner e Yago de Souza Pereira"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/CFO_iZTafUA"
+    github:
+
+  - nome: "Smart Training"
+    autores: "Camille Policarpo, Felipe Oliveira Araújo Passos, Luana Da Ros Almeida e Luca Galvani do Carmo"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/o7-i9zQT_Dc"
+    github:
+
+  - nome: "Buy.together"
+    autores: "Arthur Bandeira Salvador, Gessica de Souza Silva, Pedro Rocha de Mello Leitão e Wesley Vieira de Moraes"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/8dYtMyjLsas"
+    github:
+
+  - nome: "ReLuz"
+    autores: "Karoline Fiorio, Renan Duarte Andrade, Rodolfo Dutra Garcia e Ryan Pascoal"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/frn12kbb6Ow"
+    github:
+
+  - nome: "CAST - Campanha de Assistência de Sangue para Todos"
+    autores: "Arthur Fiorio da Cunha, Enzo de Andrade Dorigheto, Gabriel Wandekoken Madeira e João Gabriel Bastos Monteiro"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/n4Ne0cvRhEw"
+    github:
+
+  - nome: "Estraga Não!"
+    autores: "Eduardo Capobiango Ferraz, Patrick Dias Catrinck, Raissa Souza e Sofia Sarcinelli"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/htTyc-yCz8U"
+    github:
+
+  - nome: "S.O.S WALL-E"
+    autores: "Ana Luiza Oliosi Mariano, André de Oliveira Kaizer, Débora Azevedo Caetano e Gabriela Buteri Belmock"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/RAjGByu7IXU"
+    github:
+
+  - nome: "StudIA"
+    autores: "Camila de Rossi Audibert, Gabrielle Coser Ferrighetto e Roger Leonardo Coimbra Silva"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/FSYYfZkbfkk"
+    github:

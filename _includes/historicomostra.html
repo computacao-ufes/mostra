@@ -1,0 +1,50 @@
+{% assign semestre = site.data.mostra %} {% for sem in semestre %}
+
+<h1 id="{{ sem[0] }}">
+  Semestre: {{ sem[0] }}
+  <a class="header-link" href="#{{ sem[0] }}" title="Permalink"
+    ><span class="sr-only">Permalink</span></a
+  >
+</h1>
+
+<hr />
+
+{% for disc in sem[1] %}
+<div class="caixa-evento">
+  <div class="caixa-evento">
+    <div class="titulo">{{%disc.nome%}}</div>
+    <div class="conteudo">
+      <div class="linha">
+        <span class="icone">🎓</span>
+        <span>{{%disc.curso%}}</span>
+      </div>
+      <div class="linha">
+        <span class="icone">💡</span>
+        <span>{{%disc.descricao%}}</span>
+      </div>
+      {% if disc.local %}
+      <div class="linha">
+        <span class="icone">📍</span>
+        <span>{{%disc.local%}}</span>
+      </div>
+      {% endif %} {% if disc.data %}
+      <div class="linha">
+        <span class="icone">🕒</span>
+        <span
+          >{{%disc.data%}} {% if disc.hora %} de {{%disc.hora%}} {% endif
+          %}</span
+        >
+      </div>
+      {% endif %}
+    </div>
+    <div class="rodape">
+      <a href="{{%disc.linkprojetos%}}" target="_blank" class="botao"
+        >Veja os projetos</a
+      >
+    </div>
+  </div>
+
+  {% endfor %}
+  <hr />
+  {% endfor %}
+</div>

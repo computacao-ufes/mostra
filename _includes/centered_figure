@@ -1,0 +1,12 @@
+<figure class="{{ include.class }}" style="display:flex;justify-items:center;justify-content:center">
+  <div style="width:100%;display:flex;justify-items:center;justify-content:center;">
+    <img src="{{ include.image_path | relative_url }}"
+        alt="{% if include.alt %}{{ include.alt }}{% endif %}"
+        style="{{include.style}}">
+  </div>
+  {%- if include.caption -%}
+    <figcaption>
+      {{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}
+    </figcaption>
+  {%- endif -%}
+</figure>

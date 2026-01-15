@@ -1,0 +1,71 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# ICC 2025/1
+##############################################################
+projetos:
+  - nome: "Reuse Brasil"
+    autores: "Lucas Marchesi, Sofia Salaroli, Thomás Lima e Thiago Emmanuel"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/kpABrv5cw24"
+    github:
+
+  - nome: "Solshare"
+    autores: "Luan Maia Alexandrino de Almeida, Janderson Gabriel Pereira Vaz, Maria Teresa Bolognini Lopes, Renan Novais Campos e Guilherme Mesquita Olmo"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/h76si1FEdS4"
+    github:
+
+  - nome: "ZapMove"
+    autores: "Rian de Assis Silva, Pietro Pazini Passos de Oliveira, Guilherme Rodrigues da Silva, Pablo Henrique de Souza Santos e Eduardo Capobiango Ferraz"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/yhjbLiUkK7I"
+    github:
+
+  - nome: "AgroSystem"
+    autores: "Adrian Rodolfo Garcia Blanco, Matheus Nobre Cabral, Gabriel Carminati Miranda e Mateus Biancardi da Silva"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/JhLrcYdAPMQ"
+    github:
+
+  - nome: "ReCiclo Inteligente"
+    autores: "Artur Cunha, Daniel Sousa, Dimitry Deveza, Patrick Correia e Vitor Araujo"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/lTb233tDbfs"
+    github:
+
+  - nome: "ConectaVerde"
+    autores: "Guilherme Cardoso Delatorre, Andre Luiz Silveira Campos, Lucas Carneiro Ribeiro, Ryan Martins Gomes e Mariana Corvino Battisti"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/B_J9hG1Tcqo"
+    github:
+
+  - nome: "GreenPoint"
+    autores: "Catarina Lemos, Julia Porto, Rafael Carlini e Matheus Rios"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/fQ4nhbHat60"
+    github:
+
+  - nome: "GVigia"
+    autores: "Adryan de Melo de Oliveira, Hithalo Cesar Rosa da Silva, Davi Campos Lopes Rozado, Vitor de Oliveira Barbosa e Helamã Peres Janes"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/oCF4OI17eiw"
+    github:
+
+  - nome: "AlertaVital"
+    autores: "Eduardo Vitor Ogawa, Maria Eduarda Suellen de Souza Ramos, Enzo Venturini Baptista, David Maquarte Gumes e Silva e Gabriel Borelli Cintra"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/R9x7r8bdgoE"
+    github:

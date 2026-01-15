@@ -1,0 +1,71 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# PIC 1 EC 2021/2
+##############################################################
+projetos:
+  - nome: "Carrinho controlado via Wi-Fi"
+    autores: "Afonso Magalhães, Diogo Brandão e Thamya Donadia"
+    descricao: "Carrinho de controle remoto utilizando o módulo Wi-Fi ESP8266, operado por uma aplicação web para dispositivos móveis."
+    iframe: "https://www.youtube.com/embed/Ti-WTbDdaL0"
+    github: "https://github.com/thamyadonadia/trabalhopic"
+
+  - nome: "Painel Stranger Things"
+    autores: "Athila Rodrigues e Bernardo Broedel"
+    descricao: "Painel de LEDs controlado via Bluetooth que exibe mensagens enviadas por um aplicativo móvel, acionando LEDs conforme as letras."
+    iframe: "https://www.youtube.com/embed/e4kC7BBC4oI"
+    github: "https://github.com/BernardoBroedel/UFES_PIC_Painel_Stranger_Things"
+
+  - nome: "Detector de turbidez com LED"
+    autores: "Caio Fiorotti, Henrique Santos e Matheus Schreiber"
+    descricao: "Sensor de turbidez de baixo custo utilizando Arduino UNO, LDR e fonte de luz para medir a turbidez da água."
+    iframe: "https://www.youtube.com/embed/-e1VBkAoZOs"
+    github: "https://github.com/matheusschreiber/Arduino-based-turbidity-sensor"
+
+  - nome: "Janela automatizada baseada na chuva"
+    autores: "Camila Abreu e Vitor Marques"
+    descricao: "Sistema com sensor de chuva que aciona alertas sonoros e luminosos quando detecta água, auxiliando no fechamento de janelas."
+    iframe: "https://www.youtube.com/embed/Yzhg9ooXy3A"
+    github: "https://github.com/Victor0am/PIC-Alerta-com-Sensor-de-Chuva"
+
+  - nome: "Mão Robótica"
+    autores: "Gabriel Gatti e Hiuri Liberato"
+    descricao: "Mão robótica controlada via Bluetooth por aplicativo móvel, permitindo gestos pré-definidos ou controle individual dos dedos."
+    iframe: "https://www.youtube.com/embed/GR1iLuvDujE"
+    github: "https://github.com/hiuri/mao_robotica"
+
+  - nome: "Flanentino"
+    autores: "Lucas Alexandre"
+    descricao: "Placa compatível com Arduino que adiciona múltiplos LEDs e um buzzer para fins educacionais e de prototipagem."
+    iframe: "https://www.youtube.com/embed/hy5MBipp4vM"
+    github: "https://github.com/LucasFlaneto/FlanetinoUno"
+
+  - nome: "Slot Machine"
+    autores: "Daniel F. Alves, Luiz Bazoni e Thiago Lahass"
+    descricao: "Implementação em Arduino de uma máquina caça-níqueis baseada em sorteio de ícones e combinações premiadas."
+    iframe: "https://www.youtube.com/embed/Du6buxU4NfY"
+    github: "https://github.com/ThiagoLahass/Slot-Machine"
+
+  - nome: "WALL-ESP"
+    autores: "João Brito, Talles Weiller e Vinícius Colle"
+    descricao: "Carrinho com câmera e garra articulada controlado por ESP32, com interface web para controle remoto e visualização."
+    iframe: "https://www.youtube.com/embed/CoDTm-s-2r8"
+    github: "https://github.com/jvmoraiscb/WALL-ESP"
+
+  - nome: "DESP LUZ"
+    autores: "Bruno Fernandes, João Clevelares e Luca Ávila"
+    descricao: "Projeto de automação residencial para controle de cortinas e persianas com agendamento via smartphone."
+    iframe: "https://www.youtube.com/embed/QcIXpQiUVFY"
+    github: "https://github.com/BrunoSantosF/Cortina-PIC"

@@ -1,0 +1,49 @@
+version: "3.5"
+
+services:
+
+  nginx:
+    image: 'jc21/nginx-proxy-manager'
+    container_name: life-nginx
+    restart: unless-stopped
+    ports:
+      - 81:81
+      - 443:443
+      - 80:80
+    volumes:      
+      - ./nginx/data:/data
+      - ./nginx/letsencrypt:/etc/letsencrypt
+    environment:
+      - DISABLE_IPV6=true
+    depends_on:
+      - site
+
+  site:
+    image: site-site
+    container_name: site-mostra-cont
+    restart: unless-stopped
+    build:
+      context: ./docker/jekyll
+      dockerfile: Dockerfile
+    ports:
+      - 4000:4000
+    volumes:
+      - .:/usr/src/app
+    stdin_open: true
+    tty: true    
+    command: bundle exec jekyll serve -H 0.0.0.0 -t
+
+  webhooker:
+    image: site-webhooker
+    container_name: webhooker-mostra-cont  
+    restart: unless-stopped  
+    build:
+      context: ./docker/webhooker
+      dockerfile: Dockerfile
+    ports:
+      - 8000:8000
+    volumes:
+      - .:/usr/src/app
+    stdin_open: true
+    tty: true    
+    entrypoint: ["bash", "-c", "git config --global --add safe.directory /usr/src/app && uvicorn webhooker:app --host 0.0.0.0 --port 8000"] 

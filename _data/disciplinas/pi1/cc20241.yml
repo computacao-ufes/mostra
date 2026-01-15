@@ -1,0 +1,89 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# PI 1 CC 2024/1
+##############################################################
+projetos:
+  - nome: "AgendaServidor"
+    autores: "Gabriel Nascimento Oliveira e Lucas Ferreira Salatiel"
+    descricao: "AgendaServidor tem como objetivo facilitar o agendamento e a consulta de horários dos espaços da Área de Servidores da UFES (quadra poliesportiva, campo de futebol de grama e churrasqueiras), além de fornecer informações sobre o estado desses espaços."
+    iframe: "https://www.youtube.com/embed/f7arlDATrPI"
+    github: "https://github.com/lsalatiel/agenda-servidor"
+
+  - nome: "BeeFit"
+    autores: "Gabriella Sirtoli Borges, Matheus Souza Ribeiro e Murilo Salvador Dalmonech"
+    descricao: "BeeFit busca aprimorar o desempenho dos treinos de alunos de academias, oferecendo um banco de dados com vários tipos de treinos para montagem de rotinas personalizadas e acompanhamento de progresso por meio de um histórico de exercícios."
+    iframe: "https://www.youtube.com/embed/SXpNQxIgw_Y"
+    github: "https://github.com/MatheusSRMO/beefit-admin"
+
+  - nome: "CallGuard"
+    autores: "Matheus de Oliveira Lima, Matheus Lopes Ferreira Lima e Yan Oliveira Maia"
+    descricao: "CallGuard fornece aos usuários uma solução para identificar e lidar com chamadas indesejadas (spams, golpes, telemarketing), baseando-se em denúncias da comunidade para criar uma rede colaborativa de proteção e oferecer maior controle sobre interações telefônicas."
+    iframe: "https://www.youtube.com/embed/nnYWCt8Ehkk"
+    github: "https://github.com/70MatheuS07/CallGuard"
+
+  - nome: "Emodiário"
+    autores: "Gabriel de Castro Lima, Matheus Adami Bernardes Moreira e Vinicius Moraes de Jesus"
+    descricao: "Emodiário é uma ferramenta de acompanhamento de humor e diário pessoal que permite registrar estados emocionais, atividades diárias, eventos significativos e comentários detalhados para oferecer uma visão mais completa do bem-estar emocional do usuário ao longo do tempo."
+    iframe: "https://www.youtube.com/embed/XGIiT9BI9Jo"
+    github: "https://github.com/ViniciusMdJ/Emodiario"
+
+  - nome: "GleamEx"
+    autores: "Alan Teixeira da Costa, Johann Jakob Schmitz Bastos e Ricardo Magalhaes Santos Filho"
+    descricao: "GleamEx é uma biblioteca para a linguagem de programação Gleam que oferece funcionalidades de expressões regulares (Regex), suprindo uma lacuna importante de recursos e contribuindo para a maturidade da linguagem em aplicações de sistemas e web services."
+    iframe: "https://www.youtube.com/embed/4n6691BYORY"
+    github: "https://github.com/rickymagal/gleamex"
+
+  - nome: "Growise"
+    autores: "Aurea Santos de Oliveira, Miguel Gewehr de Oliveira e Milena Curtinhas Santos"
+    descricao: "Growise é uma aplicação web de gestão de lojas que permite cadastro de produtos, gerenciamento de vendas e controle de dados como receita, lucro e estoque, centralizando informações para facilitar uma gestão mais eficiente."
+    iframe: "https://www.youtube.com/embed/RJvRdTwaOC4"
+    github: "https://github.com/MiguelGewehr/Growise"
+
+  - nome: "Hackuni"
+    autores: "Gabriel Ferrari Wagnitz e Iury Candeias Nogueira Da Gama"
+    descricao: "Hackuni é uma plataforma de estudo focada em hacking e segurança da informação, oferecendo exercícios práticos gamificados (CTFs) e trilhas de aprendizado, podendo atender tanto usuários individuais quanto empresas e instituições de ensino com espaços privados e customizáveis."
+    iframe: "https://www.youtube.com/embed/_QxsoFr1bT4"
+    github: "https://github.com/IuryGama/hackuni"
+
+  - nome: "Lawyer Center"
+    autores: "Gabriel Zuany Duarte Vargas, Lorenzo Rizzi Fiorot e Rafael Ribeiro Carvalho"
+    descricao: "Lawyer Center é uma plataforma semelhante a serviços de entrega sob demanda, mas voltada ao campo jurídico, ajudando pessoas a encontrarem advogados especializados de forma ágil e alinhada ao tipo de problema jurídico que enfrentam."
+    iframe: "https://www.youtube.com/embed/WfzT1ksOn04"
+    github: "https://github.com/GabrielZuany/LawyerCenter"
+
+  - nome: "NCD PlaySpace"
+    autores: "Gabriel Luiz de Oliveira Paschoal e Israel dos Santos Candeias"
+    descricao: "NCD PlaySpace é uma plataforma unificada para descoberta, acesso e uso de jogos educativos e de entretenimento desenvolvidos por parceiros do Núcleo de Cidadania Digital (NCD/UFES), estimulando também a produção de novos jogos pelos integrantes do núcleo."
+    iframe: "https://www.youtube.com/embed/oe4eLTV86nM"
+    github: "https://github.com/haskellman/NCD-Playspace"
+
+  - nome: "PathToGrade"
+    autores: "Miguel Vieira Machado Pim e Pedro Henrique Bravim Duarte"
+    descricao: "PathToGrade ajuda estudantes universitários a planejarem sua graduação, permitindo visualizar de forma clara os pré-requisitos entre disciplinas e quais matérias precisam ser concluídas para habilitar a matrícula em disciplinas desejadas."
+    iframe: "https://www.youtube.com/embed/zAePFXMhAew"
+    github: "https://github.com/MiguelPim01/PROJETO-INTEGRADO-I"
+
+  - nome: "Rataiada"
+    autores: "Arthur Estefanato Lopes e Jheam Storch Ross"
+    descricao: "Rataiada é uma aplicação voltada ao RPG Mausritter, oferecendo uma ficha de personagem digital para gerenciar itens, efeitos e dados da partida de forma prática e segura, reduzindo problemas de organização e fragilidade do material físico."
+    iframe: "https://www.youtube.com/embed/WPoWdAWatzE"
+    github: "https://github.com/tucozz/project-rataiada"
+
+  - nome: "YamaUI"
+    autores: "Lucas Rodrigues de Almeida"
+    descricao: "YamaUI é uma interface gráfica amigável para interação com modelos de linguagem executados localmente via ferramentas como Ollama, permitindo que usuários leigos utilizem LLMs com mais privacidade e sem depender diretamente de provedores externos."
+    iframe: "https://www.youtube.com/embed/6_3N-eGoB8M"
+    github: "https://github.com/propilideno/yama-ui"

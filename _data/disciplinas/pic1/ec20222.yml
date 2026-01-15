@@ -1,0 +1,95 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# PIC 1 EC 2022/2
+##############################################################
+projetos:
+  - nome: "Ardudino"
+    autores: "Gabrielly Cariman, Felipe Carpes e Luiz Machado"
+    descricao: "Mini emulador de jogo controlado por Arduino, inspirado no jogo do dinossauro do Google Chrome, utilizando tela OLED, botões e acelerômetro como entradas."
+    iframe: "https://www.youtube.com/embed/EXHThd38dGE"
+    github: "https://github.com/luizfelmach/ardudino"
+
+  - nome: "Jardim Inteligente"
+    autores: "André Nemer, Celso Neto, Guilherme Soares e Gustavo Sarti"
+    descricao: "Sistema automatizado que monitora a umidade do solo e aciona uma bomba de água conforme a necessidade da planta."
+    iframe: "https://www.youtube.com/embed/7F-RIVFB26o"
+    github: "https://github.com/gustavosarti/PROJETO-PIC-JARDIM-INTELIGENTE"
+
+  - nome: "SpiderBot"
+    autores: "Ana Pereira, Felipe Albuquerque e Vitor Gomes"
+    descricao: "Aranha robótica controlada por Arduino Uno com múltiplos servos e sensor ultrassônico para desvio autônomo de obstáculos."
+    iframe: "https://www.youtube.com/embed/UzXbYqU1nso"
+    github: "https://github.com/vitordcgomes/SpiderBot"
+
+  - nome: "Luva VR"
+    autores: "Guilherme Ratti, Edgard de Souza T e Matheus Luciano"
+    descricao: "Luva de realidade virtual que captura rotações no espaço tridimensional e replica os movimentos em um ambiente virtual no Unity."
+    iframe: "https://www.youtube.com/embed/T0g_bdiK4Ic"
+    github: "https://github.com/DavidMarquesss/GuilhermeRatti/ProjetoPIC"
+
+  - nome: "Dispensador de Medicamentos"
+    autores: "Jullie Quadros, Gabriela Belmock e Sofia Sarcinelli"
+    descricao: "Dispositivo com compartimentos e alarmes programáveis para auxiliar no controle e ingestão correta de medicamentos."
+    iframe: "https://www.youtube.com/embed/E9lkzFZAWLY"
+    github: "https://github.com/jcquadros/DispenserMedicamentos"
+
+  - nome: "Marble Maze Labyrinth"
+    autores: "João Batista, João Nascente, Pedro Souza e Roger Silva"
+    descricao: "Labirinto físico controlado por joystick no qual o objetivo é conduzir uma bolinha até o final sem cair nos obstáculos."
+    iframe: "https://www.youtube.com/embed/UoYml-5NkeI"
+    github: "https://github.com/joaoBatista04/Marble-Maze-Labyrinth/"
+
+  - nome: "Semáforo Inteligente"
+    autores: "Arthur Sampaio, Jordano Souza e Nathan Freitas"
+    descricao: "Sistema de semáforo para via de mão única que detecta pedestres e intensidade do tráfego para controle inteligente do fluxo."
+    iframe: "https://www.youtube.com/embed/3SpieXDKzFk"
+    github: "https://github.com/TrarbachArthur/smart-traffic-light"
+
+  - nome: "Theremin Ultrassônico"
+    autores: "David Leal, Gessica Silva e Renan Duarte"
+    descricao: "Instrumento musical baseado em sensor ultrassônico que gera sons conforme a distância da mão ao sensor."
+    iframe: "https://www.youtube.com/embed/Nt8wiuzoYZg"
+    github: "https://github.com/DavidMarquesss/PIC-Projeto_Theremin"
+
+  - nome: "Alarme com Laser"
+    autores: "José Uliana e Maria Julia Nolasco"
+    descricao: "Sistema de alarme por presença utilizando sensor LDR, laser, teclado matricial e Arduino Uno."
+    iframe: "https://www.youtube.com/embed/gOIkAXTVx_c"
+    github: "https://github.com/jorgeuliana1/LaserSensor"
+
+  - nome: "Monitoramento Residencial"
+    autores: "Elder Storck, Alan Wehbe, Eduardo Perim e Victor Lucas"
+    descricao: "Sistema de segurança residencial com monitoramento de portas e movimentos, enviando alertas via Telegram."
+    iframe: "https://www.youtube.com/embed/uBIr6o4DH9k"
+    github: "https://github.com/elder-storck/Sistema-de-Monitoramento-Residencial"
+
+  - nome: "Carro com Sensor de Obstáculos"
+    autores: "Camille Policarpo, Gabriel Saymon, Khristyan Vilela e Luana da Ros"
+    descricao: "Carrinho autônomo controlado por Arduino que utiliza sensor ultrassônico para detectar e desviar de obstáculos."
+    iframe: "https://www.youtube.com/embed/lOXWzm22_Os"
+    github: "https://github.com/KhristyanOliveira/PIC"
+
+  - nome: "Carro de Controle Remoto"
+    autores: "Gabriel Pietroluongo, Luiz Bandeira e Otávio Sales"
+    descricao: "Carro operado por controle DualShock 4 com comunicação via Wi-Fi, utilizando Raspberry Pi e framework ROS."
+    iframe: "https://www.youtube.com/embed/If-TNn02PUI"
+    github: "https://github.com/erufes/duck-rc"
+
+  - nome: "Robô que Desvia de Obstáculos"
+    autores: "Elias Junior, Fernando Vieira, Aryelle Siqueira e Fodé Sambú"
+    descricao: "Robô móvel que se locomove de forma autônoma e escolhe a melhor direção para desviar de obstáculos."
+    iframe: "https://www.youtube.com/embed/QRAf1Roo5vg"
+    github: "https://github.com/EPGJ/pic1"

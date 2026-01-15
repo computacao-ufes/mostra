@@ -1,0 +1,35 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# PI 2 CC 2023/2
+##############################################################
+projetos:
+  - nome: "Clínica da Alma"
+    autores: "Pedro Victor Alves de Souza Santos, Rogerio Medeiros dos Santos Junior e Ryan Tavares Farias da Silva Monteiro"
+    descricao: "Sistema de informação gerencial para apoiar os registros, relatórios e o acompanhamento psicológico, médico e social dos pacientes da Clínica da Alma."
+    iframe: "https://www.youtube.com/embed/uXgzaIDaUso"
+    github: "https://github.com/rtmonteiro/pi2"
+
+  - nome: "Controle de Faltas NCD"
+    autores: "Alex Santos de Oliveira, Angelo Mendonca Frechiani, Joana Santos Martins e Luana Gabriele de Sousa Costa"
+    descricao: "Sistema de informação para controle, gerenciamento e armazenamento das turmas e presenças dos cursos oferecidos pelo Núcleo de Cidadania Digital (NCD) da UFES."
+    iframe: "https://www.youtube.com/embed/lv9gbjhB6fs"
+    github: "https://github.com/alekswheeler/ControleDeFaltasNCD"
+
+  - nome: "FuelFind"
+    autores: "Henrycky Wottikosky da Fonceca, Igor Wandermurem Dummer e Julia Caldeira Mendonca"
+    descricao: "Aplicativo mobile que auxilia motoristas a encontrar os postos de combustível com melhor preço próximos à sua localização."
+    iframe: "https://www.youtube.com/embed/gz7lkbqErVE"
+    github: "https://github.com/IgorDummer/FuelFind"

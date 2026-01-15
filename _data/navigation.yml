@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Sobre"
+    url: /sobre/
+  - title: "Mídia"
+    url: /midia/
+  - title: "Eventos"
+    url: /historico-eventos/

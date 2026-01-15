@@ -1,0 +1,125 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# PIC 2 EC 2025/1
+##############################################################
+projetos:
+  - nome: "SmartBin"
+    autores: "Alan Medina Wehbe, Eduardo Marchese Perim, Pedro Antônio Rocha De Souza e Victor Soares Setúbal Wingler Locas"
+    descricao: "Lixeira Inteligente"
+    iframe: "https://youtube.com/embed/NOtyLjHsO_s"
+    github: "https://github.com/"
+
+  - nome: "Braço Robótico Interativo"
+    autores: "Alexsander Barbosa Moura, Elder Ribeiro Storck, Guilherme Dayrell Cruz Soares e Jose Vitor Rodrigues Zorzal"
+    descricao: "Braço Robótico Interativo para Finalidade Educacional"
+    iframe: "https://youtube.com/embed/zgMKTRIESYY"
+    github: "https://github.com/alxsn/robotic_arm"
+
+  - nome: "Mão Robótica"
+    autores: "David Cristian Motta Propato, Gustavo Breda Sarti, Jullie De Castro Quadros e Mateus Ticianeli Sartorio"
+    descricao: "Mão Robótica com Controle Externo para Finalidades Assistivas"
+    iframe: "https://youtube.com/embed/IhrYRpudtT4"
+    github: "https://github.com/Propato/trabalhos-Ufes-PIC-II"
+
+  - nome: "Vision-X"
+    autores: "Arthur Tartaglia Pereira, Estevao Nunes Da Silva e Hugo Lima Otoch Demetrio De Souza"
+    descricao: "Vision-X: Dispositivo Vestível para Auxílio de Pessoas com Deficiência Visual"
+    iframe: "https://youtube.com/embed/duTRoa0kJvk"
+    github: "https://github.com/estevaons/vision-x"
+
+  - nome: "Braço Robótico"
+    autores: "Ana Tereza Ribeiro Soares Pereira, Felipe Mattos Vanetti De Albuquerque, Luiz Felipe Machado e Vitor Dadalto Camara Gomes"
+    descricao: "Braço Robótico para Jogo de Tabuleiro"
+    iframe: "https://youtube.com/embed/Vqxd-8ivQSM"
+    github: "https://github.com/atrsp/ChessBot"
+
+  - nome: "Medidor de Energia Inteligente"
+    autores: "Arthur Trarbach Sampaio e Joao Pedro Camargo Batista"
+    descricao: "Medidor de Energia Inteligente. Parceria com a NOCS Soluções em Energia / CPID"
+    iframe: "https://youtube.com/embed/UBnaj2nQMcs"
+    github: "https://github.com/joaoBatista04/RT-Electrical-Measurement"
+
+  - nome: "Falando PorAI"
+    autores: "Diogo Delazare Brandao, Fabio Henrique Pascoal, Guilherme Ratti Moraes e Matheus Luciano Sesana Goldner"
+    descricao: "Falando PorAI - Modulador de Voz usando IA"
+    iframe: "https://youtube.com/embed/0Ue9vQFVYbs"
+    github: "https://github.com/JoemanJ/Falando-Por-AI"
+
+  - nome: "Automatic Garden Sprinkler"
+    autores: "Jordano Furtado De Souza, Luana Da Ros Almeida e Nathan Garcia Freitas"
+    descricao: "Automatic Garden Sprinkler para Automação Agrícola"
+    iframe: "https://youtube.com/embed/H0Hwx6Gq1J0"
+    github: "https://github.com/nathangarciaf/AutomaticGardenSprinkler"
+
+  - nome: "Hockey de Mesa"
+    autores: "Joao Gabriel De Barros Rocha, Luca Da Silva Avila e Tales Viana Ferracioli"
+    descricao: "Hockey de Mesa - Jogo Eletrônico"
+    iframe: "https://youtube.com/embed/e07JVcnWhxw"
+    github: "https://github.com/JoaoGBarros/Hockey-de-Mesa"
+
+  - nome: "SmartBin - Pitch"
+    autores: "Alan Medina Wehbe, Eduardo Marchese Perim, Pedro Antônio Rocha De Souza e Victor Soares Setúbal Wingler Locas"
+    descricao: "Lixeira Inteligente"
+    iframe: "https://www.youtube.com/embed/8ti2BUPQoxg"
+    github:
+
+  - nome: "Braço Robótico Interativo - Pitch"
+    autores: "Alexsander Barbosa Moura, Elder Ribeiro Storck, Guilherme Dayrell Cruz Soares e Jose Vitor Rodrigues Zorzal"
+    descricao: "Braço Robótico Interativo para Finalidade Educacional"
+    iframe: "https://www.youtube.com/embed/CtWAn6KHRFs"
+    github:
+
+  - nome: "Mão Robótica - Pitch"
+    autores: "David Cristian Motta Propato, Gustavo Breda Sarti, Jullie De Castro Quadros e Mateus Ticianeli Sartorio"
+    descricao: "Mão Robótica com Controle Externo para Finalidades Assistivas"
+    iframe: "https://www.youtube.com/embed/ABgpoZ_n9iE"
+    github:
+
+  - nome: "Vision-X - Pitch"
+    autores: "Arthur Tartaglia Pereira, Estevao Nunes Da Silva e Hugo Lima Otoch Demetrio De Souza"
+    descricao: "Vision-X: Dispositivo Vestível para Auxílio de Pessoas com Deficiência Visual"
+    iframe: "https://www.youtube.com/embed/TTrpTdKKw2o"
+    github:
+
+  - nome: "Braço Robótico - Pitch"
+    autores: "Ana Tereza Ribeiro Soares Pereira, Felipe Mattos Vanetti De Albuquerque, Luiz Felipe Machado e Vitor Dadalto Camara Gomes"
+    descricao: "Braço Robótico para Jogo de Tabuleiro"
+    iframe: "https://www.youtube.com/embed/XiDVNfnd730"
+    github:
+
+  - nome: "Medidor de Energia Inteligente - Pitch"
+    autores: "Arthur Trarbach Sampaio e Joao Pedro Camargo Batista"
+    descricao: "Medidor de Energia Inteligente. Parceria com a NOCS Soluções em Energia / CPID"
+    iframe: "https://www.youtube.com/embed/oUi-jfQ4Gm4"
+    github:
+
+  - nome: "PorAI - Pitch"
+    autores: "Diogo Delazare Brandao, Fabio Henrique Pascoal, Guilherme Ratti Moraes e Matheus Luciano Sesana Goldner"
+    descricao: "Falando PorAI - Modulador de Voz usando IA"
+    iframe: "https://www.youtube.com/embed/Np1itBIj5Gk"
+    github:
+
+  - nome: "Automatic Garden Sprinkler - Pitch"
+    autores: "Jordano Furtado De Souza, Luana Da Ros Almeida e Nathan Garcia Freitas"
+    descricao: "Automatic Garden Sprinkler para Automação Agrícola"
+    iframe: "https://www.youtube.com/embed/Jza8zngXZ4s"
+    github:
+
+  - nome: "Hockey de Mesa - Pitch"
+    autores: "Joao Gabriel De Barros Rocha, Luca Da Silva Avila e Tales Viana Ferracioli"
+    descricao: "Hockey de Mesa - Jogo Eletrônico"
+    iframe: "https://www.youtube.com/embed/ryy1jQDrr_8"
+    github:

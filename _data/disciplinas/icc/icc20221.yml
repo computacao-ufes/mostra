@@ -1,0 +1,57 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# ICC 2022/1
+##############################################################
+projetos:
+  - nome: "G1 - Cornudos Company"
+    autores: "Arthur Maciel, Eder Dias, Gustavo Penna, Matheus Fernandes e Miguel Pim"
+    descricao: "Startup que utiliza robótica e eletrônica para a produção de canudos biodegradáveis de amido de milho, visando reduzir o impacto ambiental."
+    iframe: "https://www.youtube.com/embed/xQynoOJ4WCk"
+
+  - nome: "G2 - StartingPoint"
+    autores: "Lucas Salatiel, Milena Curtinhas, Misael Florenciano, Paula Monteverde e Pedro Campagnoli"
+    descricao: "Plataforma online para divulgação de startups, conectando empresas a clientes e potenciais investidores."
+    iframe: "https://www.youtube.com/embed/Fz3_wLLmrfE"
+
+  - nome: "G3 - Bus-on"
+    autores: "Danielle Oliveira, Eliel Lima, Emilly Neves e Giulia Torres"
+    descricao: "Sistema baseado em inteligência artificial para identificar situações de violência em ônibus e enviar alertas automáticos às autoridades."
+    iframe: "https://www.youtube.com/embed/aFKxu0iBLwo"
+
+  - nome: "G4 - Acqualyze"
+    autores: "Gabriel Nascimento Oliveira, Gabriel Zuany Duarte Vargas, Lorenzo Rizzi Fiorot e Rafael Ribeiro Carvalho"
+    descricao: "Solução com sensores e internet conectados a hidrômetros para reduzir o desperdício de água."
+    iframe: "https://www.youtube.com/embed/Ic4Wcj6SHRQ"
+
+  - nome: "G5 - Clique&Obra"
+    autores: "Davi Altafim Santana, Iara Laeber Abreu, Matheus Souza Ribeiro, Pablo Araujo Carvalho e Pedro Henrique Bravim Duarte"
+    descricao: "Aplicativo que conecta usuários a profissionais de serviços domésticos próximos, com avaliações e estimativa de preços."
+    iframe: "https://www.youtube.com/embed/hXtq2M7cSmY"
+
+  - nome: "G6 - Live Learn"
+    autores: "Alan Teixeira, Arthur Lopes, Edgard Hubner, Thiago Gomes e Sávio Alex"
+    descricao: "Aplicativo educacional baseado em videochamadas para aulas individuais ou em grupo, com integração a universidades."
+    iframe: "https://www.youtube.com/embed/Ir0QsXPPw8w"
+
+  - nome: "G7 - InPeace Startup"
+    autores: "Antonio Ferreira Neto, Johann Jakob Schmitz Bastos, Jheam Storch Ross e Ricardo Magalhães Filho"
+    descricao: "Aplicativo para facilitar e digitalizar processos de assistência funerária, conectando usuários e funerárias."
+    iframe: "https://www.youtube.com/embed/MqTJLSBaCTA"
+
+  - nome: "G8 - Take a look"
+    autores: "Gabriella Sirtoli Borges, Jefferson Tatsu Komati Andrade, Kaio Silva Ribeiro e Murilo Salvador Dalmonech"
+    descricao: "Aplicativo para auxiliar pessoas com deficiência visual na identificação de medicamentos usando câmera e leitura por voz."
+    iframe: "https://www.youtube.com/embed/-V2uBJE0R8Q"

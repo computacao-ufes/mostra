@@ -1,0 +1,32 @@
+.memberContainer {
+    margin: 1rem;
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.memberCard {
+    padding: 1rem;
+    background-color: $erus_blue;
+    height: 12rem;
+    width: 100%;
+    border-radius: 15px;
+    color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    overflow: hidden;
+
+    img {
+        width: 35%;
+        border-radius: 100%;
+        border: 5px solid white;
+    }
+
+}

@@ -1,0 +1,77 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# PIC 2 EC 2022/1
+##############################################################
+projetos:
+  - nome: "Mão Robótica"
+    autores: "Andre Louis Souza Ribeiro, Andre Oliveira Cunha e Bruno Angeloti Pires"
+    descricao: "Mão robótica controlada remotamente via visão computacional e com acompanhamento em modelagem 3D, utilizando dados capturados por câmera e transmitidos a um microcontrolador."
+    iframe: "https://www.youtube.com/embed/BGj1MZ_O5vc"
+    github: "https://github.com/andreocunha/pic2_mao_robotica"
+
+  - nome: "Robô Identificador de Objetos"
+    autores: "Emerson Laranja dos Santos, Gabriel Silva Simoura e Maria Luiza Armini Correa"
+    descricao: "Robô controlado remotamente que transmite imagens para identificação de objetos em locais de difícil acesso utilizando rede Wi-Fi."
+    iframe: "https://www.youtube.com/embed/WaGRIer4UBM"
+    github: "https://github.com/EmersonLaranja/PIC2HWSW"
+
+  - nome: "CNC Controlada via Cloud Computing"
+    autores: "Guilherme Goes Zanetti, Joana Venturin Loureiro e Luiza Batista Laquini"
+    descricao: "Desenvolvimento de uma máquina CNC que recebe informações via cloud computing e grava dados em placas de alumínio a partir de formulários eletrônicos."
+    iframe: "https://www.youtube.com/embed/BaTi11NbmwU"
+    github: "https://github.com/luizalaquini/"
+
+  - nome: "Smart Coffee Machine"
+    autores: "Henrique Faria Ribeiro e Henrique Paulino Cruz"
+    descricao: "Cafeteira inteligente integrada a sistemas de automação residencial, como Home Assistant e Alexa, utilizando conceitos de Internet das Coisas."
+    iframe: "https://www.youtube.com/embed/U7VlfvshhLE"
+    github: "https://github.com/RiqueFR/smart-coffee-machine"
+
+  - nome: "Vending Machine com Contratos Inteligentes"
+    autores: "Joao Pedro Milli Biancardi e Victor Aguiar Marques"
+    descricao: "Vending machine física integrada a contratos inteligentes e criptomoedas, permitindo compras automatizadas a partir de transferências em blockchain."
+    iframe: "https://www.youtube.com/embed/Rwt40jxexXM"
+    github: "https://github.com/MillJoao/EthereumVendingMachine"
+
+  - nome: "Pitch - Mão Robótica"
+    autores: "Andre Louis Souza Ribeiro, Andre Oliveira Cunha e Bruno Angeloti Pires"
+    descricao: "Apresentação em formato pitch do projeto de mão robótica controlada remotamente por visão computacional."
+    iframe: "https://www.youtube.com/embed/QZtVfDEze9w"
+    github:
+
+  - nome: "Pitch - Robô Identificador de Objetos"
+    autores: "Emerson Laranja dos Santos, Gabriel Silva Simoura e Maria Luiza Armini Correa"
+    descricao: "Apresentação em formato pitch do robô identificador de objetos controlado remotamente."
+    iframe: "https://www.youtube.com/embed/F8kFAFzSRQk"
+    github:
+
+  - nome: "Pitch - CNC Controlada via Cloud Computing"
+    autores: "Guilherme Goes Zanetti, Joana Venturin Loureiro e Luiza Batista Laquini"
+    descricao: "Apresentação em formato pitch da máquina CNC integrada à computação em nuvem."
+    iframe: "https://www.youtube.com/embed/RQN5luqq3wg"
+    github:
+
+  - nome: "Pitch - Smart Coffee Machine"
+    autores: "Henrique Faria Ribeiro e Henrique Paulino Cruz"
+    descricao: "Apresentação em formato pitch da cafeteira inteligente integrada a sistemas de automação residencial."
+    iframe: "https://www.youtube.com/embed/9y_JjxWFSmM"
+    github:
+
+  - nome: "Pitch - Vending Machine com Contratos Inteligentes"
+    autores: "Joao Pedro Milli Biancardi e Victor Aguiar Marques"
+    descricao: "Apresentação em formato pitch da vending machine baseada em blockchain e contratos inteligentes."
+    iframe: "https://www.youtube.com/embed/Rwt40jxexXM"
+    github:

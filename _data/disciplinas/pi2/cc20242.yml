@@ -1,0 +1,35 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# PI 2 CC 2024/2
+##############################################################
+projetos:
+  - nome: "Brash"
+    autores: "Daniel Siqueira de Oliveira, Lucas Pereira Taborda, Matheus Saick de Martin e Renzo Henrique Guzzo Leão"
+    descricao: "Brash é um aplicativo Android para auxiliar estudantes a aprenderem e revisarem conceitos por meio de flashcards, que são cartões de estudo com perguntas e respostas usados para memorização de conteúdos."
+    iframe: "https://www.youtube.com/embed/Oy7HQAS7l5g"
+    github: "https://github.com/mobile-dev-ufes/2024-2-proj-final-brash"
+
+  - nome: "CityGuiaGo"
+    autores: "Gabriel Ferrari Wagnitz, Leonardo Franco Emerick Albergaria e Mateus Freitas Couto"
+    descricao: "CityGuiaGo é um aplicativo de viagens focado no público da Grande Vitória, facilitando o planejamento de passeios turísticos por meio de ferramentas para explorar atrações, criar roteiros personalizados e acessar ofertas de estabelecimentos locais."
+    iframe: "https://www.youtube.com/embed/RlBsZCU97mI"
+    github: "https://github.com/GFWagnitz/CityGuiaGo"
+
+  - nome: "CommunityLink"
+    autores: "Gabriel Braga Ladislau, Marlon Moratti do Amaral e Nilo Garcia Monteiro"
+    descricao: "CommunityLink é um aplicativo que conecta pessoas interessadas em voluntariado a projetos sociais, eventos e ações próximas e compatíveis com seus interesses, além de auxiliar coordenadores a divulgarem suas iniciativas com mais transparência."
+    iframe: "https://www.youtube.com/embed/pFeKg9TDjLc"
+    github: "https://github.com/mobile-dev-ufes/2024-2-proj-final-community-link"

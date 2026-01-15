@@ -1,0 +1,131 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# PI 1 CC 2022/1
+##############################################################
+projetos:
+  - nome: "SpotiPI"
+    autores: "João Felipe Gobeti Calenzani e Philipe Aguiar Marques"
+    descricao: "Aplicação web que utiliza a API do Spotify para exibir playlists, rankings de músicas e artistas mais escutados, distribuição de gêneros e informações do usuário."
+    iframe: "https://www.youtube.com/embed/eOgFPylvEj4"
+    github: "https://github.com/xRiku/spotipi"
+
+  - nome: "PlannYear"
+    autores: "Jordan Gonçalves Pereira"
+    descricao: "Sistema para planejamento pessoal com criação de tarefas associadas a datas e controle de gastos."
+    iframe: "https://www.youtube.com/embed/leCUzhm6_IA"
+    github: "https://github.com/jordangpereira/Plannyear"
+
+  - nome: "Renter - Gerência de locações"
+    autores: "Gabriel Ferrari Cipriano e Julio Bissoli"
+    descricao: "Aplicativo móvel para gerência e administração de locação de imóveis pessoais."
+    iframe: "https://www.youtube.com/embed/HTAkJhYCOQ4"
+    github: "https://github.com/juliobissoli/RenterApp"
+
+  - nome: "HookGator"
+    autores: "Elciney Júnior e Leonardo Fontes"
+    descricao: "Ferramenta que monitora a criação de processos no Windows e injeta DLLs para aplicar patches em chamadas da API."
+    iframe: "https://www.youtube.com/embed/SMHTKMXyzUo"
+    github: "https://github.com/Elcineyjr/HookGator"
+
+  - nome: "eFarm"
+    autores: "Gabriel Porto Santos Peixoto"
+    descricao: "Sistema de pesquisa farmacêutica que conecta clientes a farmácias com disponibilidade de produtos."
+    iframe: "https://www.youtube.com/embed/ISs8ux8dHik"
+    github: "https://github.com/gabrielppeixoto/eFarm2"
+
+  - nome: "ForYou"
+    autores: "Amanda Brito Apolinário e Paula Um Porto de Azeredo Bremenkamp"
+    descricao: "Aplicação para controle financeiro pessoal com acompanhamento mensal de ganhos e gastos e visualização gráfica."
+    iframe: "https://www.youtube.com/embed/qCwCjdGsWWU"
+    github: "https://github.com/kampuzzle/PI"
+
+  - nome: "CineList"
+    autores: "Bruno Menegaz Acerbi e Gustavo Dutra Santolin"
+    descricao: "Aplicação web para organizar filmes assistidos e a assistir, utilizando listas interativas e catálogo."
+    iframe: "https://www.youtube.com/embed/-jX31H6XlLg"
+    github: "https://github.com/Brunu-Mene/PI_CineList"
+
+  - nome: "Traveller Help"
+    autores: "Bruno Gomes de Azevedo"
+    descricao: "Aplicativo para controle de gastos em viagens com conversão de moedas e histórico de despesas."
+    iframe: "https://www.youtube.com/embed/PdkGWV8GKMI"
+    github: "https://github.com/brunogdz/travellerhelp"
+
+  - nome: "Chess Visualization"
+    autores: "Ezequiel Demetras Silva"
+    descricao: "Plataforma para treino de tática em xadrez sem visualização das peças, estimulando visualização mental."
+    iframe: "https://www.youtube.com/embed/luEgD5id3L0"
+    github: "https://github.com/NormanFrieman/chess-visualization"
+
+  - nome: "Meu Evento Favorito"
+    autores: "Gustavo Brunoro Nahuz, Henrycky Wottikosky da Fonceca e Julia Caldeira Mendonça"
+    descricao: "Sistema para gerenciamento interno de eventos com cadastro, edição, conclusão e persistência em banco de dados."
+    iframe: "https://www.youtube.com/embed/Y22Jj5mD4Qw"
+    github: "https://github.com/HenryWotti/Meu-Evento-Favorito"
+
+  - nome: "MyPoké"
+    autores: "Lucas Mendonça Emery Cade e Thiago Damasceno Silva"
+    descricao: "Sistema de gerenciamento de campeonatos Pokémon com base de dados da primeira geração e análise gráfica."
+    iframe: "https://www.youtube.com/embed/F-gJ-_mOhoQ"
+    github: "https://github.com/Lu-emery/MyPoke"
+
+  - nome: "Caronapp"
+    autores: "Lorenzo Miniguite Scarmaussa e Henrick Bartolo"
+    descricao: "Aplicativo em Flutter para oferta, busca e participação em caronas com grupos específicos."
+    iframe: "https://www.youtube.com/embed/fDtEl6FDpg0"
+    github: "https://github.com/Lorenzuou/caronapp"
+
+  - nome: "Memento Studio"
+    autores: "Hericles Bruno Koelher e Mikaella Ferreira da Silva"
+    descricao: "Aplicativo de flashcards colaborativo para auxiliar estudantes no processo de estudo."
+    iframe: "https://www.youtube.com/embed/btnbJ5YypJ8"
+    github: "https://github.com/hericles-koelher/memento_studio"
+
+  - nome: "HelpingPaw"
+    autores: "Christian Junji Litzinger State e Leonardo Franco Emerick Albergaria"
+    descricao: "Hub social para divulgação de casos de abandono e maus-tratos de animais, promovendo interação entre usuários."
+    iframe: "https://www.youtube.com/embed/JhV0dfQbhi4"
+    github: "https://github.com/LeoAlbergaria/HelpingPaw/"
+
+  - nome: "Alerta do Tesouro"
+    autores: "Atílio Antônio Dadalto e Henrique Coutinho Layber"
+    descricao: "Site que monitora taxas do Tesouro Direto e envia alertas personalizados por e-mail."
+    iframe: "https://www.youtube.com/embed/_x_7X1GOXnQ"
+    github: "https://github.com/AtilioA/AlertaDoTesouro"
+
+  - nome: "GMCT9"
+    autores: "Ezequiel Schneider Reinholtz e Luana Gabriele de Sousa Costa"
+    descricao: "Sistema para auxiliar estudantes no controle de disciplinas cursadas e planejamento acadêmico."
+    iframe: "https://www.youtube.com/embed/PGDchbBQiLw"
+    github: "https://github.com/luanagabrielescosta/GMCT9"
+
+  - nome: "Sistema de Vendas e Estoque (SISVE)"
+    autores: "Elaine Dias Pires, Filipe Gomes Arante de Souza e Juliana Camilo Repossi"
+    descricao: "Aplicação web para controle de vendas e estoque voltada a pequenos empreendedores."
+    iframe: "https://www.youtube.com/embed/Q33C89V5K4M"
+    github: "https://github.com/gomesfilipe/projeto-integrado"
+
+  - nome: "AlugaJogos"
+    autores: "Vitor Brunoro"
+    descricao: "Site para uma loja fictícia de aluguel de jogos de tabuleiro com exibição de acervo e reservas."
+    iframe: "https://www.youtube.com/embed/s35J5qJT-w8"
+    github: "https://github.com/Lorenzuou/caronapp"
+
+  - nome: "Alumni"
+    autores: "Débora Ghiotti, Kevin Vieira e Luísa Rios"
+    descricao: "Plataforma web para planejamento e acompanhamento da trajetória acadêmica universitária."
+    iframe: "https://www.youtube.com/embed/dPpiIuSqo9U"
+    github: "https://github.com/KevinVieiraa/alumni"

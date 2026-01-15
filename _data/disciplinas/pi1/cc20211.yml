@@ -1,0 +1,83 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# PI 1 CC 2021/1
+##############################################################
+projetos:
+  - nome: "Katify"
+    autores: "Sophie Dilhon Gama e Beatriz Matias Santana Maia"
+    descricao: "Software para controle de gestão pessoal utilizando quadros Kanban, permitindo organizar atividades em cartões, categorias e estágios."
+    iframe: "https://www.youtube.com/embed/j8LRSL6AxIA"
+    github: "https://github.com/AHalic/Katify"
+
+  - nome: "Price Action"
+    autores: "Alex Santos de Oliveira, Abraão Jesus dos Santos e Miguel Almeida Carlini"
+    descricao: "Plataforma para visualização de gráficos de ativos da bolsa de valores, utilizando dados da API Alpha Vantage e gráficos interativos."
+    iframe: "https://www.youtube.com/embed/Z9lvGRdoiVk"
+    github: "https://github.com/AbraaoAbe/ProjetoIntegrado_PriceAction"
+
+  - nome: "Gaming Hub"
+    autores: "Danielo Erler Lima e Enzo Baioco Cussuol"
+    descricao: "Plataforma voltada ao público gamer para centralizar informações sobre jogos, incluindo preços, descrições, desenvolvedores e comentários."
+    iframe: "https://www.youtube.com/embed/T-7lX9mFwlM"
+    github: "https://github.com/enzocussuol/Gaming-Hub"
+
+  - nome: "App To Do"
+    autores: "Fernando Azevedo Peres e Igor Mattos dos Santos Varejão"
+    descricao: "Aplicativo de organização pessoal para definição e acompanhamento de tarefas com interface simples e design moderno."
+    iframe: "https://www.youtube.com/embed/hl1ovUXH9_M"
+    github: "https://github.com/ivarejao/Todo"
+
+  - nome: "PLgym"
+    autores: "Leonardo Deorce Lima de Oliveira e Pedro Victor Alves de Souza Santos"
+    descricao: "Ferramenta para organizar exercícios físicos em casa, permitindo criar listas personalizadas com acesso a vídeos tutoriais."
+    iframe: "https://www.youtube.com/embed/9r8Xv2tUghc"
+    github: "https://github.com/pedrovic7997/PLGym"
+
+  - nome: "GameCenter"
+    autores: "Matheus Lenke Coutinho e Igor Wandermurem Dummer"
+    descricao: "Aplicativo para gerenciamento de jogos, permitindo registrar status, visualizar detalhes e integrar dados da IGDB e Twitch."
+    iframe: "https://www.youtube.com/embed/KobP1DHJkRE"
+    github: "https://github.com/matheuslenke/GameCenter"
+
+  - nome: "MaterialStock"
+    autores: "Renan Moreira Gomes e Ícaro Madalena do Nascimento"
+    descricao: "Sistema para gerenciamento de locação de materiais, objetos, clientes, colaboradores e ordens de serviço."
+    iframe: "https://www.youtube.com/embed/LpJ-sd6NCqM"
+    github: "https://github.com/realrootboy/materialstock"
+
+  - nome: "Moneymoney"
+    autores: "Ryan Tavares Farias da Silva Monteiro e Rogério Medeiros dos Santos Jr"
+    descricao: "Aplicação web para acompanhamento financeiro pessoal, com registro de transações e visualização de dados em gráficos."
+    iframe: "https://www.youtube.com/embed/G6puM_xKxMA"
+    github: "https://github.com/rtmonteiro/proj1-moneymoney"
+
+  - nome: "Graphet"
+    autores: "Tiago da Cruz Santos"
+    descricao: "Página web que permite criar, editar e compartilhar gráficos de crochê de forma pública ou privada."
+    iframe: "https://www.youtube.com/embed/OHjkWLQaPNI"
+    github: "https://github.com/TiagoCruzSantos/pi1-graphet"
+
+  - nome: "App do Café"
+    autores: "Vitor Berger Bonella e Luis Eduardo Freire da Câmara"
+    descricao: "Aplicação web para acompanhar preços do café e fomentar a comercialização por meio de anúncios de compra e venda."
+    iframe: "https://www.youtube.com/embed/6VsAxu6u4fs"
+    github: "https://github.com/VitorBonella/ProjetoIntegrado1-2021-1"
+
+  - nome: "Os Filhos das Queimadas"
+    autores: "Joana Santos Martins, Eduardo Afonso Ribeiro Rodrigues e Mateus Freitas Couto"
+    descricao: "Jogo RPG interativo com história original, focado em exploração de cenários, combates e resolução de mistérios."
+    iframe: "https://www.youtube.com/embed/xvK0agL6O7o"
+    github: "https://github.com/Joana-Santos-Martins/FilhoDasQueimadas"

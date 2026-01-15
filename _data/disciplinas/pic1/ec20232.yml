@@ -1,0 +1,83 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# PIC 1 EC 2023/2
+##############################################################
+projetos:
+  - nome: "Painel de Dados sobre Violência no Trânsito"
+    autores: "Eduardo Abreu de Oliveira, Cesar Augusto Rocha Filho, Matheus V. Baessa de Souza, João Paulo Salamon, Guilherme Augusto Barbosa Amorim e Gustavo Barcelos Dettogni"
+    descricao: "Painel de dados sobre violência no trânsito, integrando hardware e software para visualização de informações."
+    iframe: "https://www.youtube.com/embed/ziLX2oHggaA"
+    github: "https://github.com/"
+
+  - nome: "Lixeira Inteligente"
+    autores: "Anderson Pereira dos Santos Junior, Lucas Palauro Brioschi, Wilkis Gabriel de Andrade Campos e Yuri Groener da Victoria"
+    descricao: "Lixeira inteligente automatizada para facilitar o descarte de resíduos e incentivar boas práticas ambientais."
+    iframe: "https://www.youtube.com/embed/4OnS3CV_E54"
+    github: "https://github.com/YuriVictoria/LixeiraInteligente.git"
+
+  - nome: "Jogo Genius"
+    autores: "Daniel Antunes Franca de Menezes, Débora Azevedo Caetano e Marcos Vinícius de Souza Silva"
+    descricao: "Versão do jogo de memória Genius utilizando componentes eletrônicos e microcontrolador."
+    iframe: "https://www.youtube.com/embed/tjAzSjOay8E"
+    github: "https://github.com/mvssilva/PIC1-2023-2"
+
+  - nome: "Jogo Ligue4"
+    autores: "Heitor Pinheiro Sousa, Artur Noack de Souza e Rafael Santiago Altoé"
+    descricao: "Implementação do jogo Lig-4 (Conecta 4) com lógica embarcada e interface física."
+    iframe: "https://www.youtube.com/embed/aUjTGk0PagA"
+    github: "https://github.com/rsadr0pyz/Ligue-4"
+
+  - nome: "Mouse Acessível"
+    autores: "Eduarda Tonini Ferri, Elisa Müller Sarmento e Luiz Gabriel Figueiredo de Carvalho"
+    descricao: "Mouse alternativo projetado para acessibilidade, ampliando a usabilidade do computador para pessoas com limitações motoras."
+    iframe: "https://www.youtube.com/embed/YxxYEouVtwc"
+    github: "https://github.com/LGFigueiredoC/trabalhoPic_mouse.git"
+
+  - nome: "Horta Inteligente"
+    autores: "Gianluca Schmidt Mantovaneli e Arthur Tartaglia Pereira"
+    descricao: "Sistema de horta inteligente com monitoramento e automação de variáveis como umidade e irrigação."
+    iframe: "https://www.youtube.com/embed/mxeAXUYHBxs"
+    github: "https://github.com/ArthurTPereira/horta-inteligente.git"
+
+  - nome: "HandCar - Carro Controlado pelas Mãos"
+    autores: "André Penedo, Caio Nakamura e Filipe Silva"
+    descricao: "Carrinho robótico controlado pelos movimentos das mãos, explorando interfaces de controle alternativas."
+    iframe: "https://www.youtube.com/embed/tdXV2ZVqZfw"
+    github: "https://github.com/filipebcsilva/Projeto-de-PIC-2023-2--HANDCAR"
+
+  - nome: "Pedaleira com Arduino"
+    autores: "Thales Melo da Penha, Gustavo Oliveira Cassaro e Daniel Moulin de Almeida"
+    descricao: "Pedaleira para guitarra baseada em Arduino, permitindo a aplicação de efeitos sonoros controlados pelo usuário."
+    iframe: "https://www.youtube.com/embed/gO_LL4q7K-8"
+    github: "https://github.com/Thales-Melo/GuitarPedal-Arduino/tree/main/main"
+
+  - nome: "Estacionamento Inteligente"
+    autores: "Álvaro Antunes, Guilherme Louzada e Luiz Felipe Muller"
+    descricao: "Sistema de estacionamento inteligente com detecção de vagas e indicação ao usuário."
+    iframe: "https://www.youtube.com/embed/LHWrdMSX15Y"
+    github: "https://github.com/Ars-Lupin/Estacionamento-Inteligente.git"
+
+  - nome: "Robô com Controle pela Web"
+    autores: "Vítor Rodrigues, Pedro Henrique Carvalho e Eduardo Stein"
+    descricao: "Robô móvel controlado via web, permitindo comando remoto e monitoramento pela internet."
+    iframe: "https://www.youtube.com/embed/kqNE36Z6p2k"
+    github: "https://github.com/phmuniz/temperature-car"
+
+  - nome: "Robô Resolvedor de Labirintos"
+    autores: "Andre Altoe Santiago e Otávio Fava Souza de Assis"
+    descricao: "Robô autônomo capaz de percorrer e resolver labirintos utilizando sensores e algoritmos de navegação."
+    iframe: "https://www.youtube.com/embed/0C4KWsJBjPQ"
+    github: "https://github.com/otavioassis-git/maze-rat"

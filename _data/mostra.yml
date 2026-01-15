@@ -1,0 +1,278 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#   nome: "Projeto Integrado de Computação II"
+#   curso: "Engenharia de Computação"
+#   descricao: "Integração de Hardware e Software"
+#   data: "28/08/2025"
+#   hora: "10h as 12h"
+#   local: "CT-XII - Sala de Extensão"
+#   linkprojetos: "/projetos"
+#############
+# Importante: se for online sem horário, basta fazer:
+# local: online
+# E não incluir a hora
+#############
+
+##############################################################
+# MOSTRA 2025-1
+##############################################################
+2025-1:
+  - nome: "Projeto Integrado de Computação II"
+    curso: "Engenharia de Computação"
+    descricao: "Integração de Hardware e Software"
+    data: "28/08/2025"
+    hora: "10h às 12h"
+    local: "CT-XII - Sala de Extensão"
+    linkprojetos: "/eventos/PIC2-EC-20251/"
+
+  - nome: "Projeto Integrado I"
+    curso: "Ciência da Computação"
+    descricao: "Sistemas Web, Apps, Games"
+    data: "28/08/2025"
+    hora: "10h às 12h"
+    local: "CT-XII - Sala de Extensão"
+    linkprojetos: "/eventos/PI1-CC-20251"
+
+  - nome: "Introdução à Engenharia de Computação"
+    curso: "Engenharia de Computação"
+    descricao: "Tecnologia e Impacto Social"
+    data: "21/08/2024"
+    hora: "11h às 13h"
+    local: "CT-XIII - Auditório"
+    linkprojetos: "/eventos/IEC-20251"
+
+  - nome: "Introdução à Ciência da Computação"
+    curso: "Ciência da Computação"
+    descricao: "Tecnologia e Impacto Social"
+    data: "28/08/2024"
+    hora: "11h às 13h"
+    local: "Online"
+    linkprojetos: "/eventos/ICC-20251"
+
+##############################################################
+# MOSTRA 2024-2
+##############################################################
+2024-2:
+  - nome: "Projeto Integrado de Computação I"
+    curso: "Engenharia de Computação"
+    descricao: "Integração Hardware e Software"
+    data: "18/03/2025"    
+    local: "Online"
+    linkprojetos: "/eventos/PIC1-EC-20242/"
+
+  - nome: "Projeto Integrado II"
+    curso: "Ciência da Computação"
+    descricao: "Sistemas Web, Apps, Games"
+    linkprojetos: "/eventos/PI2-CC-20242"
+
+  - nome: "Computação e Sociedade"
+    curso: "Ciência da Computação & Engenharia de Computação"
+    descricao: "Desinformação, LGPD, BigTechs e o Desenvolvimento Sustentável"
+    data: "17/03/2024 e 21/03/2024"
+    hora: "15h e 10h"
+    local: "Auditório - CT XIII"
+    linkprojetos: "/eventos/COMPSOC-20242/"    
+
+##############################################################
+# MOSTRA 2024-1
+##############################################################
+2024-1:
+  - nome: "Introdução à Engenharia de Computação & Introdução à Engenharia Elétrica"
+    curso: "Engenharia de Computação & Engenharia Elétrica"
+    descricao: "Tecnologia e Impacto Social"
+    data: "25/07/2024"
+    Hora: "11h30 às 13:00h"
+    local: "CT-I - Auditório"
+    linkprojetos: "/eventos/IEC-20241"
+
+  - nome: "Projeto Integrado de Computação II"
+    curso: "Engenharia de Computação"
+    descricao: "Integração de Hardware e Software"
+    data: "25/07/2024"
+    hora: "10h às 12h"
+    local: "CT-XIII"
+    linkprojetos: "/eventos/PIC2-EC-20241"
+
+  - nome: "Projeto Integrado I"
+    curso: "Ciência da Computação"
+    descricao: "Sistemas Web, Apps, Games"
+    data: "25/07/2024"
+    hora: "10h às 12h"
+    local: "CT-XIII"
+    linkprojetos: "/eventos/PI1-CC-20241"
+
+##############################################################
+# MOSTRA 2023-2
+##############################################################
+2023-2:
+  - nome: "Projeto Integrado de Computação I"
+    curso: "Engenharia de Computação"
+    descricao: "Integração Hardware e Software"
+    data: "14/12/2023"
+    hora: "10h às 12h"
+    local: "Labgrad 3 - CT IX"
+    linkprojetos: "/eventos/PIC1-EC-20232/"
+
+  - nome: "Projeto Integrado II"
+    curso: "Ciência da Computação"
+    descricao: "Sistemas Web, Apps, Games"
+    data: "-"
+    hora: "-"
+    local: "-"
+    linkprojetos: "/eventos/PI2-CC-20232"
+
+
+##############################################################
+# MOSTRA 2023-1
+##############################################################
+2023-1:
+  - nome: "Introdução à Eng. de Computação & Introdução à Eng. Elétrica"
+    curso: "Engenharia de Computação & Engenharia Elétrica"
+    descricao: "Tecnologia e Impacto Social"
+    data: "17/07/2023"
+    hora: "13h às 15h"
+    local: "Online"
+    linkprojetos: "/eventos/IEC-20231/"
+
+  - nome: "Projeto Integrado de Computação II"
+    curso: "Engenharia de Computação"
+    descricao: "Integração de Hardware e Software"
+    data: "17/07/2023"
+    hora: "9h às 12h"
+    local: "CT-XIII"
+    linkprojetos: "/eventos/PIC2-EC-20231"
+
+  - nome: "Projeto Integrado I"
+    curso: "Ciência da Computação"
+    descricao: "Sistemas Web, Apps, Games"
+    data: "18/07/2023"
+    hora: "15h às 17h"
+    local: "Online"
+    linkprojetos: "/eventos/PI1-CC-20231" 
+
+  - nome: "Introdução à Ciência da Computação"
+    curso: "Ciência da Computação"
+    descricao: "Computação e impacto social"
+    data: "20/07/2023"
+    hora: "15h às 17h"
+    local: "Sala 208 - CT-IX"
+    linkprojetos: "/eventos/ICC-20231"
+
+
+##############################################################
+# MOSTRA 2022-2
+##############################################################
+2022-2:
+  - nome: "Projeto Integrado de Computação I"
+    curso: "Engenharia de Computação"
+    descricao: "Integração Hardware e Software"
+    data: "07/02/2023"
+    hora: "9h às 12h"
+    local: "CT XIII"
+    linkprojetos: "/eventos/PIC1-EC-20222/"
+
+  - nome: "Computação e Sociedade"
+    curso: "Ciência da Computação"
+    descricao: "Computação e Impacto Social"
+    data: "08/02/2023"
+    hora: "15h às 17h"
+    local: "Sala 208 - CT IX"
+    linkprojetos: "/eventos/COMPSOC-20222/"
+
+
+##############################################################
+# MOSTRA 2022-1
+##############################################################
+2022-1:
+  - nome: "Introdução à Eng. de Computação & Introdução à Eng. Elétrica"
+    curso: "Engenharia de Computação & Engenharia Elétrica"
+    descricao: "Tecnologia e Impacto Social"
+    data: "17/08/22"
+    hora: "13h às 15h"
+    local: "Online"
+    linkprojetos: "/eventos/IEC-20221/"
+
+  - nome: "Projeto Integrado de Computação II"
+    curso: "Engenharia de Computação"
+    descricao: "Integração de Hardware e Software"
+    data: "18/08/2022"
+    hora: "9h às 12h"
+    local: "CT-XIII"
+    linkprojetos: "/eventos/PIC2-EC-20221"
+
+  - nome: "Projeto Integrado I"
+    curso: "Ciência da Computação"
+    descricao: "Sistemas Web, Apps, Games"
+    data: "18/08/2022"
+    hora: "15h às 17h"
+    local: "Online"
+    linkprojetos: "/eventos/PI1-CC-20221" 
+
+  - nome: "Introdução à Ciência da Computação"
+    curso: "Ciência da Computação"
+    descricao: "Computação e impacto social"
+    data: "07/10/2021"
+    hora: "15h às 17h"
+    local: "Sala 208 - CT-IX"
+    linkprojetos: "/eventos/ICC-20221"       
+
+##############################################################
+# MOSTRA 2021-2
+##############################################################
+2021-2:
+  - nome: "Projeto Integrado de Computação I"
+    curso: "Engenharia de Computação"
+    descricao: "Integração Hardware e Software"
+    data: "22/03/2022"
+    hora: "9h às 11h"
+    local: "Online"
+    linkprojetos: "/eventos/PIC1-EC-20212/"
+
+  - nome: "Computação e Sociedade"
+    curso: "Ciência da Computação"
+    descricao: "Computação e Impacto Social"
+    data: "28/03/2022"
+    hora: "15h às 17h"
+    local: "Online"
+    linkprojetos: "/eventos/COMPSOC-20212/"
+
+##############################################################
+# MOSTRA 2021-1
+##############################################################
+2021-1:
+  - nome: "Introdução à Eng. de Computação & Introdução à Eng. Elétrica"
+    curso: "Engenharia de Computação & Engenharia Elétrica"
+    descricao: "Tecnologia e Impacto Social"
+    data: "06/10/21"
+    hora: "11h às 13h"
+    local: "Online"
+    linkprojetos: "/eventos/IEC-20211/"
+
+  - nome: "Projeto Integrado I"
+    curso: "Ciência da Computação"
+    descricao: "Sistemas Web, Apps, Games"
+    data: "07/10/2021"
+    hora: "15h às 17h"
+    local: "Online"
+    linkprojetos: "/eventos/PI1-CC-20211"
+
+  - nome: "Introdução à Ciência da Computação"
+    curso: "Ciência da Computação"
+    descricao: "Computação e impacto social"
+    data: "07/10/2021"
+    hora: "17h às 19h"
+    local: "Online"
+    linkprojetos: "/eventos/ICC-20211"
+
+##############################################################
+# MOSTRA 2020-2
+##############################################################
+2020-2:
+  - nome: "Projeto Integrado de Computação I"
+    curso: "Engenharia de Computação"
+    descricao: "Integração de Hardware e Software"
+    data: "2020"
+    hora: "10h às 12h"
+    local: "CT-XIII"
+    linkprojetos: "/eventos/PIC1-EC-20202/"

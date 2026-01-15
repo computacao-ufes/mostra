@@ -1,0 +1,62 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# COMPSOC 2021/2
+##############################################################
+projetos:
+  - nome: "Disciplina: IHC"
+    autores: "Allan Junior Fermão de Souza, Felipe Endlich, Henrique Coutinho Layber, Héricles Bruno Quaresma Koelher e Mikaella Ferreira da Silva"
+    descricao: "Proposta de alteração no programa da disciplina Interface Humano-Computador para inserir discussões sobre Ética profissional."
+    iframe: "https://www.youtube.com/embed/qbriTUlE1vU"
+
+  - nome: "Disciplina: Introdução à Computação"
+    autores: "Enzo Baioco Cussuol, Igor Mattos dos Santos Varejão, Miguel Almeida Carlini e Vitor Berger Bonella"
+    descricao: "Proposta de mudanças no programa da disciplina Introdução à Computação para incorporar discussões éticas nas atividades."
+    iframe: "https://www.youtube.com/embed/reHuYTdI_tA"
+
+  - nome: "Disciplina: Inteligência Artificial"
+    autores: "Gabriel Ferrari Cipriano, Leonardo Deorce Lima de Oliveira, Matheus Lenke Coutinho e Pedro Victor Alves de Souza Santos"
+    descricao: "Discussão sobre a necessidade de ampliar o debate ético na disciplina de Inteligência Artificial e proposta de alteração curricular."
+    iframe: "https://www.youtube.com/embed/2w5PSs8sDvo"
+
+  - nome: "Disciplina: Programação I (Grupo 1)"
+    autores: "Atilio Antônio Dadalto, João Felipe Gobeti Calenzani, Philipe Aguiar Marques e Vitor Ferraz Matos Brunoro"
+    descricao: "Proposta de alteração do programa da disciplina Programação I para destacar a importância da Ética na computação."
+    iframe: "https://www.youtube.com/embed/WadYV9H2-Ug"
+
+  - nome: "Disciplina: Ciência de Dados"
+    autores: "Beatriz Matias Santana Maia, Débora Rosario Ghiotti, Luana Gabriele de Souza Costa e Sophie Dilhon Gama"
+    descricao: "Análise ética da grade curricular e proposta de inclusão de debates sobre Ética na disciplina Ciência de Dados."
+    iframe: "https://www.youtube.com/embed/yZhnbhuVl3g"
+
+  - nome: "Análise Geral (Jordan Gonçalves Pereira)"
+    autores: "Jordan Gonçalves Pereira"
+    descricao: "Introdução à Ética na computação com proposta de alterações no currículo do curso de Ciência da Computação da UFES."
+    iframe: "https://www.youtube.com/embed/Us9UBz5FEYk"
+
+  - nome: "Disciplina: Programação I (Grupo 2)"
+    autores: "Danilo Erler Lima, Fernando Azevedo Peres, Luis Eduardo Freire da Câmara e Luisa Saldanha Rios"
+    descricao: "Análise da Ética na computação e proposta de alteração do programa da disciplina Programação I."
+    iframe: "https://www.youtube.com/embed/Rpnq4hvpXDk"
+
+  - nome: "Análise Geral (Lucas Mendonça Emery Cade)"
+    autores: "Lucas Mendonça Emery Cade"
+    descricao: "Avaliação global do currículo do curso de Ciência da Computação da UFES sob a perspectiva da Ética."
+    iframe: "https://www.youtube.com/embed/QIiloP52ziY"
+
+  - nome: "Ética na Computação (análise geral)"
+    autores: "Jairo Marcos Oliveira Moutinho"
+    descricao: "Sugestões para ampliar a discussão sobre Ética no curso de Ciência da Computação da UFES."
+    iframe: "https://www.youtube.com/embed/zNq7SzzgGDk"

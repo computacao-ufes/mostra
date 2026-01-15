@@ -1,0 +1,95 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# PI 1 CC 2025/1
+##############################################################
+projetos:
+  - nome: "Agenda CT"
+    autores: "Livia Helena Rosa Scopel e Samuel Bagatelli Sampaio"
+    descricao: "No CT, existem auditórios, salas de aula, salas de reuniões e laboratórios que ficam ociosos fora dos horários de aula e eventos. Esses espaços podem ser de uso muito proveitoso para os alunos, servidores e professores do Centro Tecnológico. Este aplicativo permite ver a agenda dos espaços do CT, sua localização no mapa, informações de infraestrutura de cada espaço, regras de uso, etc. Permite, ainda, o agendamento dos espaços diretamente na aplicação."
+    iframe: "https://www.youtube.com/embed/X2G4gx8Fk5E"
+    github: "https://github.com/sbsampaio/agenda-ct"
+
+  - nome: "Aprenda Grafos!"
+    autores: "Felipe Dos Santos Passarela e Maria Eduarda Noia Mattos De Azevedo"
+    descricao: "Aprenda Grafos! é uma aplicação web voltada para estudantes de tecnologia que tem como objetivo ensinar algoritmos de grafos."
+    iframe: "https://www.youtube.com/embed/mCGIigp-dq4"
+    github: "https://github.com/madudamattos/Aprenda-Grafos.git"
+
+  - nome: "CashMind"
+    autores: "Antonio Ferreira Neto, Arthur Roberto Barboza Maciel e Daniel Melhem Gobbi"
+    descricao: "CashMind é um site de gerenciamento de gastos que oferece dashboards para visualização dos dados financeiros e utiliza inteligência artificial para analisar os hábitos de consumo do usuário. Grande parte da população brasileira enfrenta dificuldades financeiras, muitas vezes por não saber exatamente onde e como está gastando seu dinheiro, além da falta de planejamento financeiro. Pensando nisso, nosso sistema foi idealizado para auxiliar essas pessoas, permitindo que acompanhem seus gastos mensais de forma clara e organizada. Além disso, a IA integrada ao sistema fornece sugestões personalizadas de economia, ajudando o usuário a poupar, construir uma reserva de emergência e alcançar diversos objetivos financeiros, como investir em ativos de renda fixa ou variável, ou até mesmo planejar uma aposentadoria privada."
+    iframe: "https://www.youtube.com/embed/-WibekUz-_w"
+    github: "https://github.com/AntFe/CashMind---FrontEnd"
+
+  - nome: "Doe Fácil"
+    autores: "Gustavo De Andrade Perini, Kaio Nascimento Lima e Matheus Castello De Rezende"
+    descricao: "Doe Fácil é uma plataforma web voltada para a doação de itens usados ou novos entre pessoas da comunidade. Seu principal objetivo é facilitar o encontro entre quem deseja doar objetos que não utiliza mais e quem está em busca desses mesmos itens."
+    iframe: "https://www.youtube.com/embed/cHsAzElUe2U"
+    github: "https://github.com/GustavooPerini/Doe_Facil"
+
+  - nome: "GameVerse"
+    autores: "Arthur Coelho Tosi, Pedro Sodre Malini e Theo Matteo Ferreira De Sa"
+    descricao: "O GameVerse é uma aplicação web desenvolvida para que jogadores possam registrar e compartilhar suas experiências com videogames. A aplicação busca resolver diversos problemas enfrentados por esses usuários, como a ausência de um histórico pessoal de jogos jogados, a dificuldade em encontrar recomendações personalizadas, a impossibilidade de avaliar os jogos de maneira estruturada e a falta de criação de listas temáticas."
+    iframe: "https://www.youtube.com/embed/rzVVM44foJM"
+    github: "https://github.com/theo-mattsa/gameverse-frontPI"
+
+  - nome: "IntroAct"
+    autores: "Aline Mendonca Mayerhofer Manhaes, Barbara Alencar De Araujo Pereira e Raony Togneri Gomes"
+    descricao: "O IntroAct foi idealizado como uma plataforma de atividades complementar e auxiliar ao curso Introcomp, oferecido gratuitamente por alunos da Ufes anualmente, cujo objetivo é democratizar o acesso ao mundo da programação por meio de aulas de Python. Por ser uma plataforma online, o IntroAct possibilita que não somente os alunos do Introcomp sejam beneficiados com tais atividades, mas também qualquer pessoa que queira aprender Python de forma descontraída."
+    iframe: "https://www.youtube.com/embed/CIqxZ7M_rS0"
+    github: "https://github.com/barbara-aper/IntroAct"
+
+  - nome: "LiftUp"
+    autores: "Gabriel De Albuquerque Santos, Joao Henrique Valbusa Lima e Pedro Henrique Simoes De Mendonca"
+    descricao: "Os atletas, geralmente, manipulam a intensidade das suas cargas por conta própria, sem garantia de resultados e de segurança. O LiftUp objetiva solucionar esse problema, fazendo uso de métricas verificadas cientificamente, de modo personalizado ao usuário, para proporcionar o melhor desempenho de forma otimizada e segura para o atleta. Ele registra o tipo de treino do usuário, os aparelhos, o número de repetições, grupos musculares trabalhados, carga entre outros dados, oferecendo sugestões de incremento para o treino, que levam em conta o seu ritmo de crescimento muscular."
+    iframe: "https://www.youtube.com/embed/aGu9fEvthvs"
+    github: "https://github.com/pedromendonca2/liftup"
+
+  - nome: "Minidias"
+    autores: "Eduardo Silva Guimaraes e Gabriel Sena Da Cunha"
+    descricao: "Minidias é uma aplicação web com objetivo de atuar como um diário virtual, onde o usuário gera registros para o dia que deseja, guardando suas lembranças de maneira mais objetiva, simples, organizada e com a opção de compartilhá-las com seus amigos."
+    iframe: "https://www.youtube.com/embed/TOwg2ufrs6k"
+    github: "https://github.com/oeduardosg/minidias"
+
+  - nome: "PlayBox"
+    autores: "Artur Mendes De Moraes, Pedro Henrique De Castro Cunha Quedevez e Renan Campista"
+    descricao: "O PlayBox é uma plataforma online dedicada à avaliação de jogos eletrônicos, inspirada em modelos como o Letterboxd para filmes. O objetivo do sistema é proporcionar uma experiência interativa aos usuários, permitindo que pesquisem jogos, os salvem em listas de favoritos e expressem suas opiniões por meio de avaliações e notas."
+    iframe: "https://www.youtube.com/embed/vPaZ6Y35M3k"
+    github: "https://github.com/RenanCampista/Playbox"
+
+  - nome: "PlayTorneios"
+    autores: "Gustavo Alves Penna Ferreira e Pedro Vieira Marquesini"
+    descricao: "A PlayTorneios visa facilitar a organização e gestão de campeonatos amadores de futebol, o que é muitas vezes feito de forma manual em grupos de WhatsApp, planilhas ou com papéis. O software fornecerá um ambiente para que isso seja feito de forma fácil e organizada, além de promover a automatização de funções que facilitam o registro de estatísticas e tabelas do campeonato."
+    iframe: "https://www.youtube.com/embed/n_hvF4_me58"
+    github: "https://github.com/pedromarquesini/playTorneios"
+
+  - nome: "RecipesFinder"
+    autores: "Erico Goncalves Guedes"
+    descricao: "O sistema RecipesFinder é um aplicativo mobile, com o objetivo de oferecer uma plataforma prática, acessível e colaborativa para pesquisa, visualização e compartilhamento de receitas culinárias. O principal propósito do RecipesFinder é facilitar o planejamento de refeições por meio de uma busca intuitiva por receitas, além de fomentar uma comunidade de usuários que possam compartilhar suas próprias criações culinárias."
+    iframe: "https://www.youtube.com/embed/Yb5jNnlpFfw"
+    github: "https://github.com/HoLoDun/RecipesFinder"
+
+  - nome: "Syncro"
+    autores: "Marcela Carpenter Da Paixao e Maria Luiza Ferreira Reis Santos"
+    descricao: 'O Syncro é uma aplicação de gestão cuja função é centralizar a organização de trabalhos em grupo, deixando visível tudo o que deve ser feito, por quem deve ser feito, os devidos prazos de cada tarefa, feedbacks e o progresso entre os membros, tudo em lugar só. A aplicação resolve o problema de falha comunicativa entre os membros de um grupo, evitando, assim, retrabalhos ou projetos "Frankenstein" (quando os membros fazem suas partes separadamente e, ao juntá-las, elas não ficam coesas).'
+    iframe: "https://www.youtube.com/embed/U_CcdyXaBNo"
+    github: "https://github.com/MarcelaPaixao/Syncro/tree/main"
+
+  - nome: "UniLink"
+    autores: "Conrado Antoniazi Dos Santos, Joao Pedro Pereira Loss e Raphael Correia Dornelas"
+    descricao: "O UniLink é uma plataforma digital desenvolvida com o objetivo de centralizar e facilitar o acesso às oportunidades extracurriculares oferecidas pela UFES. A proposta visa resolver os seguintes problemas enfrentados por estudantes e interessados: dificuldade em descobrir oportunidades extracurriculares, especialmente fora de seu departamento; divulgação descentralizada e ineficiente de processos seletivos, que ocorre por canais como WhatsApp, e-mail e cartazes físicos; falta de transparência sobre o cotidiano de projetos e grupos universitários."
+    iframe: "https://www.youtube.com/embed/dZNPuvEE6Rs"
+    github: "https://github.com/joaoloss/unilink-backend/"

@@ -1,0 +1,9 @@
+autor2:
+  name: "Nome"
+  avatar: /assets/imgs/avatar.png
+  bio: "Short Bio"
+  location: "Vitória - ES"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:autor@gmail.com

@@ -1,0 +1,71 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# ICC 2021/1
+##############################################################
+projetos:
+  - nome: "G1 - TEC Ambiental (Reciclar)"
+    autores: "Bruno Lopes Altoé, Carlos Eduardo Eugenio Silva, João Carlos Duarte de Miranda e Matheus Lopes Ferreira Lima"
+    descricao: "Aplicativo para orientar a população sobre descarte correto de resíduos e reciclagem, com sistema de pontos que podem ser convertidos em descontos como incentivo à reeducação ambiental."
+    iframe: "https://drive.google.com/file/d/1AepZcEv4EgDTJ-O4hvi7am2J7fZ2oPPF/preview"
+    github:
+
+  - nome: "G2 - Health+"
+    autores: "Breno de Oliveira da Silva, Marlon Moratti do Amaral, Pedro Vieira Marquesini e Renzo Henrique Guzzo Leão"
+    descricao: "Aplicativo voltado a empresas de saúde para agendamento de consultas e exames, pré-consultas online e gestão de dados com apoio de inteligência artificial."
+    iframe: "https://drive.google.com/file/d/1HrupmAbzaeQh9kEMVLIDGwC8kpjJVwG1/preview"
+    github:
+
+  - nome: "G3 - Pridge"
+    autores: "Antonio Lucio Braga Secchin, Eduarda Pylro Magesk, Matheus Saick De Martin e Pedro Igor Gomes de Morais"
+    descricao: "Plataforma que conecta profissionais liberais a clientes, funcionando como uma vitrine de serviços com sistema inteligente de busca e recomendação."
+    iframe: "https://drive.google.com/file/d/11Xvok-LViKBeGJiMKItwTkYvsoR4jaYW/preview"
+    github:
+
+  - nome: "G4 - Pronexum"
+    autores: "Felipe Mozer Barina, Nilo Garcia Monteiro, Vinicius Nunes Pereira e Vitor Facco Calmon"
+    descricao: "Plataforma para descoberta e financiamento de projetos de pesquisa científica, promovendo colaboração entre pesquisadores e investidores."
+    iframe: "https://drive.google.com/file/d/1T7eVCvvsbarAbfENivMqUzRwCxI9zLGE/preview"
+    github:
+
+  - nome: "G5 - ConecTrash"
+    autores: "Yan Maia, Gabriel Paschoal, Lucas Gabriel e Marcelo Henrique"
+    descricao: "Aplicativo que conecta pessoas e empresas envolvidas no descarte e reciclagem, promovendo consciência ambiental e incentivo econômico."
+    iframe: "https://drive.google.com/file/d/1iZ4bxgTo_rBxx6YhMsWhYI-RZVXroj0V/preview"
+    github:
+
+  - nome: "G6 - Do que você precisa"
+    autores: "Adryan dos Santos Casagrande, Breno Vimercati Souza Ferreira, Gabriel Braga Ladislau e Rhuan Garcia de Assis Teixeira"
+    descricao: "Startup que conecta consumidores a especialistas para auxiliar na escolha de eletrônicos, evitando compras que gerem lixo eletrônico."
+    iframe: "https://drive.google.com/file/d/1-iPp1ask8sRb5z4eb0MjeUnsCd3M2YPP/preview"
+    github:
+
+  - nome: "G7 - Bem-Te-Vi"
+    autores: "Leandro Frigini, Lucas Taborda, Marcus Louriçal e Matheus de Oliveira"
+    descricao: "Solução tecnológica para catalogação de pássaros de forma automatizada, auxiliando biólogos com baixo custo e maior eficiência."
+    iframe: "https://drive.google.com/file/d/1tAiY4-qwp_78poc2TkG6i-NonfTMxMDc/preview"
+    github:
+
+  - nome: "G8 - TechnoHealth"
+    autores: "Miguel Gewehr de Oliveira, Letícia Cardoso Rodrigues e Guilherme Silveira Gomes Brotto"
+    descricao: "Inteligência artificial para organização alimentar, com registro de refeições, alertas nutricionais, recomendações e apoio a quem cultiva alimentos."
+    iframe: "https://drive.google.com/file/d/123c96SkQl9L1Yfs3xtRfsQsOiVHr8otO/preview"
+    github:
+
+  - nome: "G10 - uMove"
+    autores: "Áurea Santos de Oliveira, Daniel Henrique Leonora de Amorim e Elina Gratz Pereira"
+    descricao: "Aplicativo que conecta pessoas interessadas em atividades esportivas a instrutores e centros esportivos, promovendo saúde e bem-estar."
+    iframe: "https://drive.google.com/file/d/1opana0Pq6xTr4E41AQrqQONLmmQNcC3S/preview"
+    github:

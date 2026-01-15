@@ -1,0 +1,47 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# PIC 2 EC 2023/1
+##############################################################
+projetos:
+  - nome: "SSMAI"
+    autores: "Gabrielly Barcelos Cariman, Mayke Wallace Silva Alves"
+    descricao: "Sistema de segurança domiciliar semi-autônomo baseado em inteligência artificial e reconhecimento facial com dupla validação, visando praticidade, confiabilidade e maior autonomia no controle de acessos."
+    iframe: "https://www.youtube.com/embed/Hd1foBAOOVI"
+    github: "https://github.com/Nitrox0Af/Security-System-Mediated-by-Artificial-Intelligence---SSMAI"
+
+  - nome: "Porta Medicamentos Digital"
+    autores: "Aryelle Gomes Siqueira, Giselle de Souza Pereira e Lohayne Malavasi Camillo"
+    descricao: "Porta medicamentos inteligente que permite a programação remota de horários de ingestão, emitindo alertas sonoros para auxiliar usuários e cuidadores no controle seguro do uso de medicamentos."
+    iframe: "https://www.youtube.com/embed/j-TXGOHhIJM"
+    github: "https://github.com/Lo-Camillo/PICII"
+
+  - nome: "Robô Controlado por Voz"
+    autores: "Elias Pereira Gomes Junior, Jose Jorge Moutinho Uliana e Maria Julia Damasceno Miranda Nolasco"
+    descricao: "Robô controlado por comandos de voz capaz de transmitir imagens via rede Wi-Fi e identificar objetos por visão computacional, voltado para exploração de ambientes de difícil acesso humano."
+    iframe: "https://www.youtube.com/embed/usalScPLEG4"
+    github: "https://github.com/EPGJ/object-recognition-voice-controlled-robot"
+
+  - nome: "RFlyD"
+    autores: "Arthur Coelho Estevao e Milena da Silva Mantovanelli"
+    descricao: "Sistema de automação de inventário em armazéns utilizando tecnologia RFID embarcada em drones autônomos, com foco em maior precisão, rapidez e redução de perdas logísticas."
+    iframe: "https://www.youtube.com/embed/Rwn_oiy8l1A"
+    github: "https://github.com/R-FlyD/RFlyD"
+
+  - nome: "Mesa Balanceadora"
+    autores: "Gabriel Pietroluongo Nascimento, Luiz Gabriel Bandeira e Ribeiro e Otavio Costa Sales"
+    descricao: "Mesa balanceadora que utiliza visão computacional e controle PID para equilibrar objetos sobre uma superfície plana, servindo como base experimental para aplicações industriais de controle automático."
+    iframe: "https://www.youtube.com/embed/uYJjAQkGxqc"
+    github: "https://github.com/pietroluongo/balance"

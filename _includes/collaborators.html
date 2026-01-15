@@ -1,0 +1,19 @@
+{%- for member in site.data.members.collaborators -%}
+<div class="member-container member-collaborator">
+
+    <img src="/assets/imgs/equipe/colaboradores/{{%member.photo%}}" class="member-img">
+    
+    <div class="member-info">
+      <ul>
+        <li> 
+          <a href="{{%member.site%}}" target="_blank"> {{%member.name%}} </a> 
+        </li>
+
+        <li>
+          <b> Filiação: </b> {{%member.desc%}}
+        </li>
+      </ul>
+    </div>
+    
+</div>
+{% endfor %}

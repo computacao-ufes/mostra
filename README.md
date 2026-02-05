@@ -29,6 +29,18 @@ tilizar esse template é que [a documentação dele é muito boa](https://mmista
 Todavia, o básico para alterar o site é descrito na próxima seção.
 
 
+## Como editar o site
+
+Para editar o site você precisa commitar uma versão para este repositório. O deploy do site é feito automaticamente após alguns segundos.
+
+Para editar, você pode clonar o repositório e seguir o fluxo de codificação normal. Porém, também é possível fazer via navegador. Para isso faça:
+- Abra a página do repositório
+- Aperte a tecla `.`
+- Vai abrir o projeto no VSCode direto no navegador. A partir dai é só editar e/ou criar os arquivos necessários
+- Ao finalizar basta acessar a opção `Controle de Código Fonte` no menu lateral
+- Escreva a mensagem do Commit e clique no botão `Commit e Push`
+
+
 ## Como criar uma nova mostra
 
 Na `home` do site é apresentada sempre a mostra mais recente. Para criar uma nova mostra, você deve acessar o arquivo `_data/mostra.yml` e inserir uma nova entrada de informações no topo do arquivo, conforme o exemplo abaixo:

@@ -20,11 +20,7 @@ Se você quiser ir mais a fundo e aprender Jekyll, você pode assistir as [víde
 ### Minimal Mistakes
 [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) é o nome do template/tema que utilizamos dentro do Jekyll para criar o nosso site. A ideia é que não precisamos reinventar a roda para ter algo funcinal e útil. Logo, utilizamos utilizamos o template como base a alteramos o que foi necessário para montar o site.
 
-Uma vantagem de utilizar esse template é que a documentação dele é muito boa. Sempre que quiser fazer algo diferente no site, você pode consultá-la para verificar se já não está implementado.
-
-Todavia, o básico para alterar o site é descrito na próxima seção.
-
-tilizar esse template é que [a documentação dele é muito boa](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/). Sempre que quiser fazer algo diferente no site, você pode consultá-la para verificar se já não está implementado.
+Uma vantagem de utilizar esse template é que [a documentação dele é muito boa](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/). Sempre que quiser fazer algo diferente no site, você pode consultá-la para verificar se já não está implementado.
 
 Todavia, o básico para alterar o site é descrito na próxima seção.
 

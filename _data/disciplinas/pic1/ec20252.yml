@@ -18,72 +18,72 @@
 projetos:
   - nome: "Ecolocalizador Tátil para Bicicletas Tandem"
     autores: "André Luiz Mendes Siqueira de Freitas, Anna Raquel Sandrini, Arthur Manelli, Caetano Zandonade e Daniela Pimentel"
-    descricao: "Dispositivo de assistência baseado em feedback tátil para aumentar a segurança, a confiança e a autonomia de pessoas com deficiência visual na condução de bicicletas tande"."
+    descricao: 'Dispositivo de assistência baseado em feedback tátil para aumentar a segurança, a confiança e a autonomia de pessoas com deficiência visual na condução de bicicletas tande.'
     iframe: "https://www.youtube.com/embed/eceHui0WBns"
     github: "https://github.com/annaraquelsnd/PIC-ecolocalizador/"
 
   - nome: "Torneira Inteligente"
     autores: "André Scheffer, Gabriel Tavares, Pedro Barreto"
-    descricao: "A Torneira Inteligente é um sistema de gestão hídrica residencial baseada em IoT. Diferente de torneiras automáticas comuns, este dispositivo não apenas automatiza o acionamento via sensores, mas conecta-se à nuvem para fornecer dados de consumo em tempo real e permitir controle remoto (corte de água à distância). O sistema foi projetado para resolver dois problemas: Higiene (acionamento sem toque) e Desperdício (monitoramento de tempo de uso)."
+    descricao: 'A Torneira Inteligente é um sistema de gestão hídrica residencial baseada em IoT. Diferente de torneiras automáticas comuns, este dispositivo não apenas automatiza o acionamento via sensores, mas conecta-se à nuvem para fornecer dados de consumo em tempo real e permitir controle remoto (corte de água à distância). O sistema foi projetado para resolver dois problemas: Higiene (acionamento sem toque) e Desperdício (monitoramento de tempo de uso).'
     iframe: "https://www.youtube.com/embed/9aEElHA-8s0"
     github: "https://github.com/andrescheffer28/pic1-torneiraInteligente"
 
   - nome: "Caixa Resfriadora de Botox/Ozempic"
     autores: "Thamires Venancio Mateus Conceição, Nicoly Lopes de Oliveira, Arthur Bonella de Vasconcelos"
-    descricao: "A Caixa Resfriadora de Botox é um sistema portátil de refrigeração com controle preciso de temperatura, projetado inicialmente para conservação de órgãos e adaptado para atender às necessidades do mercado estético, especificamente para transporte e armazenamento de botox e outros produtos termossensíveis. Objetivo Principal: Manter produtos termolábeis (como botox) dentro de faixas de temperatura específicas (10°C a 25°C) durante transporte, garantindo eficácia e segurança."
+    descricao: 'A Caixa Resfriadora de Botox é um sistema portátil de refrigeração com controle preciso de temperatura, projetado inicialmente para conservação de órgãos e adaptado para atender às necessidades do mercado estético, especificamente para transporte e armazenamento de botox e outros produtos termossensíveis. Objetivo Principal: Manter produtos termolábeis (como botox) dentro de faixas de temperatura específicas (10°C a 25°C) durante transporte, garantindo eficácia e segurança.'
     iframe: "https://www.youtube.com/embed/bGTuRTKEjs0"
     github: "https://github.com/arthurbonella/PIC_T2/tree/main"
 
   - nome: "Robô Aranha Controlado por Gestos"
     autores: "Enrico Polez Ferreira Pinto, Larissa Fernandes da Silva, Leo Santos Carvalho Comerio"
-    descricao: "O projeto que consiste no desenvolvimento de um robô terrestre do tipo quadrúpede (robô aranha), controlado por gestos do usuário para monitoramento de áreas ambientais. Os gestos são capturados por uma câmera conectada a um computador e interpretados por técnicas de visão computacional. A partir dessa interpretação, comandos de movimento são enviados a um ESP32, que retransmite essas instruções ao robô utilizando o protocolo ESP-NOW. O ESP32 receptor então repassa os comandos via comunicação serial para um Arduino Uno, responsável pelo controle direto dos servomotores."
+    descricao: 'O projeto que consiste no desenvolvimento de um robô terrestre do tipo quadrúpede (robô aranha), controlado por gestos do usuário para monitoramento de áreas ambientais. Os gestos são capturados por uma câmera conectada a um computador e interpretados por técnicas de visão computacional. A partir dessa interpretação, comandos de movimento são enviados a um ESP32, que retransmite essas instruções ao robô utilizando o protocolo ESP-NOW. O ESP32 receptor então repassa os comandos via comunicação serial para um Arduino Uno, responsável pelo controle direto dos servomotores.'
     iframe: "https://www.youtube.com/embed/ZC7B3v-S1D8"
     github: "https://github.com/larissafernandesds/Robo-Controlado-Por-Gestos"
 
   - nome: "Matriz de LED Interativa"
     autores: "Davi Milanez de Almeida, Heitor Valim Bianconi, João Gabriel Rosa Pereira"
-    descricao: "O projeto consiste em um dispositivo embarcado que utiliza uma matriz de LEDs endereçáveis para fornecer informações em tempo real e entretenimento interativo. O objetivo principal é explorar a integração de sensores inerciais com processamento de sinais para criar uma interface de usuário baseada inteiramente na orientação física do objeto. O dispositivo exibe dados de tempo, data, temperatura ambiente e um jogo de labirinto com física gravitacional simulada."
+    descricao: 'O projeto consiste em um dispositivo embarcado que utiliza uma matriz de LEDs endereçáveis para fornecer informações em tempo real e entretenimento interativo. O objetivo principal é explorar a integração de sensores inerciais com processamento de sinais para criar uma interface de usuário baseada inteiramente na orientação física do objeto. O dispositivo exibe dados de tempo, data, temperatura ambiente e um jogo de labirinto com física gravitacional simulada.'
     iframe: "https://www.youtube.com/embed/AHsjzf_HB_I"
     github: "https://github.com/davimufes/Matriz-Interativa-PIC1"
 
   - nome: "BioGnosis"
     autores: "Beatriz Videira Freitas, Bernardo Francisco Matos, Guilherme Lovatti Coelho Dias"
-    descricao: "O BioGnosis é um projeto desenvolvido na disciplina de Projeto Integrado de Computação, da Universidade Federal do Espírito Santo (UFES), ministrada pelo professor Jadir Eduardo Souza Lucas. Seu objetivo é auxiliar no cuidado e cultivo de plantas por meio de um sistema integrado de sensores de temperatura, umidade e luminosidade, capaz de monitorar em tempo real as condições ideais de cada espécie, com base em um banco de dados configurável. Para permitir o acompanhamento à distância, o sistema conta com um aplicativo conectado aos sensores, que coleta e apresenta as informações ao usuário, tornando o monitoramento remoto prático e acessível, sem limitar o uso a um ambiente específico."
+    descricao: 'O BioGnosis é um projeto desenvolvido na disciplina de Projeto Integrado de Computação, da Universidade Federal do Espírito Santo (UFES), ministrada pelo professor Jadir Eduardo Souza Lucas. Seu objetivo é auxiliar no cuidado e cultivo de plantas por meio de um sistema integrado de sensores de temperatura, umidade e luminosidade, capaz de monitorar em tempo real as condições ideais de cada espécie, com base em um banco de dados configurável. Para permitir o acompanhamento à distância, o sistema conta com um aplicativo conectado aos sensores, que coleta e apresenta as informações ao usuário, tornando o monitoramento remoto prático e acessível, sem limitar o uso a um ambiente específico.'
     iframe: "https://www.youtube.com/embed/aySUlsA4xTc"
     github: "https://github.com/Lovattii/BioGnosis"
 
   - nome: "Facelock"
     autores: "Arthur Uliana de Angelo, Heitor Guerra Proveti, Igor Pezzin Barbosa"
-    descricao: "Sistema completo de controle de acesso (fechadura inteligente) baseado em reconhecimento facial com verificação de vivacidade (anti-spoofing)."
+    descricao: 'Sistema completo de controle de acesso (fechadura inteligente) baseado em reconhecimento facial com verificação de vivacidade (anti-spoofing).'
     iframe: "https://www.youtube.com/embed/6vy3m-i3ekM"
     github: "https://github.com/Ruhtra47/facelock"
 
   - nome: "ByteSight: Dispositivo de Assistência e Segurança para Deficientes Visuais"
     autores: "Djalma Zottele Salvador, João Paulo Pollesi Santana, João Vitor Teixeira Duarte"
-    descricao: "O ByteSight é um dispositivo vestível (wearable) desenvolvido na forma de uma manopla, projetado para auxiliar pessoas com deficiência visual na navegação espacial e na segurança pessoal. O sistema integra sensores de distância baseados em ultrassom e laser (Time-of-Flight) para fornecer feedback háptico (vibração) sobre obstáculos, além de um sistema de geolocalização e comunicação via Bluetooth para envio de alertas de emergência."
+    descricao: 'O ByteSight é um dispositivo vestível (wearable) desenvolvido na forma de uma manopla, projetado para auxiliar pessoas com deficiência visual na navegação espacial e na segurança pessoal. O sistema integra sensores de distância baseados em ultrassom e laser (Time-of-Flight) para fornecer feedback háptico (vibração) sobre obstáculos, além de um sistema de geolocalização e comunicação via Bluetooth para envio de alertas de emergência.'
     iframe: "https://www.youtube.com/embed/Mw9lHnEsxD4"
     github: "https://github.com/pollesi/ByteSight"
 
   - nome: "Tracker LoRA"
     autores: "Calebe Almeida Rezende, Samara Gonçalves de Oliveira, Vinícius Cunha Martins, Vitória Gomes Fagundes"
-    descricao: "O projeto consiste no desenvolvimento de um sistema eletrônico de rastreamento GPS de baixo consumo energético, baseado no microcontrolador ESP32 e na tecnologia de comunicação LoRa. O sistema foi projetado para operar com um raio de alcance médio de aproximadamente 5 km, possibilitando a transmissão de dados de localização geográfica de forma eficiente e confiável."
+    descricao: 'O projeto consiste no desenvolvimento de um sistema eletrônico de rastreamento GPS de baixo consumo energético, baseado no microcontrolador ESP32 e na tecnologia de comunicação LoRa. O sistema foi projetado para operar com um raio de alcance médio de aproximadamente 5 km, possibilitando a transmissão de dados de localização geográfica de forma eficiente e confiável.'
     iframe: "https://www.youtube.com/embed/9fvLzIdZ2WE"
     github: "https://github.com/ViniciusCunhaMartins/PIC-I"
 
   - nome: "FireVision"
     autores: "Daniel Silva Braz, João Vitor Coimbra Silva, Thiago Messias Martinelli"
-    descricao: "Os incêndios representam uma das principais ameaças à segurança humana e ambiental, especialmente em áreas urbanas e florestais. Nesse contexto, este projeto apresenta o desenvolvimento do FireVision, um robô móvel inteligente voltado ao combate inicial a incêndios em pequena escala. O sistema é capaz de se locomover em ambientes internos, detectar focos de fogo por meio de sensores de chama, extinguir automaticamente o incêndio utilizando um sistema de bombeamento de água e operar de forma remota por meio de um aplicativo móvel. O projeto busca reduzir riscos à vida humana, otimizar o tempo de resposta em emergências e promover o uso da robótica e automação como ferramentas de apoio à segurança pública e ambiental."
+    descricao: 'Os incêndios representam uma das principais ameaças à segurança humana e ambiental, especialmente em áreas urbanas e florestais. Nesse contexto, este projeto apresenta o desenvolvimento do FireVision, um robô móvel inteligente voltado ao combate inicial a incêndios em pequena escala. O sistema é capaz de se locomover em ambientes internos, detectar focos de fogo por meio de sensores de chama, extinguir automaticamente o incêndio utilizando um sistema de bombeamento de água e operar de forma remota por meio de um aplicativo móvel. O projeto busca reduzir riscos à vida humana, otimizar o tempo de resposta em emergências e promover o uso da robótica e automação como ferramentas de apoio à segurança pública e ambiental.'
     iframe: "https://www.youtube.com/embed/XlU2uCO-Pa8"
     github: "https://github.com/danielbrazxyz/FireVision"
 
   - nome: "Monitor de corrente alternada"
     autores: "Pedro Sergio Falcao Fabres, Pedro Guisso Magdinier, Vitor Dimas Trindade Carvalho Barbara"
-    descricao: "O projeto é um dispositivo capaz de ler, processar e enviar todos os dados de energia coletados de um fio ligado a um sistema de corrente alternada. Este protótipo auxilia no maior controle, principalmente, do consumo de energia de determinada carga, podendo essa ser até mesmo uma casa inteira."
+    descricao: 'O projeto é um dispositivo capaz de ler, processar e enviar todos os dados de energia coletados de um fio ligado a um sistema de corrente alternada. Este protótipo auxilia no maior controle, principalmente, do consumo de energia de determinada carga, podendo essa ser até mesmo uma casa inteira.'
     iframe: "https://www.youtube.com/embed/4osq0E-oIqU"
     github: "https://github.com/VitorD93/Monitor-de-corrente-alternada"
 
   - nome: "Bicicletário Automatizado - LockeCycle"
     autores: "Alvaro Luiz Ribeiro Nogueira, Matheus Castelo Dornellas"
-    descricao: "Bicicletário Automatizado - LockeCycle"
+    descricao: 'Bicicletário Automatizado - LockeCycle'
     iframe: "https://www.youtube.com/embed/UA60a1BqjHA"
     github: "https://github.com/Nioxiz/codigo_Lock_Cycle"

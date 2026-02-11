@@ -26,6 +26,14 @@
     local: "CT-XII - Sala de Extensão"
     linkprojetos: "/eventos/PI2-CC-20252"
 
+  - nome: "Computação e Sociedade"
+    curso: "Ciência da Computação"
+    descricao: "Desinformação, LGPD, BigTechs e o Desenvolvimento Sustentável"
+    data: "12/02/2026"
+    hora: "online"
+    local: "online"
+    linkprojetos: "/eventos/COMPSOC-CC-20252/"
+
 ##############################################################
 # MOSTRA 2025-1
 ##############################################################

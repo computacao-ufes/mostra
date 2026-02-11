@@ -19,7 +19,7 @@ projetos:
   - nome: "Ecolocalizador Tátil para Bicicletas Tandem"
     autores: "André Luiz Mendes Siqueira de Freitas, Anna Raquel Sandrini, Arthur Manelli, Caetano Zandonade e Daniela Pimentel"
     descricao: 'Dispositivo de assistência baseado em feedback tátil para aumentar a segurança, a confiança e a autonomia de pessoas com deficiência visual na condução de bicicletas tande.'
-    iframe: "https://www.youtube.com/embed/eceHui0WBns"
+    iframe: "https://www.youtube.com/embed/QljJDB3P3zE"
     github: "https://github.com/annaraquelsnd/PIC-ecolocalizador/"
 
   - nome: "Torneira Inteligente"

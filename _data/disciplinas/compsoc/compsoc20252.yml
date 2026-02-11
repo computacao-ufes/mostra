@@ -1,0 +1,34 @@
+##############################################################
+# COMPSOC 2025/2
+##############################################################
+
+projetos:
+  - nome: "O impacto da Inteligência Artificial no mundo do trabalho"
+    autores: "João Pedro Camargo Batista"
+    descricao: "Vídeo educativo sobre a utilização da inteligência artificial em ambientes de trabalho. O vídeo traz discussões sobre as transformações ocorridas no mercado de trabalho desde o advento dos modelos de IA de comando e de agentes. O vídeo também aborda cases de sucesso que vêm sendo aplicados na UFES para a formação de profissionais capacitados para lidar com essas transformações radicais."
+    iframe: "https://www.youtube.com/embed/n1lEMIf3wac?si=lfPrEQw5878ocf_T"
+
+  - nome: "Ética e privacidade no uso de dados pessoais"
+    autores: "Pedro Henrique Castro Q, Gabriel de Albuquerque Santos, Renan Campista, Matheus Castello Rezende, João Henrique Valbusa Lima"
+    descricao: "Vídeo educativo sobre ética e privacidade no uso de dados pessoais na sociedade digital. O conteúdo aborda o que são dados pessoais, como eles são coletados e utilizados, os riscos do uso indevido dessas informações e a importância da Lei Geral de Proteção de Dados (LGPD), incentivando uma postura consciente e crítica dos usuários."
+    iframe: "https://www.youtube.com/embed/XchT8CXeyHw?si=gK6tOuQOWPQKmcJo"
+
+  - nome: "Mulheres na Computação: desafios e conquistas"
+    autores: "Aline Manhães, Bárbara Pereira, Raony Togneri"
+    descricao: "Vídeo educativo sobre mulheres na computação. Descubra os números atuais da participação feminina, conheça nomes históricos e suas contribuições. O vídeo aborda o apagamento das mulheres, os desafios até a paridade, o que foi conquistado até hoje, e como tem sido o caminho até o progresso."
+    iframe: "https://www.youtube.com/embed/Oh1mWF1GucY?si=-Eg3PmnEcU28N5_j"
+
+  - nome: "Privacidade, vigilância e o preço da conveniência"
+    autores: "Lívia Scopel, Samuel Bagatelli Pedro Henrique Mendonça, Arthur Tosi"
+    descricao: "Vídeo educativo sobre privacidade, vigilância e o preço da conveniência. O conteúdo abrange como nossos dados são coletados e monetizados, riscos à privacidade, manipulação e como podemos nos proteger nos meios digitais."
+    iframe: "https://youtu.be/jJLAyEmUbK4?si=6nUwyjwNqCICXmJh"
+
+  - nome: "Fake News, bolhas digitais e manipulação algorítmica"
+    autores: "Eduardo Guimarães, Gabriel Sena, Marcela Paixão, Maria Luiza"
+    descricao: "Vídeo educativo"
+    iframe: "https://youtu.be/8Kuwvxj-Ykw"
+
+  - nome: "Automação e futuro do trabalho: a era dos algoritmos"
+    autores: "Conrado Antoniazi, Daniel Corona, João Loss, Raphael Dornelas, Pedro Sodré"
+    descricao: "Este vídeo apresenta um trabalho de graduação sobre Inteligência Artificial, explorando seu histórico, seus principais conceitos e analisando seus impactos no mercado de trabalho, com foco nas transformações profissionais, desafios e novas oportunidades geradas pela tecnologia."
+    iframe: "https://www.youtube.com/embed/UuhWPGmchfE?si=UArise-vJ--CoDXO"

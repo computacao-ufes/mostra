@@ -18,6 +18,14 @@
 # MOSTRA 2025-2
 ##############################################################
 2025-2:
+  - nome: "Projeto Integrado de Computação I"
+    curso: "Engenharia de Computação"
+    descricao: "Integração de Hardware e Software"
+    data: "12/02/2025"
+    hora: "11h às 13h"
+    local: "CT-XII - Sala de Extensão"
+    linkprojetos: "/eventos/PIC1-EC-20252/"
+
   - nome: "Projeto Integrado II"
     curso: "Ciência da Computação"
     descricao: "Sistemas Web, Apps, Games"

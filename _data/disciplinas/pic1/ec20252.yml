@@ -43,7 +43,7 @@ projetos:
   - nome: "Matriz de LED Interativa"
     autores: "Davi Milanez de Almeida, Heitor Valim Bianconi, João Gabriel Rosa Pereira"
     descricao: 'O projeto consiste em um dispositivo embarcado que utiliza uma matriz de LEDs endereçáveis para fornecer informações em tempo real e entretenimento interativo. O objetivo principal é explorar a integração de sensores inerciais com processamento de sinais para criar uma interface de usuário baseada inteiramente na orientação física do objeto. O dispositivo exibe dados de tempo, data, temperatura ambiente e um jogo de labirinto com física gravitacional simulada.'
-    iframe: "https://www.youtube.com/embed/AHsjzf_HB_I"
+    iframe: "https://www.youtube.com/embed/XK2EMrZF9Dg"
     github: "https://github.com/davimufes/Matriz-Interativa-PIC1"
 
   - nome: "BioGnosis"

@@ -16,26 +16,27 @@
 # PI 2 CC 2025/2
 ##############################################################
 projetos:
-  - nome: "Bookd"
-    autores: "Ricardo Magalhaes Santos Filho"
-    descricao: "Bookd é um repositório pessoal de leituras (não apenas de livros, mas artigos, ensaios e outros), com funcionalidades de rede social, um rico painel de métricas e recomendações inteligentes."
-    iframe: "https://www.youtube.com/embed/"
-    github: ""
+# Não entregou o trabalho
+#  - nome: "Bookd"
+#     autores: "Ricardo Magalhaes Santos Filho"
+#     descricao: "Bookd é um repositório pessoal de leituras (não apenas de livros, mas artigos, ensaios e outros), com funcionalidades de rede social, um rico painel de métricas e recomendações inteligentes."
+#     iframe: "https://www.youtube.com/embed/"
+#     github: ""
 
   - nome: "Curso Shodan FEJ"
     autores: "Gabriel Nascimento Oliveira, Icaro Madalena do Nascimento e Miguel Gewehr de Oliveira"
     descricao: "Um sistema de gestão do Curso de Shodan da Federação Espíritosantensse de Judô, uma plataforma para administrar a formação e o progresso de candidatos à faixa preta."
-    iframe: "https://www.youtube.com/embed/"
-    github: ""
+    iframe: "https://www.youtube.com/embed/lXBMHiTSzso?si=diXBfOmUJzZ3ELdW"
+    github: "https://github.com/MiguelGewehr/curso-shodan-fej"
 
   - nome: "Solidariza"
     autores: "Artur Mendes de Moraes e Iury Candeias Nogueira da Gama"
     descricao: "Solidariza é uma ferramenta digital simples e acessível para estimular a solidariedade, o reaproveitamento de bens e a contrução de redes de ajuda mútua."
-    iframe: "https://www.youtube.com/embed/"
-    github: ""
+    iframe: "https://www.youtube.com/embed/SEyepp1KJWo?si=_CTgnIlAGDtCfHDV"
+    github: "https://github.com/IuryGama/pi2-solidariza"
 
   - nome: "Studynest"
     autores: "Karla Sancio, Leticia Cardoso Rodrigues, Talles Cavalleiro Weiler e Yan Oliveira Maia"
     descricao: "Studynest é uma plataforma mobile que atua como ponte digital para a colaboração acadêmica, oferecendo uma solução integrada para organizar estudos em grupo em ambientes universitários e afins."
-    iframe: "https://www.youtube.com/embed/"
-    github: ""
+    iframe: "https://www.youtube.com/embed/PULtUNXiOFo?si=7pYXeFRjqEVxJsX0"
+    github: "https://github.com/KarlaSancio/Studynest"

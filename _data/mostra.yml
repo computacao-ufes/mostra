@@ -25,6 +25,13 @@
     hora: "10h às 12h"
     local: "CT-XII - Sala de Extensão"
     linkprojetos: "/eventos/PIC2-EC-20261/"
+  - nome: "Introdução à Engenharia de Computação"
+    curso: "Engenharia de Computação"
+    descricao: "Tecnologia e Impacto Social"
+    data: "19/07/2024"
+    hora: "11h às 13h"
+    local: "CT09 - sl 207"
+    linkprojetos: "/eventos/IEC-20261"
 
 ##############################################################
 # MOSTRA 2025-2

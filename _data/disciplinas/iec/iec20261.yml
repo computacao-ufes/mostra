@@ -1,0 +1,23 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# IEC 2026/1
+##############################################################
+projetos:
+  - nome: "teste"
+    autores: "Heitor Proveti, Helio Dorea, João Rosa e Maurício Gomez"
+    descricao: ""
+    iframe: "https://www.youtube.com/embed/EAi0A95SnTc" 
+    github:

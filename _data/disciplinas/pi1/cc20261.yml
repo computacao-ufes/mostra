@@ -1,0 +1,101 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# PI 1 CC 2026/1
+##############################################################
+projetos:
+  - nome: "Academic Pinpoint"
+    autores: "Rodolfo Reetz da Silva, Tiago Machado dos Santos, Victor Dutra de Jesus"
+    descricao: "Para um estudante, se manter constantemente atualizado e organizado em relação a editais, cursos, eventos, estágios e bolsas, etc…, durante sua formação pode ser bem desafiador. Ter de acessar uma grande quantidade de plataformas para procurar por informações pode ser um processo desgastante e ineficaz em muitos casos. O propósito do Academic Pinpoint é reunir e organizar informações dispersas em um único lugar, ajudando o estudante a descobrir novas oportunidades que possam potencializar sua vida acadêmica e profissional."
+    iframe: "https://www.youtube.com/embed/"
+    github: ""
+
+  - nome: "BuukMatch"
+    autores: "Marina Bragatto Pereira, Ronald de Lima Alves, Thais Gomes Brandao"
+    descricao: "O BuukMatch tem como propósito conectar leitores por meio de um ambiente de resenhas e troca de itens literários. O sistema busca unir amantes de livros que residem próximos uns aos outros, por meio de um ambiente de troca que funciona por meio de publicações dos livros que se deseja desapegar, levando em conta a distância entre os interessados e também os gostos pessoais."
+    iframe: "https://www.youtube.com/embed/"
+    github: ""
+
+  - nome: "Ct_Forum"
+    autores: "Leticia Mariana Da Silva Ferreira, Paulo Sergio Amorim Monico, Vitor Soprani Passamani"
+    descricao: "O sistema tem como objetivo ser um fórum para os alunos do Centro Tecnológico, onde possam interagir; compartilhar informações, vivências da universidade, avisos, dicas de estudo etc."
+    iframe: "https://www.youtube.com/embed/"
+    github: ""
+
+  - nome: "DependencyHeaven"
+    autores: "Davi Altafim Santana, Francisco Vassoler Merizio, Paula Marques Monteverde"
+    descricao: "Para que você possa focar todo seu esforço em execução e performance, o Paraíso das Dependências te ajuda com a parte do planejamento. Você pode ter diversos projetos diferentes, em que, em cada um deles, você define todas as responsabilidades e atribuições que você lembrar, adicionando novas tarefas independentes, podendo ter o nome e a descrição, para que nunca se perca com andamento do processo."
+    iframe: "https://www.youtube.com/embed/"
+    github: ""
+
+  - nome: "Dishd"
+    autores: "Eduardo Capobiango Ferraz, Mateus Biancardi da Silva, Ricardo Modenese Ramalho"
+    descricao: "O Dishd é uma plataforma social mobile-first dedicada à curadoria e registro de experiências gastronômicas na Grande Vitória. Inspirado no modelo de journaling do Letterboxd, o sistema permite que entusiastas da culinária local transformem o ato de comer fora em um diário pessoal e social, organizando visitas, notas e recomendações em uma interface elegante e intuitiva."
+    iframe: "https://www.youtube.com/embed/"
+    github: ""
+
+  - nome: "Divide Aí"
+    autores: "David Marques de Oliveira Leal, Emilly Lopes das Neves"
+    descricao: "Um projeto mobile completo para o gerenciamento inteligente e transparente de despesas compartilhadas. Tem o objetivo de tornar a convivência financeira em grupos mais simples. O aplicativo permite que amigos, familiares e colegas registrem gastos, dividam custos automaticamente e acompanhem em tempo real quem deve a quem, facilitando na hora de pagar contas em grupo."
+    iframe: "https://www.youtube.com/embed/"
+    github: ""
+
+  - nome: "Gerencia PET"
+    autores: "Joao Vitor Soares dos Santos, Lucas D’Amato Nitz, Pedro Alexandre Simoes Lorenzutti"
+    descricao: "O sistema tem como objetivo centralizar e otimizar a gestão e a divulgação das atividades promovidas pelos diversos grupos PET (Programa de Educação Tutorial) da Universidade Federal do Espírito Santo (Ufes). Atualmente, as informações sobre cursos, workshops e processos seletivos são descentralizadas, dificultando o acesso dos alunos da universidade e a comunidade externa aos cursos. Além disso, a gestão interna dos grupos (controle de membros, inscrições em eventos e emissão de certificados) costuma ser um processo manual e trabalhoso. O Gerencia PET resolve esses problemas unificando a vitrine de cursos para qualquer indivíduo interessado, facilitando a gestão de alunos, eventos e a emissão de certificados."
+    iframe: "https://www.youtube.com/embed/"
+    github: ""
+
+  - nome: "PathUFES"
+    autores: "Caio Costa Lopes, Daniel Olimpio Sbrocco, Miguel Zon Murad"
+    descricao: "O PathUFES tem como objetivo auxiliar alunos do curso de Ciência da Computação da UFES no planejamento de sua trajetória acadêmica, indicando o caminho mais eficiente de disciplinas a cursar até a conclusão do curso. Atualmente, esse planejamento é feito de forma manual pelos próprios estudantes, que precisam consultar o currículo do curso, identificar pré-requisitos, co-requisitos, períodos de oferta de cada disciplina e equilibrar a carga horária por semestre — um processo trabalhoso e propenso a erros."
+    iframe: "https://www.youtube.com/embed/"
+    github: ""
+
+  - nome: "ScheduleGuide"
+    autores: "Fabiola Meireles Vilaca, Igor Wandekochen Bittencourt, Rafael Vieira de Almeida"
+    descricao: "O ScheduleGuide é um sistema pensado para ajudar estudantes no planejamento e execução de suas sessões de estudo, por meio da visualização dos objetivos e sugestão de cronogramas. Os usuários podem registrar os conteúdos que desejam estudar com os recursos de apoio cabíveis e preencher um calendário com suas janelas de disponibilidade. A partir de ambos os dados, o sistema permite que um cronograma seja construído ou sugere um com base nas configurações, e proporciona um acompanhamento compreensivo."
+    iframe: "https://www.youtube.com/embed/"
+    github: ""
+
+  - nome: "Studex"
+    autores: "Artur Vitor Cintra Bernardes, Felipe Pedrini Oliveira, Luiz Fernando de Souza Coutinho Cardoso"
+    descricao: "O sistema tem como objetivo ajudar os alunos a estudar através de resumos, flashcards, mapas mentais gerados por uma Large Language Model (LLM). Todas essas funcionalidades estarão em um só lugar de fácil acesso e com o conteúdo estruturado de forma a priorizar o entendimento da matéria/assunto em questão. Outro ponto interessante do sistema, é que ele foi idealizado para gamificar os estudos, utilizando por exemplo um sistema de Hot-Streak/Heatmap, onde o usuário deve estudar todos os dias para conseguir manter sua sequência de estudos."
+    iframe: "https://www.youtube.com/embed/"
+    github: ""
+
+  - nome: "SuaPousada.com"
+    autores: "Bruno Vale Lourenco, Rafael Rodrigues Matos, Yuri Tressmann Mutz"
+    descricao: "O SuaPousada.com é um sistema web desenvolvido para auxiliar na gestão de pousadas, oferecendo ferramentas que facilitam a organização e o controle das operações diárias do estabelecimento. A plataforma permite administrar reservas, hóspedes, quartos, pagamentos e serviços de forma prática, centralizada e eficiente. O sistema busca otimizar processos administrativos, reduzir erros operacionais e melhorar a experiência tanto dos administradores quanto dos clientes. Além disso, o aplicativo proporciona maior agilidade no atendimento, melhor controle financeiro e mais eficiência no gerenciamento das informações da pousada."
+    iframe: "https://www.youtube.com/embed/"
+    github: ""
+
+  - nome: "TaskSlayer"
+    autores: "Gianluca Schmidt Mantovaneli, Talles Cavalleiro Weiler"
+    descricao: "Um aplicativo para gerenciamento pessoal, o objetivo é que o usuário possa registrar hábitos, tarefas diárias e tarefas de longo prazo. A ideia é que o app seja gamificado, dando recompensas visuais dentro do aplicativo sempre que uma tarefa for feita, e alguma coisa negativa se algo não for feito."
+    iframe: "https://www.youtube.com/embed/"
+    github: ""
+
+  - nome: "UniFlow"
+    autores: "Pedro Marchini Pereira"
+    descricao: "O sistema UniFlow tem como objetivo auxiliar estudantes universitários na organização de tarefas acadêmicas, provas, trabalhos e compromissos relacionados à faculdade. Muitos alunos utilizam diferentes aplicativos ou até anotações em papel para controlar suas atividades, o que dificulta a visualização de prazos e prioridades. O UniFlow centraliza todas essas informações em um único sistema, permitindo que o usuário acompanhe disciplinas, organize tarefas e receba lembretes importantes. O sistema busca melhorar a produtividade, organização e gerenciamento de tempo dos estudantes."
+    iframe: "https://www.youtube.com/embed/"
+    github: ""
+
+  - nome: "Work and Rest"
+    autores: "Joao Vitor Carvalho Pereira Rodrigues, Lucas Daniel Percebo Teixeira, Luiz Felipe Pereira Nolasco"
+    descricao: "O sistema tem como objetivo auxiliar na gestão de tempo das pessoas em relação às atividades de estudos e/ou trabalho, para que essas tarefas tenham a maior eficiência possível."
+    iframe: "https://www.youtube.com/embed/"
+    github: ""

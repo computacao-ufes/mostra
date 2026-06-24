@@ -42,6 +42,13 @@
     local: "Virtual"
     linkprojetos: "/eventos/IEC-20261"
 
+  - nome: "Introdução à Ciência da Computação"
+    curso: "Ciência da Computação"
+    descricao: "Computação em Transformação: Tendências, Desafios e Oportunidades"
+    data: "09/07/2026"
+    local: "Virtual"
+    linkprojetos: "/eventos/ICC-20261"
+
 ##############################################################
 # MOSTRA 2025-2
 ##############################################################

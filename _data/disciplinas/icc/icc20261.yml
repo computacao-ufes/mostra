@@ -1,0 +1,66 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# ICC 2026/1
+##############################################################
+projetos:
+  - nome: "Computação em Nuvem"
+  autores: "Henrique, Rodrigo, Davi, Jabez, Artur Pivas"
+  descricao: "Aqui, falamos sobre computação em nuvem, uma tecnologia amplamente utilizada para a hospedagem de aplicações e sistemas. Abordamos desde os diferentes tipos de nuvem até questões mais técnicas."
+  iframe: "https://www.youtube.com/embed/d1B60HcHJC8"
+  github: ""
+
+- nome: "Imperialismo Tecnológico"
+  autores: "Arthur Pina, Felipe Pagotto, Henrique Lemke, Pedro Vairo, Ramon Ventorim"
+  descricao: ""
+  iframe: ""
+  github: ""
+
+- nome: "Indústria 4.0"
+  autores: "Amanda Ferreira, Brenda Lopes, Bruna Rechel, Mary Hygino, Vitória Quemelli"
+  descricao: "Neste vídeo, apresentamos os principais conceitos da Quarta Revolução Industrial e as tecnologias que estão transformando a forma como produzimos e trabalhamos. Falamos sobre Internet das Coisas (IoT), Inteligência Artificial, Big Data, Computação em Nuvem, Robótica, Impressão 3D, Realidade Aumentada e Cibersegurança, além dos impactos dessas inovações no mercado de trabalho e no desenvolvimento industrial do Brasil e do mundo. "
+  iframe: "https://www.youtube.com/embed/WJNG3ZBfMfE"
+  github: ""
+
+- nome: "Lixo Eletrônico"
+  autores: "Manuelly, André S., Heitor"
+  descricao: ""
+  iframe: ""
+  github: ""
+
+- nome: "Cibersegurança"
+  autores: "Isabelly, Heloara, Andrei, Kauã"
+  descricao: ""
+  iframe: ""
+  github: ""
+
+- nome: "Algoritmos no Cotidiano"
+  autores: "Isabella, João A., Ryan, Guilherme"
+  descricao: "O tema busca abordar a forma como algoritmos afetam a nossa sociedade e a nossa visão de mundo, criando efeitos como "bolhas sociais", entre muitos outros. Aborda também como grandes empresas de tecnologia buscam a melhor forma de utilizar os algoritmos como ferramente para a retenção dos usuários nas suas aplicações."
+  iframe: "https://www.youtube.com/embed/Rx4UYxJ5_Sk"
+  github: ""
+
+- nome: "Redes Neurais"
+  autores: "Enzo V., Diego, Gustavo Barreto, Matheus B., João Vitor Caetano"
+  descricao: ""
+  iframe: ""
+  github: ""
+
+- nome: "IA na Educação"
+  autores: "Ted Jules, Rivedelo, Uziel"
+  descricao: "Explora o impacto positivo da Inteligência Artificial na educação. O conteúdo destaca a IA como uma ferramenta que auxilia no ensino, demonstrando como ela facilita o aprendizado dos aluno, ajudando na abstração de conceitos e na busca de informações. E otimiza a rotina dos professores, oferecendo suporte prático na elaboração de atividades e no planejamento de aula"
+  iframe: "https://www.youtube.com/embed/DSD_7kA5SQc"
+  github: ""
+

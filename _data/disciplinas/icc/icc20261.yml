@@ -36,8 +36,8 @@ projetos:
   
   - nome: "Lixo Eletrônico"
     autores: "Manuelly, André S., Heitor"
-    descricao: ""
-    iframe: ""
+    descricao: "Neste vídeo monstramos qual é a maneira correta de fazer o descarte do seu lixo eletrónico, informando os pontos corretos e exemplificando em uma atuação."
+    iframe: "https://www.youtube.com/embed/bU-uc7XJS7g?si=ZrG8kK5yMA3Nr-Jc"
     github: ""
   
   - nome: "Cibersegurança"

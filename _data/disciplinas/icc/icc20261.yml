@@ -54,8 +54,8 @@ projetos:
   
   - nome: "Redes Neurais"
     autores: "Enzo V., Diego, Gustavo Barreto, Matheus B., João Vitor Caetano"
-    descricao: ""
-    iframe: ""
+    descricao: "Este vídeo apresenta uma introdução às redes neurais artificiais, explicando de forma objetiva como esses modelos são inspirados no funcionamento do cérebro humano. São abordados os conceitos básicos de neurônios artificiais, camadas de uma rede neural, processamento de informações e aprendizado por ajuste de pesos, além de exemplos de aplicações da Inteligência Artificial em diferentes contextos. "
+    iframe: "https://www.youtube.com/embed/mWD7t3SqoBY?si=KdpYxIbbTChUDKoP"
     github: ""
   
   - nome: "IA na Educação"

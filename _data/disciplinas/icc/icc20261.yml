@@ -24,8 +24,8 @@ projetos:
 
   - nome: "Imperialismo Tecnológico"
     autores: "Arthur Pina, Felipe Pagotto, Henrique Lemke, Pedro Vairo, Ramon Ventorim"
-    descricao: ""
-    iframe: ""
+    descricao: "O mundo digital não é neutro. Neste vídeo, exploramos como grandes potências tecnológicas controlam dados, infraestrutura e narrativas globais, e o que isso significa para a soberania dos países em desenvolvimento."
+    iframe: "https://www.youtube.com/embed/Bh4-iKo2Zwc?si=9VxqA4ZYS_FNyxFR"
     github: ""
 
   - nome: "Indústria 4.0"
@@ -42,8 +42,8 @@ projetos:
   
   - nome: "Cibersegurança"
     autores: "Isabelly, Heloara, Andrei, Kauã"
-    descricao: ""
-    iframe: ""
+    descricao: "Cibersegurança"
+    iframe: "https://www.youtube.com/embed/NDQ63wqQH3U?si=BeyscWwFRLIVftVP"
     github: ""
   
   - nome: "Algoritmos no Cotidiano"

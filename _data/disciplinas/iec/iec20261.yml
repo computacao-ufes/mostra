@@ -34,6 +34,25 @@ projetos:
     iframe: "https://www.youtube.com/embed/sgTzB3lxUe4"
     github:
 
+  - nome: "GRUPO 4: EcoCiclo"
+    autores: "Lorenzo A. Tottola, Julia L. dos Santos"
+    descricao: "Um dos principais obstáculos para a eficiência da reciclagem atual é a contaminação dos resíduos no momento do descarte, quando materiais diferentes são misturados pelo usuário. A EcoCiclo propõe uma solução por meio de uma lixeira automatizada que realiza a triagem e separação mecânica dos materiais de forma autônoma. O sistema integra-se à rede digital para identificar o usuário via CPF, convertendo o descarte validado em créditos e benefícios utilizáveis no comércio e nos serviços da própria região."
+    iframe: "https://www.youtube.com/embed/fSyNtQlfYP4"
+    github:
+
+  - nome: "GRUPO 5: Pertin"
+    autores: "Vitor Brigante, Isabela Freitas, Daniel Cantarella, Davi Saad"
+    descricao: "Aplicativo que ajuda pequenos negócios a ganharem visibilidade, simultaneamente entregando qualidade e preços baixos aos consumidores."
+    iframe: "https://www.youtube.com/embed/WU3lMNy1o1c"
+    github:
+
+  - nome: "GRUPO 6: SignLink"
+    autores: "Ana Luisa Scalzer, Heitor Januario, Vinicius Sant'Ana"
+    descricao: "Plataforma multimodal que utiliza a câmera do dispositivo para interpretar Libras e a fala humana simultaneamente e aumentar a acessibilidade para pessoas surdas."
+    iframe: "https://www.youtube.com/embed/uyC3kepIPms"
+    github:
+    
+
 
 
 

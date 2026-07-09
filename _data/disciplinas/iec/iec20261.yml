@@ -21,10 +21,10 @@ projetos:
     descricao: "A InsightRoad é uma proposta de solução para os problemas de congestionamento de trânsito que investe em uma cidade mais inteligente para uma melhor vida urbaba"
     iframe: "https://www.youtube.com/embed/AFhmkPVWejA"
     github:
-  - nome: "teste"
-    autores: "Heitor Proveti, Helio Dorea, João Rosa e Maurício Gomez"
-    descricao: ""
-    iframe: "https://www.youtube.com/embed/EAi0A95SnTc" 
+  - nome: "GRUPO 2:	Equilibrium"
+    autores: "Pedro B. Olioza, Tiago R. Barcellos, Matheus A. de Castro, Mabson F. Pereira"
+    descricao: "A Equilibrium é uma solução de acessibilidade digital que utiliza inteligência artificial adaptativa para pessoas com limitações ou espasmos motores. O software aprende o padrão de movimento do usuário em tempo real e filtra os tremores, garantindo o controle preciso de mouses, teclados e telas digitais."
+    iframe: "https://www.youtube.com/embed/MYxoPio6Ufg" 
     github:
   - nome: "teste"
     autores: "Heitor Proveti, Helio Dorea, João Rosa e Maurício Gomez"

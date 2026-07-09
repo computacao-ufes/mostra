@@ -21,48 +21,4 @@ projetos:
     descricao: "A InsightRoad é uma proposta de solução para os problemas de congestionamento de trânsito que investe em uma cidade mais inteligente para uma melhor vida urbaba"
     iframe: "https://www.youtube.com/embed/AFhmkPVWejA"
     github:
-  - nome: "GRUPO 2:	Equilibrium"
-    autores: "Pedro B. Olioza, Tiago R. Barcellos, Matheus A. de Castro, Mabson F. Pereira"
-    descricao: "A Equilibrium é uma solução de acessibilidade digital que utiliza inteligência artificial adaptativa para pessoas com limitações ou espasmos motores. O software aprende o padrão de movimento do usuário em tempo real e filtra os tremores, garantindo o controle preciso de mouses, teclados e telas digitais."
-    iframe: "https://www.youtube.com/embed/MYxoPio6Ufg" 
-    github:
-  - nome: "GRUPO 3:	SafeMind AI"
-    autores: "Pedro Heraclito K. A. Pereira, Silas T. Favalessa, Joao Vitor S. Ramos, Kevin Alexander M. Milliole"
-    descricao: "Os casos de burn out vem se tornando cada vez mais frequentes, e isso se tornou uma preocupação também para as empresas, principalmente após a modificação da NR1. Por isso, essa ideia foi criada: uma ferramenta de acompanhamento de saúde mental dos trabalhadores via aplicativo e que direciona o trabalho da equipe de RH."
-    iframe: "https://www.youtube.com/embed/sgTzB3lxUe4" 
-    github:
-  - nome: "GRUPO 4	EcoCiclo"
-    autores: "Lorenzo A. Tottola, Julia L. dos Santos "
-    descricao: "Um dos principais obstáculos para a eficiência da reciclagem atual é a contaminação dos resíduos no momento do descarte, quando materiais diferentes são misturados pelo usuário. A EcoCiclo propõe uma solução por meio de uma lixeira automatizada que realiza a triagem e separação mecânica dos materiais de forma autônoma. O sistema integra-se à rede digital para identificar o usuário via CPF, convertendo o descarte validado em créditos e benefícios utilizáveis no comércio e nos serviços da própria região."
-    iframe: "https://www.youtube.com/embed/fSyNtQlfYP4" 
-    github:
-  - nome: "GRUPO 5:	Pertin"
-    autores: "Vitor Brigante, Isabela Freitas, Daniel Cantarella, Davi Saad"
-    descricao: "Aplicativo que ajuda pequenos negócios a ganharem visibilidade, simultaneamente entregando qualidade e preços baixos aos consumidores."
-    iframe: "https://www.youtube.com/embed/WU3lMNy1o1c" 
-    github:
-- nome: "GRUPO 6:	SignLink"
-    autores: "Ana Luisa Scalzer, Heitor Januario, Vinicius Sant'Ana"
-    descricao: "Plataforma multimodal que utiliza a câmera do dispositivo para interpretar Libras e a fala humana simultaneamente e aumentar a acessibilidade para pessoas surdas."
-    iframe: "https://www.youtube.com/embed/uyC3kepIPms" 
-    github:
-  - nome: "GRUPO 7:	Nanoplastic"
-    autores: "Diogo R. O. Bazani, Joel A. da Silva, Gabriel Henriques S. e Almeida"
-    descricao: "A Nanoplastic é uma startup que faz coleta de plástico dos oceanos. Através da coleta de plásticos descartados no fundo do oceano e da pré-filtragem do microplástico, coletamos e diminuímos os plásticos no litoral. Por meio de nanotecnologia reestruturamos o plástico, para que seja inserido novamente na sua cadeia. O plástico produzido será vendido para empresas que fazem impressão 3D de próteses de membros para pessoas com deficiência física no Brasil."
-    iframe: "https://www.youtube.com/embed/F68OdLmYd6s" 
-    github:
-  - nome: "GRUPO 8:	BateriaCerta"
-    autores: "Thiago Thibes, Rafael A. Fonseca, Murilo F. Marcelino"
-    descricao: "A nossa startup tem como o objetivo a reciclagem de pilas e baterias, através de um processo de reciclagem mais eficiente, capaz de recuperar matérias valiosos , apoiando a transição para uma economia mais circular."
-    iframe: "https://www.youtube.com/embed/Mwv6E2ycSHI" 
-    github:
-  - nome: "GRUPO 9:	EnxergaFacil"
-    autores: "Lucas G. Lyra, Arthur Gabriel de S. Costa "
-    descricao: "A solução funciona em quatro etapas principais: primeiro, a câmera captura o ambiente à frente do usuário. Depois, a IA embarcada interpreta a imagem localmente. Em seguida, o sistema classifica o risco, como buracos, degraus ou objetos no caminho. Por fim, o usuário recebe um alerta simples por vibração ou som, indicando direção e proximidade do obstáculo."
-    iframe: "https://www.youtube.com/embed/aoIPVhEO98I" 
-    github:
-  - nome: "teste"
-    autores: "Heitor Proveti, Helio Dorea, João Rosa e Maurício Gomez"
-    descricao: ""
-    iframe: "https://www.youtube.com/embed/EAi0A95SnTc" 
-    github:
+  

@@ -13,10 +13,10 @@
 #############
 
 ##############################################################
-# IEC 2025/1
+# IEC 2026/1
 ##############################################################
 projetos:
-  - nome: "EducaCoin"
+  - nome: "EducaCoinxxxxxxxxxxxx"
     autores: "Heitor Proveti, Helio Dorea, João Rosa e Maurício Gomez"
     descricao: ""
     iframe: "https://www.youtube.com/embed/SxmyVLAOVSM"
@@ -32,46 +32,4 @@ projetos:
     autores: "Anna Sarnaglia, Beatriz Freitas e Isabel de Castro"
     descricao: ""
     iframe: "https://www.youtube.com/embed/krXyPTHXB-c"
-    github:
-
-  - nome: "NexCortex"
-    autores: "Guilherme Lovatti, Bernardo Matos, Eduardo Alves e Isaque Paulino"
-    descricao: ""
-    iframe: "https://www.youtube.com/embed/kR6tj-x5ymM"
-    github:
-
-  - nome: "Guardiã"
-    autores: "Daniela Pimentel, Samara de Oliveira e Vitória Fagundes"
-    descricao: ""
-    iframe: "https://www.youtube.com/embed/eL3L2kVPFOE"
-    github:
-
-  - nome: "Re-Circuito"
-    autores: "Daniel Moulin, Eduardo Ayres, Gabriel Tavares e João Paulo Pollesi"
-    descricao: ""
-    iframe: "https://www.youtube.com/embed/3s7kKSRUbMc"
-    github:
-
-  - nome: "ResolveAI"
-    autores: "André Siqueira, Anna Sandrini, Manuela Martinelli e João Vitor da Silva"
-    descricao: ""
-    iframe: "https://www.youtube.com/embed/d9Bw5SHGx30"
-    github:
-
-  - nome: "Vital Link"
-    autores: "Arthur de Angelo, Heitor Provetti e Igor Barbosa"
-    descricao: ""
-    iframe: "https://www.youtube.com/embed/F7bgbnYUhRE"
-    github:
-
-  - nome: "Identifica"
-    autores: "João Vitor Duarte e Luiz Miguel Dos Santos"
-    descricao: ""
-    iframe: "https://www.youtube.com/embed/2UZabUEi07M"
-    github:
-
-  - nome: "+energIA"
-    autores: "Arthur Souza, Caetano Salasar, Calebe Rezende e Vinícius Martins"
-    descricao: ""
-    iframe: "https://www.youtube.com/embed/sQ15N-88JFg"
     github:

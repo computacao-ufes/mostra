@@ -18,7 +18,13 @@
 projetos:
   - nome: "Academic Pinpoint"
     autores: "Rodolfo Reetz da Silva, Tiago Machado dos Santos, Victor Dutra de Jesus"
-    descricao: "Para um estudante, se manter constantemente atualizado e organizado em relação a editais, cursos, eventos, estágios e bolsas, etc…, durante sua formação pode ser bem desafiador. Ter de acessar uma grande quantidade de plataformas para procurar por informações pode ser um processo desgastante e ineficaz em muitos casos. O propósito do Academic Pinpoint é reunir e organizar informações dispersas em um único lugar, ajudando o estudante a descobrir novas oportunidades que possam potencializar sua vida acadêmica e profissional."
+    descricao: "Para um estudante, se manter constantemente atualizado e organizado em relação a editais, cursos, eventos, estágios e bolsas, etc., durante sua formação pode ser bem desafiador. Ter de acessar uma grande quantidade de plataformas para procurar por informações pode ser um processo desgastante e ineficaz em muitos casos. O propósito do Academic Pinpoint é reunir e organizar informações dispersas em um único lugar, ajudando o estudante a descobrir novas oportunidades que possam potencializar sua vida acadêmica e profissional."
+    iframe: "https://www.youtube.com/embed/"
+    github: ""
+
+  - nome: "Achados e Perdidos"
+    autores: "Bernardo Lima Seibert, Rafael Alves Gomes Lima"
+    descricao: "Sistema web em desenvolvimento para auxiliar a comunidade da Universidade Federal do Espírito Santo (UFES) na divulgação e recuperação de objetos perdidos ou encontrados no campus."
     iframe: "https://www.youtube.com/embed/"
     github: ""
 

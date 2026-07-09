@@ -34,50 +34,5 @@ projetos:
     iframe: "https://www.youtube.com/embed/sgTzB3lxUe4" 
     github:
 
-    - nome: "GRUPO 4: EcoCiclo"
-    autores: "Lorenzo A. Tottola, Julia L. dos Santos "
-    descricao: "Um dos principais obstáculos para a eficiência da reciclagem atual é a contaminação dos resíduos no momento do descarte, quando materiais diferentes são misturados pelo usuário. A EcoCiclo propõe uma solução por meio de uma lixeira automatizada que realiza a triagem e separação mecânica dos materiais de forma autônoma. O sistema integra-se à rede digital para identificar o usuário via CPF, convertendo o descarte validado em créditos e benefícios utilizáveis no comércio e nos serviços da própria região."
-    iframe: "https://www.youtube.com/embed/fSyNtQlfYP4" 
-    github:
-    
-    - nome: "GRUPO 5: Pertin"
-    autores: "Vitor Brigante, Isabela Freitas, Daniel Cantarella, Davi Saad"
-    descricao: "Aplicativo que ajuda pequenos negócios a ganharem visibilidade, simultaneamente entregando qualidade e preços baixos aos consumidores."
-    iframe: "https://www.youtube.com/embed/WU3lMNy1o1c" 
-    github:
-    
-    - nome: "GRUPO 6: SignLink"
-    autores: "Ana Luisa Scalzer, Heitor Januario, Vinicius Sant'Ana"
-    descricao: "Plataforma multimodal que utiliza a câmera do dispositivo para interpretar Libras e a fala humana simultaneamente e aumentar a acessibilidade para pessoas surdas."
-    iframe: "https://www.youtube.com/embed/uyC3kepIPms" 
-    github:
-
-    - nome: "GRUPO 7: Nanoplastic"
-    autores: "Diogo R. O. Bazani, Joel A. da Silva, Gabriel Henriques S. e Almeida"
-    descricao: "A Nanoplastic é uma startup que faz coleta de plástico dos oceanos. Através da coleta de plásticos descartados no fundo do oceano e da pré-filtragem do microplástico, coletamos e diminuímos os plásticos no litoral. Por meio de nanotecnologia reestruturamos o plástico, para que seja inserido novamente na sua cadeia. O plástico produzido será vendido para empresas que fazem impressão 3D de próteses de membros para pessoas com deficiência física no Brasil."
-    iframe: "https://www.youtube.com/embed/F68OdLmYd6s" 
-    github:
-    
-    - nome: "GRUPO 8: BateriaCerta"
-    autores: "Thiago Thibes, Rafael A. Fonseca, Murilo F. Marcelino"
-    descricao: "A nossa startup tem como o objetivo a reciclagem de pilas e baterias, através de um processo de reciclagem mais eficiente, capaz de recuperar matérias valiosos , apoiando a transição para uma economia mais circular."
-    iframe: "https://www.youtube.com/embed/Mwv6E2ycSHI" 
-    github:
-
-    - nome: "GRUPO 9: EnxergaFacil"
-    autores: "Lucas G. Lyra, Arthur Gabriel de S. Costa "
-    descricao: "A solução funciona em quatro etapas principais: primeiro, a câmera captura o ambiente à frente do usuário. Depois, a IA embarcada interpreta a imagem localmente. Em seguida, o sistema classifica o risco, como buracos, degraus ou objetos no caminho. Por fim, o usuário recebe um alerta simples por vibração ou som, indicando direção e proximidade do obstáculo."
-    iframe: "https://www.youtube.com/embed/aoIPVhEO98I" 
-    github:
-    
-    - nome: "GRUPO 10: SmartTrash"
-    autores: "Marcos Gabriel C. Surlo"
-    descricao: "Queremos que a SmartTrash deixe de ser apenas uma plataforma e se torne uma parceira estratégica das cidades inteligentes, fornecendo dados que tornem a gestão pública mais eficiente, econômica e sustentável."
-    iframe: "https://www.youtube.com/embed/4QUumMKbzq0" 
-    github:
-
-    - nome: "GRUPO 11: GreenChain"
-    autores: "Eduardo Evangelista, Marcos Brunetti, Nicolas Marques, Pedro Pavesi"
-    descricao: "GreenChain é uma startup que utiliza tecnologia blockchain para tornar o mercado de créditos de carbono mais transparente, seguro e confiável. Nossa plataforma registra todo o ciclo de vida dos créditos, reduzindo fraudes, eliminando a dupla contagem e facilitando auditorias em tempo quase real. Com o apoio de inteligência artificial, imagens de satélite e contratos inteligentes, buscamos fortalecer projetos ambientais, incentivar a descarbonização e promover um futuro mais sustentável."
     iframe: "https://www.youtube.com/embed/0RAKnvVkUXg" 
     github:

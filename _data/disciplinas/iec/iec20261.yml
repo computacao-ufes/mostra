@@ -16,7 +16,7 @@
 # IEC 2026/1
 ##############################################################
 projetos:
-  - nome: "GRUPO 1: InsightRoad "
+  - nome: "GRUPO 1: InsightRoad"
     autores: "Jean Agrizzi, Arthur M. Viana, Thalys M. de Sousa, Breno H. Rangel"
     descricao: "A InsightRoad é uma proposta de solução para os problemas de congestionamento de trânsito que investe em uma cidade mais inteligente para uma melhor vida urbaba"
     iframe: "https://www.youtube.com/embed/AFhmkPVWejA"

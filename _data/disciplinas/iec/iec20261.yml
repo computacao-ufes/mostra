@@ -70,9 +70,18 @@ projetos:
     iframe: "https://www.youtube.com/embed/aoIPVhEO98I"
     github:    
     
+  - nome: "GRUPO 10: SmartTrash"
+    autores: "Marcos Gabriel C. Surlo"
+    descricao: "Queremos que a SmartTrash deixe de ser apenas uma plataforma e se torne uma parceira estratégica das cidades inteligentes, fornecendo dados que tornem a gestão pública mais eficiente, econômica e sustentável."
+    iframe: "https://www.youtube.com/embed/4QUumMKbzq0"
+    github:
+
+  - nome: "GRUPO 11: GreenChain"
+    autores: "Eduardo Evangelista, Marcos Brunetti, Nicolas Marques, Pedro Pavesi"
+    descricao: "GreenChain é uma startup que utiliza tecnologia blockchain para tornar o mercado de créditos de carbono mais transparente, seguro e confiável. Nossa plataforma registra todo o ciclo de vida dos créditos, reduzindo fraudes, eliminando a dupla contagem e facilitando auditorias em tempo quase real. Com o apoio de inteligência artificial, imagens de satélite e contratos inteligentes, buscamos fortalecer projetos ambientais, incentivar a descarbonização e promover um futuro mais sustentável."
+    iframe: "https://www.youtube.com/embed/0RAKnvVkUXg"
+    github:
 
 
 
 
-
-    

@@ -16,6 +16,49 @@
 # PIC 2 EC 2026/1
 ##############################################################
 projetos:
+
+  - nome: "Mão Robótica e Assistente de Voz por IA - Mostra"
+    autores: "DEBORA AZEVEDO CAETANO, GABRIELA BUTERI BELMOCK, GESSICA DE SOUZA SILVA, MARCOS VINICIUS DE SOUZA SILVA"
+    descricao: "Mão Robótica e Assistente de Voz por IA para Tecnologias Assistivas"
+    iframe: "https://www.youtube.com/embed/cbeXX6q3l3s"
+    github:
+
+  - nome: "Robô Aspirador de Pó com Lidar - Mostra"
+    autores: "EDGARD DE SOUZA THEOTONIO, FELIPE SALA CARPES, KLARINE MENDONCA SILVA, YURI GROENER DA VICTORIA"
+    descricao: "Robô Aspirador de Pó Inteligente com Radar do Tipo Lidar"
+    iframe: "https://youtube.com/embed/dKMmIfNpP6s"
+    github:
+
+  - nome: "PetFeeder Automatizado - Mostra"
+    autores: "ANDRE GUIMARAES BARROS, ATHILA ARCHANJI RODRIGUES, BERNARDO VARGENS BROEDEL, Stefanio Soares Junior"
+    descricao: "PetFeeder Automatizado e Programável com uso de IA"
+    iframe: "https://youtube.com/embed/p7JceFS0M_4"
+    github:
+
+  - nome: "Separador e Classificador de Tampinhas - Mostra"
+    autores: "ANDRE SILVARES NEMER, DANIEL MOULIN DE ALMEIDA, LARISSA FERNANDES DA SILVA, RAFAEL SANTIAGO ALTOE"
+    descricao: "Separador e Classificador de Tampinhas de Garrafa Pet para ONGs de Proteção Animal"
+    iframe: "https://youtube.com/embed/XiD95cDjrz4"
+    github:
+
+  - nome: "Neolift - Controle de Acesso às Empilhadeiras - Mostra"
+    autores: "EDUARDO STEIN SALEME, GUILHERME AUGUSTO BARBOSA AMORIM, GUSTAVO BARCELOS DETTOGNI, JOAO PAULO SALAMON"
+    descricao: "Neolift - Controle de Acesso às Empilhadeiras por meio de Cartão RFID na Empresa Biancogres. Parceria com a Mantis Tecnologia e o Projeto ConneCT"
+    iframe: "https://youtube.com/embed/RSI5-GIpd5k"
+    github:
+
+  - nome: "Piano Laser Multi-instrumento - Mostra"
+    autores: "ARTUR NOACK DE SOUZA, EDUARDA TONINI FERRI, HEITOR PINHEIRO SOUSA, LUIZ GABRIEL FIGUEIREDO DE CARVALHO"
+    descricao: "Piano Laser com Controle de Tons e Timbres"
+    iframe: "https://youtube.com/embed/BMy-pFb8X3k"
+    github:
+
+  - nome: "Bartender Automatizado - Mostra"
+    autores: "ELISA MULLER SARMENTO, FILIPE DE BARROS CARNEIRO SILVA, PEDRO HENRIQUE MUNIZ CARVALHO, SOFIA MORAIS SARCINELLI"
+    descricao: "Bartender Automatizado e Personalizado com Controle via Web e Aplicativo"
+    iframe: "https://youtube.com/embed/o2Tc0gWcJac"
+    github:
+
   - nome: "Mão Robótica e Assistente de Voz por IA - Pitch"
     autores: "DEBORA AZEVEDO CAETANO, GABRIELA BUTERI BELMOCK, GESSICA DE SOUZA SILVA, MARCOS VINICIUS DE SOUZA SILVA"
     descricao: "Mão Robótica e Assistente de Voz por IA para Tecnologias Assistivas"

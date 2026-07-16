@@ -66,7 +66,7 @@ projetos:
 
   - nome: "PathUFES"
     autores: "Caio Costa Lopes, Daniel Olimpio Sbrocco, Miguel Zon Murad"
-    descricao: "Diversos alunos encontram percalços durante a graduação. Dentre elas está a indecisão e a dificuldade de escolher quais matérias cursar ao longo dos semestres e qual o caminho mais vantajoso para se formar. Com o intuito de mitigar esse problema, foi criado o "Path UFES", uma aplicação web que busca sugerir e exibir um caminho rápido, viável e eficiente para que, estudantes da graduação de Ciência da Computação da Universidade Federal do Espírito Santo (UFES), possam se matricular e futuramente formar sem preocupar com quais matérias devem buscar e/ou realizar primeiro ao longo do curso."
+    descricao: "Diversos alunos encontram percalços durante a graduação. Dentre elas está a indecisão e a dificuldade de escolher quais matérias cursar ao longo dos semestres e qual o caminho mais vantajoso para se formar. Com o intuito de mitigar esse problema, foi criado o Path UFES, uma aplicação web que busca sugerir e exibir um caminho rápido, viável e eficiente para que, estudantes da graduação de Ciência da Computação da Universidade Federal do Espírito Santo (UFES), possam se matricular e futuramente formar sem preocupar com quais matérias devem buscar e/ou realizar primeiro ao longo do curso."
     iframe: "https://www.youtube.com/embed/IVoLVV0cbPg?si=9755aT7i5HfZ_vyJ"
     github: "https://github.com/CaioCosta23/Path_UFES.git"
 

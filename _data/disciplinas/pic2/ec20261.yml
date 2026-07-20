@@ -21,68 +21,67 @@ projetos:
     autores: "DEBORA AZEVEDO CAETANO, GABRIELA BUTERI BELMOCK, GESSICA DE SOUZA SILVA, MARCOS VINICIUS DE SOUZA SILVA"
     descricao: "Mão Robótica e Assistente de Voz por IA para Tecnologias Assistivas"
     iframe: "https://www.youtube.com/embed/cbeXX6q3l3s"
-    github:
+    github: "https://github.com/computacao-ufes/pic2-20261-mao.git"
 
   - nome: "Robô Aspirador de Pó com Lidar - Mostra"
     autores: "EDGARD DE SOUZA THEOTONIO, FELIPE SALA CARPES, KLARINE MENDONCA SILVA, YURI GROENER DA VICTORIA"
     descricao: "Robô Aspirador de Pó Inteligente com Radar do Tipo Lidar"
     iframe: "https://youtube.com/embed/dKMmIfNpP6s"
-    github:
+    github: "https://github.com/computacao-ufes/pic2-20261-robot.git"
 
   - nome: "PetFeeder Automatizado - Mostra"
     autores: "ANDRE GUIMARAES BARROS, ATHILA ARCHANJI RODRIGUES, BERNARDO VARGENS BROEDEL, Stefanio Soares Junior"
     descricao: "PetFeeder Automatizado e Programável com uso de IA"
     iframe: "https://youtube.com/embed/p7JceFS0M_4"
-    github:
+    github: "https://github.com/computacao-ufes/pic2-20261-petfeeder.git"
 
   - nome: "Separador e Classificador de Tampinhas - Mostra"
     autores: "ANDRE SILVARES NEMER, DANIEL MOULIN DE ALMEIDA, LARISSA FERNANDES DA SILVA, RAFAEL SANTIAGO ALTOE"
     descricao: "Separador e Classificador de Tampinhas de Garrafa Pet para ONGs de Proteção Animal"
     iframe: "https://youtube.com/embed/XiD95cDjrz4"
-    github:
+    github: "https://github.com/computacao-ufes/pic2-20261-tampinhas.git"
 
   - nome: "Neolift - Controle de Acesso às Empilhadeiras - Mostra"
     autores: "EDUARDO STEIN SALEME, GUILHERME AUGUSTO BARBOSA AMORIM, GUSTAVO BARCELOS DETTOGNI, JOAO PAULO SALAMON"
     descricao: "Neolift - Controle de Acesso às Empilhadeiras por meio de Cartão RFID na Empresa Biancogres. Parceria com a Mantis Tecnologia e o Projeto ConneCT"
     iframe: "https://youtube.com/embed/RSI5-GIpd5k"
-    github:
+    github: "https://github.com/computacao-ufes/pic2-20261-neoLift.git"
 
   - nome: "Piano Laser Multi-instrumento - Mostra"
     autores: "ARTUR NOACK DE SOUZA, EDUARDA TONINI FERRI, HEITOR PINHEIRO SOUSA, LUIZ GABRIEL FIGUEIREDO DE CARVALHO"
     descricao: "Piano Laser com Controle de Tons e Timbres"
     iframe: "https://youtube.com/embed/BMy-pFb8X3k"
-    github:
+    github: "https://github.com/computacao-ufes/pic2-20261-tecladolaser.git"
 
   - nome: "Bartender Automatizado - Mostra"
     autores: "ELISA MULLER SARMENTO, FILIPE DE BARROS CARNEIRO SILVA, PEDRO HENRIQUE MUNIZ CARVALHO, SOFIA MORAIS SARCINELLI"
     descricao: "Bartender Automatizado e Personalizado com Controle via Web e Aplicativo"
     iframe: "https://youtube.com/embed/o2Tc0gWcJac"
-    github:
+    github: "https://github.com/computacao-ufes/pic2-20261-bart.git"
 
   - nome: "Mão Robótica e Assistente de Voz por IA - Pitch"
     autores: "DEBORA AZEVEDO CAETANO, GABRIELA BUTERI BELMOCK, GESSICA DE SOUZA SILVA, MARCOS VINICIUS DE SOUZA SILVA"
     descricao: "Mão Robótica e Assistente de Voz por IA para Tecnologias Assistivas"
     iframe: "https://www.youtube.com/embed/PHPICmxo08E"
-    github:
+    github: 
 
   - nome: "Robô Aspirador de Pó com Lidar - Pitch"
     autores: "EDGARD DE SOUZA THEOTONIO, FELIPE SALA CARPES, KLARINE MENDONCA SILVA, YURI GROENER DA VICTORIA"
     descricao: "Robô Aspirador de Pó Inteligente com Radar do Tipo Lidar"
     iframe: "https://www.youtube.com/embed/Iph4ZP7LgVw"
-    github:
+    github: 
 
   - nome: "PetFeeder Automatizado - Pitch"
     autores: "ANDRE GUIMARAES BARROS, ATHILA ARCHANJI RODRIGUES, BERNARDO VARGENS BROEDEL, Stefanio Soares Junior"
     descricao: "PetFeeder Automatizado e Programável com uso de IA"
     iframe: "https://www.youtube.com/embed/C-rMtXcV9NI"
-    github:
+    github: 
 
   - nome: "Separador e Classificador de Tampinhas - Pitch"
     autores: "ANDRE SILVARES NEMER, DANIEL MOULIN DE ALMEIDA, LARISSA FERNANDES DA SILVA, RAFAEL SANTIAGO ALTOE"
     descricao: "Separador e Classificador de Tampinhas de Garrafa Pet para ONGs de Proteção Animal"
     iframe: "https://www.youtube.com/embed/MaOEnb36ciA"
-    github:
-
+    github: 
   - nome: "Neolift - Controle de Acesso às Empilhadeiras - Pitch"
     autores: "EDUARDO STEIN SALEME, GUILHERME AUGUSTO BARBOSA AMORIM, GUSTAVO BARCELOS DETTOGNI, JOAO PAULO SALAMON"
     descricao: "Neolift - Controle de Acesso às Empilhadeiras por meio de Cartão RFID na Empresa Biancogres. Parceria com a Mantis Tecnologia e o Projeto ConneCT"

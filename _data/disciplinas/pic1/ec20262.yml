@@ -1,0 +1,78 @@
+#############
+# Para incluir uma nova caixa com as informações da mostra basta incluir um item novo como a seguir
+#############
+#    nome: "Super projeto"
+#    autores: "Jose, Joao e Joana"
+#    descricao: "Super projeto de PIC"
+#    iframe: "https://www.youtube.com/embed/Nf5gh8h"
+#    github: "https://github.com/meugithub/projeto"
+#############
+# Important:
+# O item github é opcional. Se deixar vazio ele não será utilizado
+# O iframe precisa ser o link com o embed
+#############
+
+##############################################################
+# PIC 1 EC 2026/2
+# ATENÇÃO: iframe e github ainda são placeholders (vídeos e repositórios pendentes)
+##############################################################
+projetos:
+  - nome: "Metrônomo Inteligente"
+    autores: "Arthur Viana, Lorenzo Tottola, Maurício Gomez"
+    descricao: 'Metrônomo embarcado com Arduino Uno R3 que gera a referência rítmica em BPM configurável por buzzer e, ao mesmo tempo, capta os ataques do instrumento com um microfone MAX4466. Cada ataque é comparado com o instante esperado da batida e classificado como adiantado, no tempo ou atrasado, com o resultado indicado por um LED RGB. O foco inicial são instrumentos com ataques bem definidos, como percussão, podendo ser testado também com cordas.'
+    iframe: "https://www.youtube.com/embed/PLACEHOLDER"
+    github: "https://github.com/PLACEHOLDER/PLACEHOLDER"
+
+  - nome: "Robô bombeiro"
+    autores: "Anna Dahra, Isabel Passamani, Manuela Borgo e Maria Julia Rigotti"
+    descricao: 'desenvolver um robô autônomo para detectar focos de incêndio, identificar a direção da chama, aproximar-se do alvo e realizar o combate com água, utilizando ESP 32 para controle dos componentes e monitoramento do sistema.'
+    iframe: "https://www.youtube.com/embed/PLACEHOLDER"
+    github: "https://github.com/PLACEHOLDER/PLACEHOLDER"
+
+  - nome: "RASTRO: Instalação Interativa sobre Vigilância"
+    autores: "Arthur Gabriel de Souza Costa, Lucas Grillo Lyra, Frederino José de Castro"
+    descricao: 'Instalação interativa que registra quem passa e mostra esse registro, na hora, para todo mundo, tornando visível a vigilância do dia a dia. Inspirado na obra Under Scan, de Rafael Lozano-Hemmer, o objeto usa um sensor de presença PIR conectado a um ESP32 que sinaliza cada detecção com LEDs, buzzer e um display LCD. O próprio ESP32 hospeda uma página web, acessada por QR code, que exibe em tempo real (via WebSocket) a lista pública de horários registrados, sincronizados por NTP.'
+    iframe: "https://www.youtube.com/embed/PLACEHOLDER"
+    github: "https://github.com/PLACEHOLDER/PLACEHOLDER"
+
+  - nome: "Robô Tamagotchi Interativo"
+    autores: "Pedro Pavesi, Eduardo Bennatti, Vitor Brigante"
+    descricao: 'Robô inspirado no conceito do Tamagotchi, capaz de responder ao usuário e ao ambiente. O robô apresenta três estados emocionais (sonolento, raivoso e alegre), representados por expressões em um visor, e é controlado por botões físicos para ligar/desligar e executar as ações de dormir, comer e brincar. Três sensores de proximidade detectam objetos ou pessoas próximas, e a movimentação é feita por duas rodas acionadas por motores DC controlados por ponte H, com LEDs complementando as respostas visuais e alimentação por pilhas.'
+    iframe: "https://www.youtube.com/embed/PLACEHOLDER"
+    github: "https://github.com/PLACEHOLDER/PLACEHOLDER"
+
+  - nome: "Fechadura Inteligente com Arduino e RFID"
+    autores: "Hélio Zocolotti Dórea, Gabriel Henriques Silva e Almeida, Nghala Cufade Na Guad, Pedro Emanuel de Oliveira Vial, Luiz Marcos Iglesias Carraretto"
+    descricao: 'Fechadura eletrônica controlada por Arduino que libera o acesso por meio de cartões e tags RFID cadastrados, substituindo a chave convencional. O leitor RC522 (13,56 MHz) envia o identificador único (UID) de cada tag ao Arduino, que o compara com a lista de tags autorizadas. Tags autorizadas acionam uma trava solenoide de 12 V; tentativas negadas geram alerta sonoro e visual. Para dar ou tirar acesso, basta cadastrar ou remover uma tag, sem trocar o miolo da fechadura.'
+    iframe: "https://www.youtube.com/embed/PLACEHOLDER"
+    github: "https://github.com/PLACEHOLDER/PLACEHOLDER"
+
+  - nome: "Estacionamento Inteligente com Monitoramento de Vagas em Tempo Real"
+    autores: "Daniel Schwartz Cantarella, Tiago Rosemberg Barcellos, Pedro Bindaco Olioza"
+    descricao: 'Protótipo de estacionamento inteligente em escala reduzida, capaz de detectar a ocupação das vagas e exibir em um monitor a quantidade de vagas disponíveis em tempo real. Cada vaga é monitorada individualmente por sensores ultrassônicos ligados a um microcontrolador, que classifica as vagas como livres ou ocupadas, contabiliza as disponíveis e atualiza a interface sempre que há mudança. LEDs indicam visualmente o estado individual de cada vaga.'
+    iframe: "https://www.youtube.com/embed/PLACEHOLDER"
+    github: "https://github.com/PLACEHOLDER/PLACEHOLDER"
+
+  - nome: "Sistema Inteligente de Gerenciamento de Estacionamento"
+    autores: "Daniel Castelar Gomes, Eduardo Vieira Alves, Isaque dos Santo Amorim Paulino"
+    descricao: 'Desenvolvimento de um protótipo de sistema de gerenciamento de estacionamento utilizando ESP32-CAM e visão computacional para detectar automaticamente o estado de vagas. O sistema processa as imagens em tempo real e exibe os resultados em um painel, contribuindo para soluções de mobilidade com baixo custoe fácil implementação.'
+    iframe: "https://www.youtube.com/embed/PLACEHOLDER"
+    github: "https://github.com/PLACEHOLDER/PLACEHOLDER"
+
+  - nome: "Water Tank Monitor"
+    autores: "João Vitor Scopel, Isabela Freitas, Davi Saad"
+    descricao: 'Dispositivo de baixo custo indicador da qualidade da água de caixas d''água residenciais, a partir da medição de turbidez, temperatura, pH e condutividade elétrica. Baseado em um ESP32, que hospeda seu próprio servidor web: o morador se conecta à rede Wi-Fi do equipamento para consultar as últimas leituras e o histórico pelo navegador do celular. Um display OLED local alterna as leituras e o estado do sistema, apoiando a inspeção e a limpeza preventiva da caixa d''água.'
+    iframe: "https://www.youtube.com/embed/PLACEHOLDER"
+    github: "https://github.com/PLACEHOLDER/PLACEHOLDER"
+
+  - nome: "Alimentador Pet Automático com Acionamento por Botão"
+    autores: "Stefânio Soares Junior"
+    descricao: 'Protótipo de alimentador automático para animais de estimação construído sobre uma maquete impressa em 3D, que abriga o reservatório de ração, a eletrônica e o prato. Um motor de passo NEMA 17, controlado por Arduino e driver ponte H L298N, gira o mecanismo que libera a ração ao pressionar um botão. Dois LEDs indicam o estado do sistema: verde enquanto a ração é despejada e vermelho em standby.'
+    iframe: "https://www.youtube.com/embed/PLACEHOLDER"
+    github: "https://github.com/PLACEHOLDER/PLACEHOLDER"
+
+  - nome: "Smart Bin"
+    autores: "Pedro Heraclito Klippel Amancio Pereira, Silas Tadeu Favalessa, Kevin Alexander Moreira Milliole"
+    descricao: 'Lixeira inteligente com características de dispositivo de smart home, capaz de identificar o percentual de sua capacidade utilizada. Um sensor ultrassônico HC-SR04 instalado sob a tampa, calibrado com o fundo da lixeira como referência, mede o nível do lixo, e um ESP32 processa as leituras. LEDs mudam de cor conforme o nível de preenchimento e um painel de texto informa a porcentagem ocupada e mensagens de aviso, como lixeira cheia ou sem sacola, facilitando o manejo em ambientes domésticos e coletivos.'
+    iframe: "https://www.youtube.com/embed/PLACEHOLDER"
+    github: "https://github.com/PLACEHOLDER/PLACEHOLDER"

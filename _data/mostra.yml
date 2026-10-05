@@ -15,6 +15,19 @@
 #############
 
 ##############################################################
+# MOSTRA 2026-2
+##############################################################
+2026-2:
+  - nome: "Projeto Integrado de Computação I"
+    curso: "Engenharia de Computação"
+    descricao: "Integração de Hardware e Software"
+    data: "A definir"
+    hora: "09h às 11h"
+    local: "CT-XII - Sala de Extensão"
+    linkprojetos: "/eventos/PIC1-EC-20262/"
+
+
+##############################################################
 # MOSTRA 2026-1
 ##############################################################
 2026-1:

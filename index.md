@@ -9,7 +9,7 @@ header:
       url: "/historico-eventos/"
 excerpt: "Projetos executados pelos estudantes de Ciência da Computação, Engenharia de Computação e Engenharia Elétrica"
 centro:   
-  - excerpt: "No dia **9 de julho de 2026 de 10h as 12h** acontece a próxima mostra de Computação e Tecnologia. Veja as diciplinas abaixo."  
+  - excerpt: "Em dezembro, data  a definir,  **de 9h as 12h** acontecerá a próxima mostra de Computação e Tecnologia. Veja as diciplinas abaixo."  
 ---
 
 {% include feature_row id="centro" type="center" %}

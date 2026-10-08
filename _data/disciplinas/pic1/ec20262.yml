@@ -72,7 +72,13 @@ projetos:
     github: "https://github.com/PLACEHOLDER/PLACEHOLDER"
 
   - nome: "Smart Bin"
-    autores: "Pedro Heraclito Klippel Amancio Pereira, Silas Tadeu Favalessa, Kevin Alexander Moreira Milliole"
+    autores: "Pedro Pereira, Silas Tadeu Favalessa, Kevin  Milliole"
     descricao: 'Lixeira inteligente com características de dispositivo de smart home, capaz de identificar o percentual de sua capacidade utilizada. Um sensor ultrassônico HC-SR04 instalado sob a tampa, calibrado com o fundo da lixeira como referência, mede o nível do lixo, e um ESP32 processa as leituras. LEDs mudam de cor conforme o nível de preenchimento e um painel de texto informa a porcentagem ocupada e mensagens de aviso, como lixeira cheia ou sem sacola, facilitando o manejo em ambientes domésticos e coletivos.'
+    iframe: "https://www.youtube.com/embed/PLACEHOLDER"
+    github: "https://github.com/PLACEHOLDER/PLACEHOLDER"
+
+  - nome: "Cabeça Erguida"
+    autores: "Eduardo Rinquier,João Victor Silva, Luiz Miguel, Diogo Bazani"
+    descricao: 'Um boné que vibra quando tem alguma coisa na frente do seu rosto.'
     iframe: "https://www.youtube.com/embed/PLACEHOLDER"
     github: "https://github.com/PLACEHOLDER/PLACEHOLDER"
